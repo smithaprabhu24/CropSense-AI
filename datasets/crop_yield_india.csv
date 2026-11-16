@@ -1,0 +1,2689 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area_Hectares,Production_Tonnes,Yield_Tonnes_Per_Hectare
+Karnataka,Bellary,2018,Kharif,Rice,14370.9,39807.4,2.77
+Karnataka,Bellary,2018,Rabi,Wheat,18958.6,91380.5,4.82
+Karnataka,Bellary,2018,Rabi,Maize,23471.4,91773.2,3.91
+Karnataka,Bellary,2018,Rabi,Cotton(lint),1962.0,3924.0,2.0
+Karnataka,Bellary,2018,Whole Year,Sugarcane,21831.4,1882521.6,86.23
+Karnataka,Bellary,2018,Kharif,Groundnut,5218.8,11585.7,2.22
+Karnataka,Bellary,2018,Rabi,Soyabean,10074.0,20853.2,2.07
+Karnataka,Bellary,2018,Kharif,Jowar,18840.9,19782.9,1.05
+Karnataka,Bellary,2018,Whole Year,Bajra,23760.0,31125.6,1.31
+Karnataka,Bellary,2018,Rabi,Ragi,16328.0,40493.4,2.48
+Karnataka,Bellary,2018,Whole Year,Turmeric,4353.5,30039.2,6.9
+Karnataka,Bellary,2018,Rabi,Onion,12679.8,163569.4,12.9
+Karnataka,Belgaum,2018,Whole Year,Rice,1257.4,2954.9,2.35
+Karnataka,Belgaum,2018,Rabi,Wheat,2578.6,12738.3,4.94
+Karnataka,Belgaum,2018,Kharif,Maize,19436.5,49951.8,2.57
+Karnataka,Belgaum,2018,Rabi,Cotton(lint),10135.0,20776.8,2.05
+Karnataka,Belgaum,2018,Whole Year,Sugarcane,20266.9,1858069.4,91.68
+Karnataka,Belgaum,2018,Rabi,Groundnut,20989.9,43029.3,2.05
+Karnataka,Belgaum,2018,Rabi,Soyabean,21456.8,41197.1,1.92
+Karnataka,Belgaum,2018,Rabi,Jowar,9959.3,19420.6,1.95
+Karnataka,Belgaum,2018,Whole Year,Bajra,14944.2,20324.1,1.36
+Karnataka,Belgaum,2018,Whole Year,Ragi,15327.5,36172.9,2.36
+Karnataka,Belgaum,2018,Whole Year,Turmeric,14562.7,92910.0,6.38
+Karnataka,Belgaum,2018,Kharif,Onion,17439.9,413325.6,23.7
+Karnataka,Davangere,2018,Whole Year,Rice,13166.4,48057.4,3.65
+Karnataka,Davangere,2018,Rabi,Wheat,6664.0,22924.2,3.44
+Karnataka,Davangere,2018,Rabi,Maize,21931.4,76979.2,3.51
+Karnataka,Davangere,2018,Kharif,Cotton(lint),8169.8,21813.4,2.67
+Karnataka,Davangere,2018,Whole Year,Sugarcane,22726.8,1764508.8,77.64
+Karnataka,Davangere,2018,Rabi,Groundnut,24322.3,35753.8,1.47
+Karnataka,Davangere,2018,Rabi,Soyabean,13183.0,24388.6,1.85
+Karnataka,Davangere,2018,Rabi,Jowar,15145.1,25746.7,1.7
+Karnataka,Davangere,2018,Kharif,Bajra,19323.7,32657.1,1.69
+Karnataka,Davangere,2018,Kharif,Ragi,20155.0,48170.5,2.39
+Karnataka,Davangere,2018,Whole Year,Turmeric,5154.2,37316.4,7.24
+Karnataka,Davangere,2018,Whole Year,Onion,13798.0,218698.3,15.85
+Karnataka,Dharwad,2018,Rabi,Rice,14752.9,38357.5,2.6
+Karnataka,Dharwad,2018,Rabi,Wheat,18252.5,89437.2,4.9
+Karnataka,Dharwad,2018,Whole Year,Maize,6552.2,23063.7,3.52
+Karnataka,Dharwad,2018,Whole Year,Cotton(lint),20844.5,34601.9,1.66
+Karnataka,Dharwad,2018,Whole Year,Sugarcane,16363.2,1225276.4,74.88
+Karnataka,Dharwad,2018,Kharif,Groundnut,10094.9,22208.8,2.2
+Karnataka,Dharwad,2018,Whole Year,Soyabean,11747.4,20910.4,1.78
+Karnataka,Dharwad,2018,Rabi,Jowar,15346.6,18415.9,1.2
+Karnataka,Dharwad,2018,Rabi,Bajra,20421.3,36349.9,1.78
+Karnataka,Dharwad,2018,Kharif,Ragi,2130.4,5453.8,2.56
+Karnataka,Dharwad,2018,Whole Year,Turmeric,6742.9,43694.0,6.48
+Karnataka,Dharwad,2018,Whole Year,Onion,14797.8,226850.3,15.33
+Andhra Pradesh,Nellore,2018,Kharif,Rice,24548.7,89357.3,3.64
+Andhra Pradesh,Nellore,2018,Rabi,Wheat,12494.2,38232.3,3.06
+Andhra Pradesh,Nellore,2018,Rabi,Maize,9978.7,26942.5,2.7
+Andhra Pradesh,Nellore,2018,Kharif,Cotton(lint),3511.5,8638.3,2.46
+Andhra Pradesh,Nellore,2018,Whole Year,Sugarcane,24857.7,1407940.1,56.64
+Andhra Pradesh,Nellore,2018,Kharif,Groundnut,7295.2,14371.5,1.97
+Andhra Pradesh,Nellore,2018,Rabi,Soyabean,3621.8,5468.9,1.51
+Andhra Pradesh,Nellore,2018,Whole Year,Jowar,17324.7,19923.4,1.15
+Andhra Pradesh,Nellore,2018,Whole Year,Bajra,14380.9,11648.5,0.81
+Andhra Pradesh,Nellore,2018,Rabi,Ragi,24432.5,59615.3,2.44
+Andhra Pradesh,Nellore,2018,Whole Year,Turmeric,7462.6,40745.8,5.46
+Andhra Pradesh,Nellore,2018,Kharif,Onion,15648.6,294976.1,18.85
+Andhra Pradesh,Kurnool,2018,Rabi,Rice,23232.4,69929.5,3.01
+Andhra Pradesh,Kurnool,2018,Rabi,Wheat,6290.9,17992.0,2.86
+Andhra Pradesh,Kurnool,2018,Whole Year,Maize,8259.6,23705.1,2.87
+Andhra Pradesh,Kurnool,2018,Rabi,Cotton(lint),5477.0,12378.0,2.26
+Andhra Pradesh,Kurnool,2018,Whole Year,Sugarcane,23884.6,1400831.8,58.65
+Andhra Pradesh,Kurnool,2018,Whole Year,Groundnut,15546.2,39798.3,2.56
+Andhra Pradesh,Kurnool,2018,Rabi,Soyabean,3551.8,5931.5,1.67
+Andhra Pradesh,Kurnool,2018,Rabi,Jowar,5913.9,8575.2,1.45
+Andhra Pradesh,Kurnool,2018,Kharif,Bajra,22351.2,38444.1,1.72
+Andhra Pradesh,Kurnool,2018,Rabi,Ragi,3131.0,5667.1,1.81
+Andhra Pradesh,Kurnool,2018,Whole Year,Turmeric,8058.1,54956.2,6.82
+Andhra Pradesh,Kurnool,2018,Whole Year,Onion,21314.9,369813.5,17.35
+Andhra Pradesh,Chittoor,2018,Kharif,Rice,2959.0,7072.0,2.39
+Andhra Pradesh,Chittoor,2018,Rabi,Wheat,17954.4,69304.0,3.86
+Andhra Pradesh,Chittoor,2018,Whole Year,Maize,22258.9,87922.7,3.95
+Andhra Pradesh,Chittoor,2018,Rabi,Cotton(lint),1064.2,2628.6,2.47
+Andhra Pradesh,Chittoor,2018,Whole Year,Sugarcane,5525.7,452720.6,81.93
+Andhra Pradesh,Chittoor,2018,Rabi,Groundnut,19844.9,38300.7,1.93
+Andhra Pradesh,Chittoor,2018,Rabi,Soyabean,1007.5,1974.7,1.96
+Andhra Pradesh,Chittoor,2018,Rabi,Jowar,21036.4,34289.3,1.63
+Andhra Pradesh,Chittoor,2018,Rabi,Bajra,4040.6,3555.7,0.88
+Andhra Pradesh,Chittoor,2018,Whole Year,Ragi,17240.3,29653.3,1.72
+Andhra Pradesh,Chittoor,2018,Whole Year,Turmeric,10398.2,55838.3,5.37
+Andhra Pradesh,Chittoor,2018,Rabi,Onion,10425.0,156270.8,14.99
+Andhra Pradesh,Guntur,2018,Rabi,Rice,22512.1,69112.1,3.07
+Andhra Pradesh,Guntur,2018,Rabi,Wheat,22004.4,112442.5,5.11
+Andhra Pradesh,Guntur,2018,Whole Year,Maize,23414.0,68134.7,2.91
+Andhra Pradesh,Guntur,2018,Whole Year,Cotton(lint),2085.0,5004.0,2.4
+Andhra Pradesh,Guntur,2018,Whole Year,Sugarcane,1036.0,80673.3,77.87
+Andhra Pradesh,Guntur,2018,Rabi,Groundnut,9833.8,18585.9,1.89
+Andhra Pradesh,Guntur,2018,Whole Year,Soyabean,11410.5,21337.6,1.87
+Andhra Pradesh,Guntur,2018,Rabi,Jowar,6745.7,7892.5,1.17
+Andhra Pradesh,Guntur,2018,Rabi,Bajra,22834.2,24204.3,1.06
+Andhra Pradesh,Guntur,2018,Kharif,Ragi,4629.3,12082.5,2.61
+Andhra Pradesh,Guntur,2018,Whole Year,Turmeric,16302.7,112488.6,6.9
+Andhra Pradesh,Guntur,2018,Kharif,Onion,21224.6,504084.2,23.75
+Telangana,Mahabubnagar,2018,Whole Year,Rice,22938.3,55281.3,2.41
+Telangana,Mahabubnagar,2018,Rabi,Wheat,17535.2,51202.8,2.92
+Telangana,Mahabubnagar,2018,Kharif,Maize,13368.7,39170.3,2.93
+Telangana,Mahabubnagar,2018,Kharif,Cotton(lint),7682.2,19973.7,2.6
+Telangana,Mahabubnagar,2018,Whole Year,Sugarcane,7323.6,671134.7,91.64
+Telangana,Mahabubnagar,2018,Kharif,Groundnut,10531.9,15060.6,1.43
+Telangana,Mahabubnagar,2018,Kharif,Soyabean,6179.5,9269.2,1.5
+Telangana,Mahabubnagar,2018,Kharif,Jowar,14528.9,26733.2,1.84
+Telangana,Mahabubnagar,2018,Whole Year,Bajra,4810.6,6494.3,1.35
+Telangana,Mahabubnagar,2018,Rabi,Ragi,22425.6,40590.3,1.81
+Telangana,Mahabubnagar,2018,Whole Year,Turmeric,20289.4,107128.0,5.28
+Telangana,Mahabubnagar,2018,Whole Year,Onion,2387.7,50786.4,21.27
+Telangana,Karimnagar,2018,Rabi,Rice,20523.6,53566.6,2.61
+Telangana,Karimnagar,2018,Rabi,Wheat,3541.4,13846.9,3.91
+Telangana,Karimnagar,2018,Rabi,Maize,18218.6,50283.3,2.76
+Telangana,Karimnagar,2018,Kharif,Cotton(lint),6518.3,9190.8,1.41
+Telangana,Karimnagar,2018,Whole Year,Sugarcane,21457.5,1837834.9,85.65
+Telangana,Karimnagar,2018,Whole Year,Groundnut,20426.0,38809.4,1.9
+Telangana,Karimnagar,2018,Kharif,Soyabean,10148.2,16034.2,1.58
+Telangana,Karimnagar,2018,Rabi,Jowar,4319.8,4579.0,1.06
+Telangana,Karimnagar,2018,Whole Year,Bajra,20939.9,28687.7,1.37
+Telangana,Karimnagar,2018,Rabi,Ragi,11828.9,24722.4,2.09
+Telangana,Karimnagar,2018,Whole Year,Turmeric,17900.1,131565.7,7.35
+Telangana,Karimnagar,2018,Kharif,Onion,16183.3,340658.5,21.05
+Telangana,Khammam,2018,Kharif,Rice,24580.0,61695.8,2.51
+Telangana,Khammam,2018,Rabi,Wheat,7536.5,30673.6,4.07
+Telangana,Khammam,2018,Rabi,Maize,17099.4,54205.1,3.17
+Telangana,Khammam,2018,Whole Year,Cotton(lint),18292.8,48293.0,2.64
+Telangana,Khammam,2018,Whole Year,Sugarcane,11932.2,965195.7,80.89
+Telangana,Khammam,2018,Whole Year,Groundnut,9171.4,18801.4,2.05
+Telangana,Khammam,2018,Whole Year,Soyabean,21021.9,38890.5,1.85
+Telangana,Khammam,2018,Rabi,Jowar,13325.0,18521.8,1.39
+Telangana,Khammam,2018,Whole Year,Bajra,21519.2,20012.9,0.93
+Telangana,Khammam,2018,Kharif,Ragi,5568.9,12697.1,2.28
+Telangana,Khammam,2018,Whole Year,Turmeric,9503.8,54076.6,5.69
+Telangana,Khammam,2018,Whole Year,Onion,22652.0,375796.7,16.59
+Telangana,Nizamabad,2018,Rabi,Rice,9653.8,28189.1,2.92
+Telangana,Nizamabad,2018,Rabi,Wheat,5368.2,15245.7,2.84
+Telangana,Nizamabad,2018,Rabi,Maize,19489.3,73669.6,3.78
+Telangana,Nizamabad,2018,Rabi,Cotton(lint),21697.3,54460.2,2.51
+Telangana,Nizamabad,2018,Whole Year,Sugarcane,18856.0,1526581.8,80.96
+Telangana,Nizamabad,2018,Rabi,Groundnut,10210.8,14295.1,1.4
+Telangana,Nizamabad,2018,Kharif,Soyabean,22639.8,38034.9,1.68
+Telangana,Nizamabad,2018,Rabi,Jowar,11925.6,17411.4,1.46
+Telangana,Nizamabad,2018,Kharif,Bajra,11850.8,14458.0,1.22
+Telangana,Nizamabad,2018,Kharif,Ragi,6511.5,11004.4,1.69
+Telangana,Nizamabad,2018,Whole Year,Turmeric,16180.6,79446.7,4.91
+Telangana,Nizamabad,2018,Rabi,Onion,1801.4,31668.6,17.58
+Tamil Nadu,Salem,2018,Whole Year,Rice,7701.8,31500.4,4.09
+Tamil Nadu,Salem,2018,Rabi,Wheat,14014.4,40641.8,2.9
+Tamil Nadu,Salem,2018,Rabi,Maize,2160.0,6609.6,3.06
+Tamil Nadu,Salem,2018,Rabi,Cotton(lint),23088.6,37634.4,1.63
+Tamil Nadu,Salem,2018,Whole Year,Sugarcane,24806.4,1509221.4,60.84
+Tamil Nadu,Salem,2018,Whole Year,Groundnut,14259.0,18251.5,1.28
+Tamil Nadu,Salem,2018,Whole Year,Soyabean,5858.0,11540.3,1.97
+Tamil Nadu,Salem,2018,Kharif,Jowar,11484.8,14930.2,1.3
+Tamil Nadu,Salem,2018,Whole Year,Bajra,11777.1,16723.5,1.42
+Tamil Nadu,Salem,2018,Rabi,Ragi,9515.2,24168.6,2.54
+Tamil Nadu,Salem,2018,Whole Year,Turmeric,14847.7,119227.0,8.03
+Tamil Nadu,Salem,2018,Rabi,Onion,11118.5,202023.1,18.17
+Tamil Nadu,Tirunelveli,2018,Whole Year,Rice,19593.0,76020.8,3.88
+Tamil Nadu,Tirunelveli,2018,Rabi,Wheat,14375.6,42551.8,2.96
+Tamil Nadu,Tirunelveli,2018,Kharif,Maize,23357.2,73341.6,3.14
+Tamil Nadu,Tirunelveli,2018,Whole Year,Cotton(lint),17999.6,43559.0,2.42
+Tamil Nadu,Tirunelveli,2018,Whole Year,Sugarcane,16062.5,975957.5,60.76
+Tamil Nadu,Tirunelveli,2018,Kharif,Groundnut,2783.1,4842.6,1.74
+Tamil Nadu,Tirunelveli,2018,Rabi,Soyabean,5895.8,8548.9,1.45
+Tamil Nadu,Tirunelveli,2018,Kharif,Jowar,23862.2,26964.3,1.13
+Tamil Nadu,Tirunelveli,2018,Whole Year,Bajra,5244.8,8391.7,1.6
+Tamil Nadu,Tirunelveli,2018,Kharif,Ragi,10959.3,24548.8,2.24
+Tamil Nadu,Tirunelveli,2018,Whole Year,Turmeric,24765.4,132247.2,5.34
+Tamil Nadu,Tirunelveli,2018,Kharif,Onion,4503.1,56063.6,12.45
+Tamil Nadu,Vellore,2018,Whole Year,Rice,12325.3,28964.5,2.35
+Tamil Nadu,Vellore,2018,Rabi,Wheat,11973.5,61663.5,5.15
+Tamil Nadu,Vellore,2018,Whole Year,Maize,12590.3,33238.4,2.64
+Tamil Nadu,Vellore,2018,Rabi,Cotton(lint),20386.4,38326.4,1.88
+Tamil Nadu,Vellore,2018,Whole Year,Sugarcane,18334.1,1281186.9,69.88
+Tamil Nadu,Vellore,2018,Rabi,Groundnut,23913.9,37305.7,1.56
+Tamil Nadu,Vellore,2018,Whole Year,Soyabean,13924.2,33278.8,2.39
+Tamil Nadu,Vellore,2018,Whole Year,Jowar,8599.7,14619.5,1.7
+Tamil Nadu,Vellore,2018,Whole Year,Bajra,4312.2,6382.1,1.48
+Tamil Nadu,Vellore,2018,Whole Year,Ragi,14949.6,35729.5,2.39
+Tamil Nadu,Vellore,2018,Whole Year,Turmeric,20251.6,154114.7,7.61
+Tamil Nadu,Vellore,2018,Kharif,Onion,6041.9,74134.1,12.27
+Tamil Nadu,Coimbatore,2018,Rabi,Rice,7168.6,31255.1,4.36
+Tamil Nadu,Coimbatore,2018,Rabi,Wheat,7863.9,40341.8,5.13
+Tamil Nadu,Coimbatore,2018,Rabi,Maize,1756.5,6165.3,3.51
+Tamil Nadu,Coimbatore,2018,Rabi,Cotton(lint),3109.2,5005.8,1.61
+Tamil Nadu,Coimbatore,2018,Whole Year,Sugarcane,5978.8,516209.6,86.34
+Tamil Nadu,Coimbatore,2018,Kharif,Groundnut,11876.5,16745.9,1.41
+Tamil Nadu,Coimbatore,2018,Kharif,Soyabean,17585.9,34468.4,1.96
+Tamil Nadu,Coimbatore,2018,Rabi,Jowar,18691.8,26168.5,1.4
+Tamil Nadu,Coimbatore,2018,Rabi,Bajra,7827.6,8140.7,1.04
+Tamil Nadu,Coimbatore,2018,Whole Year,Ragi,12288.8,33302.6,2.71
+Tamil Nadu,Coimbatore,2018,Whole Year,Turmeric,2124.9,12239.4,5.76
+Tamil Nadu,Coimbatore,2018,Kharif,Onion,11172.8,243343.6,21.78
+Maharashtra,Kolhapur,2018,Rabi,Rice,23471.1,57973.6,2.47
+Maharashtra,Kolhapur,2018,Rabi,Wheat,6274.2,30806.3,4.91
+Maharashtra,Kolhapur,2018,Rabi,Maize,23232.0,73645.4,3.17
+Maharashtra,Kolhapur,2018,Kharif,Cotton(lint),10430.3,27014.5,2.59
+Maharashtra,Kolhapur,2018,Whole Year,Sugarcane,7518.5,597119.3,79.42
+Maharashtra,Kolhapur,2018,Kharif,Groundnut,8734.7,17818.8,2.04
+Maharashtra,Kolhapur,2018,Whole Year,Soyabean,9732.8,14501.9,1.49
+Maharashtra,Kolhapur,2018,Kharif,Jowar,2516.6,4479.5,1.78
+Maharashtra,Kolhapur,2018,Kharif,Bajra,13739.1,17723.4,1.29
+Maharashtra,Kolhapur,2018,Kharif,Ragi,23392.2,59182.3,2.53
+Maharashtra,Kolhapur,2018,Whole Year,Turmeric,17585.9,89863.9,5.11
+Maharashtra,Kolhapur,2018,Kharif,Onion,551.1,7787.0,14.13
+Maharashtra,Nagpur,2018,Kharif,Rice,7639.9,31629.2,4.14
+Maharashtra,Nagpur,2018,Rabi,Wheat,17129.1,85645.5,5.0
+Maharashtra,Nagpur,2018,Whole Year,Maize,9252.6,32106.5,3.47
+Maharashtra,Nagpur,2018,Kharif,Cotton(lint),4547.9,8322.7,1.83
+Maharashtra,Nagpur,2018,Whole Year,Sugarcane,2949.3,279741.1,94.85
+Maharashtra,Nagpur,2018,Kharif,Groundnut,24710.5,50903.6,2.06
+Maharashtra,Nagpur,2018,Kharif,Soyabean,19843.8,47426.7,2.39
+Maharashtra,Nagpur,2018,Rabi,Jowar,3134.7,5046.9,1.61
+Maharashtra,Nagpur,2018,Whole Year,Bajra,21002.8,18272.4,0.87
+Maharashtra,Nagpur,2018,Whole Year,Ragi,7468.9,11800.9,1.58
+Maharashtra,Nagpur,2018,Whole Year,Turmeric,15351.1,85045.1,5.54
+Maharashtra,Nagpur,2018,Whole Year,Onion,19513.8,354760.9,18.18
+Maharashtra,Satara,2018,Rabi,Rice,15358.8,58056.3,3.78
+Maharashtra,Satara,2018,Rabi,Wheat,1284.8,6231.3,4.85
+Maharashtra,Satara,2018,Whole Year,Maize,4488.8,14813.0,3.3
+Maharashtra,Satara,2018,Rabi,Cotton(lint),9289.4,19600.6,2.11
+Maharashtra,Satara,2018,Whole Year,Sugarcane,7694.5,640413.2,83.23
+Maharashtra,Satara,2018,Rabi,Groundnut,10740.3,26850.8,2.5
+Maharashtra,Satara,2018,Rabi,Soyabean,16823.3,27422.0,1.63
+Maharashtra,Satara,2018,Rabi,Jowar,4143.7,4516.6,1.09
+Maharashtra,Satara,2018,Kharif,Bajra,1939.3,3258.0,1.68
+Maharashtra,Satara,2018,Kharif,Ragi,3138.0,6527.0,2.08
+Maharashtra,Satara,2018,Whole Year,Turmeric,4158.5,19919.2,4.79
+Maharashtra,Satara,2018,Rabi,Onion,17349.3,328769.2,18.95
+Maharashtra,Ahmednagar,2018,Whole Year,Rice,12299.1,38619.2,3.14
+Maharashtra,Ahmednagar,2018,Rabi,Wheat,23281.9,102440.4,4.4
+Maharashtra,Ahmednagar,2018,Whole Year,Maize,14026.9,49094.2,3.5
+Maharashtra,Ahmednagar,2018,Whole Year,Cotton(lint),5639.4,11617.2,2.06
+Maharashtra,Ahmednagar,2018,Whole Year,Sugarcane,1329.0,81414.5,61.26
+Maharashtra,Ahmednagar,2018,Kharif,Groundnut,8954.6,11372.3,1.27
+Maharashtra,Ahmednagar,2018,Rabi,Soyabean,10044.2,23001.2,2.29
+Maharashtra,Ahmednagar,2018,Rabi,Jowar,16629.1,22948.2,1.38
+Maharashtra,Ahmednagar,2018,Whole Year,Bajra,21633.1,27041.4,1.25
+Maharashtra,Ahmednagar,2018,Rabi,Ragi,18759.4,45397.7,2.42
+Maharashtra,Ahmednagar,2018,Whole Year,Turmeric,16630.9,138535.4,8.33
+Maharashtra,Ahmednagar,2018,Whole Year,Onion,21769.3,309341.8,14.21
+Punjab,Patiala,2018,Kharif,Rice,12428.9,55557.2,4.47
+Punjab,Patiala,2018,Rabi,Wheat,4130.1,20320.1,4.92
+Punjab,Patiala,2018,Kharif,Maize,13063.2,43631.1,3.34
+Punjab,Patiala,2018,Rabi,Cotton(lint),22729.0,54776.9,2.41
+Punjab,Patiala,2018,Whole Year,Sugarcane,10737.8,921625.4,85.83
+Punjab,Patiala,2018,Whole Year,Groundnut,9337.8,15687.5,1.68
+Punjab,Patiala,2018,Whole Year,Soyabean,9639.1,13494.7,1.4
+Punjab,Patiala,2018,Rabi,Jowar,19403.4,39971.0,2.06
+Punjab,Patiala,2018,Kharif,Bajra,5671.0,6408.2,1.13
+Punjab,Patiala,2018,Whole Year,Ragi,21515.5,53143.3,2.47
+Punjab,Patiala,2018,Whole Year,Turmeric,7199.4,43628.4,6.06
+Punjab,Patiala,2018,Whole Year,Onion,24844.0,480731.4,19.35
+Punjab,Bathinda,2018,Whole Year,Rice,5318.2,21113.3,3.97
+Punjab,Bathinda,2018,Rabi,Wheat,18416.1,53222.5,2.89
+Punjab,Bathinda,2018,Whole Year,Maize,14978.9,44786.9,2.99
+Punjab,Bathinda,2018,Rabi,Cotton(lint),1590.6,2974.4,1.87
+Punjab,Bathinda,2018,Whole Year,Sugarcane,10479.7,839214.4,80.08
+Punjab,Bathinda,2018,Kharif,Groundnut,12125.7,29465.5,2.43
+Punjab,Bathinda,2018,Rabi,Soyabean,22895.6,47393.9,2.07
+Punjab,Bathinda,2018,Kharif,Jowar,23115.7,43919.8,1.9
+Punjab,Bathinda,2018,Kharif,Bajra,11507.1,12657.8,1.1
+Punjab,Bathinda,2018,Whole Year,Ragi,21378.0,54727.7,2.56
+Punjab,Bathinda,2018,Whole Year,Turmeric,16876.6,115098.4,6.82
+Punjab,Bathinda,2018,Rabi,Onion,7001.5,128617.6,18.37
+Punjab,Firozepur,2018,Kharif,Rice,5934.1,24270.5,4.09
+Punjab,Firozepur,2018,Rabi,Wheat,6355.0,17857.5,2.81
+Punjab,Firozepur,2018,Kharif,Maize,23986.6,92588.3,3.86
+Punjab,Firozepur,2018,Rabi,Cotton(lint),13613.8,36212.7,2.66
+Punjab,Firozepur,2018,Whole Year,Sugarcane,23528.0,1309333.2,55.65
+Punjab,Firozepur,2018,Whole Year,Groundnut,19968.4,41933.6,2.1
+Punjab,Firozepur,2018,Rabi,Soyabean,19338.1,41190.2,2.13
+Punjab,Firozepur,2018,Rabi,Jowar,24727.3,28683.7,1.16
+Punjab,Firozepur,2018,Whole Year,Bajra,14032.8,22171.8,1.58
+Punjab,Firozepur,2018,Kharif,Ragi,23177.9,46587.6,2.01
+Punjab,Firozepur,2018,Whole Year,Turmeric,18280.2,95239.8,5.21
+Punjab,Firozepur,2018,Whole Year,Onion,5406.3,109315.4,20.22
+Punjab,Gurdaspur,2018,Kharif,Rice,8555.0,23611.8,2.76
+Punjab,Gurdaspur,2018,Rabi,Wheat,12256.7,37260.4,3.04
+Punjab,Gurdaspur,2018,Whole Year,Maize,18409.9,51363.6,2.79
+Punjab,Gurdaspur,2018,Rabi,Cotton(lint),16959.4,33579.6,1.98
+Punjab,Gurdaspur,2018,Whole Year,Sugarcane,22695.9,1433473.0,63.16
+Punjab,Gurdaspur,2018,Kharif,Groundnut,9355.0,21235.8,2.27
+Punjab,Gurdaspur,2018,Rabi,Soyabean,8082.6,16165.2,2.0
+Punjab,Gurdaspur,2018,Whole Year,Jowar,16156.1,15994.5,0.99
+Punjab,Gurdaspur,2018,Kharif,Bajra,21893.9,36124.9,1.65
+Punjab,Gurdaspur,2018,Kharif,Ragi,23862.8,37941.9,1.59
+Punjab,Gurdaspur,2018,Whole Year,Turmeric,19373.3,145880.9,7.53
+Punjab,Gurdaspur,2018,Rabi,Onion,24146.0,322590.6,13.36
+Madhya Pradesh,Indore,2018,Whole Year,Rice,3491.4,13057.8,3.74
+Madhya Pradesh,Indore,2018,Rabi,Wheat,7318.4,21955.2,3.0
+Madhya Pradesh,Indore,2018,Kharif,Maize,9154.4,28927.9,3.16
+Madhya Pradesh,Indore,2018,Kharif,Cotton(lint),13860.0,24255.0,1.75
+Madhya Pradesh,Indore,2018,Whole Year,Sugarcane,946.6,86670.7,91.56
+Madhya Pradesh,Indore,2018,Kharif,Groundnut,24807.0,35474.0,1.43
+Madhya Pradesh,Indore,2018,Rabi,Soyabean,4428.3,10185.1,2.3
+Madhya Pradesh,Indore,2018,Whole Year,Jowar,5257.2,10987.5,2.09
+Madhya Pradesh,Indore,2018,Whole Year,Bajra,9108.9,10384.1,1.14
+Madhya Pradesh,Indore,2018,Rabi,Ragi,19920.3,41035.8,2.06
+Madhya Pradesh,Indore,2018,Whole Year,Turmeric,20278.2,154114.3,7.6
+Madhya Pradesh,Indore,2018,Rabi,Onion,5702.8,81436.0,14.28
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Rice,12343.9,43820.8,3.55
+Madhya Pradesh,Hoshangabad,2018,Rabi,Wheat,17585.2,90387.9,5.14
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Maize,6055.4,21920.5,3.62
+Madhya Pradesh,Hoshangabad,2018,Rabi,Cotton(lint),14157.7,28881.7,2.04
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Sugarcane,8394.2,585495.5,69.75
+Madhya Pradesh,Hoshangabad,2018,Kharif,Groundnut,1391.3,2031.3,1.46
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Soyabean,9207.8,22927.4,2.49
+Madhya Pradesh,Hoshangabad,2018,Rabi,Jowar,16393.6,22951.0,1.4
+Madhya Pradesh,Hoshangabad,2018,Kharif,Bajra,24254.8,40263.0,1.66
+Madhya Pradesh,Hoshangabad,2018,Kharif,Ragi,3785.0,6131.7,1.62
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Turmeric,13252.6,100189.7,7.56
+Madhya Pradesh,Hoshangabad,2018,Whole Year,Onion,3826.4,68607.4,17.93
+Madhya Pradesh,Bhopal,2018,Whole Year,Rice,18284.6,54488.1,2.98
+Madhya Pradesh,Bhopal,2018,Rabi,Wheat,15811.2,45536.3,2.88
+Madhya Pradesh,Bhopal,2018,Whole Year,Maize,8268.1,25052.3,3.03
+Madhya Pradesh,Bhopal,2018,Rabi,Cotton(lint),7689.6,19993.0,2.6
+Madhya Pradesh,Bhopal,2018,Whole Year,Sugarcane,1845.4,123660.3,67.01
+Madhya Pradesh,Bhopal,2018,Kharif,Groundnut,17549.7,41066.3,2.34
+Madhya Pradesh,Bhopal,2018,Kharif,Soyabean,7376.4,17187.0,2.33
+Madhya Pradesh,Bhopal,2018,Kharif,Jowar,24390.7,32683.5,1.34
+Madhya Pradesh,Bhopal,2018,Rabi,Bajra,8055.4,8860.9,1.1
+Madhya Pradesh,Bhopal,2018,Kharif,Ragi,1140.6,2132.9,1.87
+Madhya Pradesh,Bhopal,2018,Whole Year,Turmeric,5027.0,24481.5,4.87
+Madhya Pradesh,Bhopal,2018,Kharif,Onion,23319.6,448435.9,19.23
+Madhya Pradesh,Ujjain,2018,Kharif,Rice,9382.0,22704.4,2.42
+Madhya Pradesh,Ujjain,2018,Rabi,Wheat,6972.9,25102.4,3.6
+Madhya Pradesh,Ujjain,2018,Kharif,Maize,4974.2,14226.2,2.86
+Madhya Pradesh,Ujjain,2018,Kharif,Cotton(lint),6172.2,11048.2,1.79
+Madhya Pradesh,Ujjain,2018,Whole Year,Sugarcane,21115.9,1626135.5,77.01
+Madhya Pradesh,Ujjain,2018,Whole Year,Groundnut,22867.8,29956.8,1.31
+Madhya Pradesh,Ujjain,2018,Whole Year,Soyabean,13948.9,28455.8,2.04
+Madhya Pradesh,Ujjain,2018,Whole Year,Jowar,13878.6,27618.4,1.99
+Madhya Pradesh,Ujjain,2018,Whole Year,Bajra,7789.9,13242.8,1.7
+Madhya Pradesh,Ujjain,2018,Kharif,Ragi,8141.4,21493.3,2.64
+Madhya Pradesh,Ujjain,2018,Whole Year,Turmeric,2777.7,16194.0,5.83
+Madhya Pradesh,Ujjain,2018,Whole Year,Onion,1775.3,22759.3,12.82
+Karnataka,Bangalore Rural,2019,Rabi,Rice,20332.8,63641.7,3.13
+Karnataka,Bangalore Rural,2019,Rabi,Wheat,3118.8,9917.8,3.18
+Karnataka,Bangalore Rural,2019,Whole Year,Maize,22428.1,65490.1,2.92
+Karnataka,Bangalore Rural,2019,Rabi,Cotton(lint),4625.3,10684.4,2.31
+Karnataka,Bangalore Rural,2019,Whole Year,Sugarcane,14440.9,1294915.5,89.67
+Karnataka,Bangalore Rural,2019,Whole Year,Groundnut,20400.1,37944.2,1.86
+Karnataka,Bangalore Rural,2019,Whole Year,Soyabean,17850.0,28381.5,1.59
+Karnataka,Bangalore Rural,2019,Whole Year,Jowar,12987.3,27143.5,2.09
+Karnataka,Bangalore Rural,2019,Kharif,Bajra,17194.6,28886.9,1.68
+Karnataka,Bangalore Rural,2019,Whole Year,Ragi,19969.2,50122.7,2.51
+Karnataka,Bangalore Rural,2019,Whole Year,Turmeric,5095.0,34085.6,6.69
+Karnataka,Bangalore Rural,2019,Kharif,Onion,11028.2,213506.0,19.36
+Karnataka,Belgaum,2019,Rabi,Rice,5215.6,17785.2,3.41
+Karnataka,Belgaum,2019,Rabi,Wheat,8934.6,33683.4,3.77
+Karnataka,Belgaum,2019,Whole Year,Maize,10582.8,36828.1,3.48
+Karnataka,Belgaum,2019,Rabi,Cotton(lint),6601.3,17163.4,2.6
+Karnataka,Belgaum,2019,Whole Year,Sugarcane,3553.9,255205.6,71.81
+Karnataka,Belgaum,2019,Whole Year,Groundnut,15328.8,18394.6,1.2
+Karnataka,Belgaum,2019,Kharif,Soyabean,10435.9,16801.8,1.61
+Karnataka,Belgaum,2019,Rabi,Jowar,17436.8,27724.5,1.59
+Karnataka,Belgaum,2019,Whole Year,Bajra,14715.0,26045.5,1.77
+Karnataka,Belgaum,2019,Kharif,Ragi,3745.0,5804.8,1.55
+Karnataka,Belgaum,2019,Whole Year,Turmeric,24954.6,186660.4,7.48
+Karnataka,Belgaum,2019,Whole Year,Onion,2268.9,37981.4,16.74
+Karnataka,Davangere,2019,Kharif,Rice,7275.5,17897.7,2.46
+Karnataka,Davangere,2019,Rabi,Wheat,569.0,1877.7,3.3
+Karnataka,Davangere,2019,Kharif,Maize,20834.3,52502.4,2.52
+Karnataka,Davangere,2019,Kharif,Cotton(lint),8863.2,17992.3,2.03
+Karnataka,Davangere,2019,Whole Year,Sugarcane,4101.2,331869.1,80.92
+Karnataka,Davangere,2019,Kharif,Groundnut,21785.6,36164.1,1.66
+Karnataka,Davangere,2019,Rabi,Soyabean,9778.8,19264.2,1.97
+Karnataka,Davangere,2019,Rabi,Jowar,11363.6,12954.5,1.14
+Karnataka,Davangere,2019,Whole Year,Bajra,4074.9,4849.1,1.19
+Karnataka,Davangere,2019,Kharif,Ragi,21813.8,57152.2,2.62
+Karnataka,Davangere,2019,Whole Year,Turmeric,16726.4,108052.5,6.46
+Karnataka,Davangere,2019,Rabi,Onion,11217.5,168599.0,15.03
+Karnataka,Shimoga,2019,Rabi,Rice,11857.8,27747.3,2.34
+Karnataka,Shimoga,2019,Rabi,Wheat,22278.9,65500.0,2.94
+Karnataka,Shimoga,2019,Rabi,Maize,13344.9,38033.0,2.85
+Karnataka,Shimoga,2019,Kharif,Cotton(lint),22092.0,35347.2,1.6
+Karnataka,Shimoga,2019,Whole Year,Sugarcane,7343.5,529099.2,72.05
+Karnataka,Shimoga,2019,Kharif,Groundnut,12094.2,27453.8,2.27
+Karnataka,Shimoga,2019,Kharif,Soyabean,14868.9,26466.6,1.78
+Karnataka,Shimoga,2019,Whole Year,Jowar,5995.7,6835.1,1.14
+Karnataka,Shimoga,2019,Rabi,Bajra,21067.0,37077.9,1.76
+Karnataka,Shimoga,2019,Rabi,Ragi,4431.2,7931.8,1.79
+Karnataka,Shimoga,2019,Whole Year,Turmeric,22667.8,103591.8,4.57
+Karnataka,Shimoga,2019,Kharif,Onion,16307.9,270874.2,16.61
+Andhra Pradesh,Nellore,2019,Rabi,Rice,18170.4,61779.4,3.4
+Andhra Pradesh,Nellore,2019,Rabi,Wheat,17402.7,60039.3,3.45
+Andhra Pradesh,Nellore,2019,Whole Year,Maize,13153.8,39856.0,3.03
+Andhra Pradesh,Nellore,2019,Rabi,Cotton(lint),997.3,2184.1,2.19
+Andhra Pradesh,Nellore,2019,Whole Year,Sugarcane,22177.8,1433794.8,64.65
+Andhra Pradesh,Nellore,2019,Rabi,Groundnut,6676.4,10281.7,1.54
+Andhra Pradesh,Nellore,2019,Whole Year,Soyabean,23318.6,54565.5,2.34
+Andhra Pradesh,Nellore,2019,Whole Year,Jowar,20075.4,30916.1,1.54
+Andhra Pradesh,Nellore,2019,Kharif,Bajra,15874.2,28256.1,1.78
+Andhra Pradesh,Nellore,2019,Kharif,Ragi,4152.9,6353.9,1.53
+Andhra Pradesh,Nellore,2019,Whole Year,Turmeric,19328.1,146507.0,7.58
+Andhra Pradesh,Nellore,2019,Rabi,Onion,14414.8,173265.9,12.02
+Andhra Pradesh,West Godavari,2019,Kharif,Rice,5090.6,19802.4,3.89
+Andhra Pradesh,West Godavari,2019,Rabi,Wheat,18161.6,69377.3,3.82
+Andhra Pradesh,West Godavari,2019,Whole Year,Maize,20212.5,70743.8,3.5
+Andhra Pradesh,West Godavari,2019,Whole Year,Cotton(lint),10347.9,26697.6,2.58
+Andhra Pradesh,West Godavari,2019,Whole Year,Sugarcane,15238.5,1181898.1,77.56
+Andhra Pradesh,West Godavari,2019,Kharif,Groundnut,9808.1,20302.8,2.07
+Andhra Pradesh,West Godavari,2019,Kharif,Soyabean,8455.5,19785.9,2.34
+Andhra Pradesh,West Godavari,2019,Rabi,Jowar,12048.9,14338.2,1.19
+Andhra Pradesh,West Godavari,2019,Rabi,Bajra,12582.2,15476.1,1.23
+Andhra Pradesh,West Godavari,2019,Whole Year,Ragi,902.6,1444.2,1.6
+Andhra Pradesh,West Godavari,2019,Whole Year,Turmeric,14346.4,72449.3,5.05
+Andhra Pradesh,West Godavari,2019,Rabi,Onion,21730.5,314223.0,14.46
+Andhra Pradesh,Chittoor,2019,Rabi,Rice,13607.0,53067.3,3.9
+Andhra Pradesh,Chittoor,2019,Rabi,Wheat,3014.1,15613.0,5.18
+Andhra Pradesh,Chittoor,2019,Whole Year,Maize,11311.4,30880.1,2.73
+Andhra Pradesh,Chittoor,2019,Whole Year,Cotton(lint),5756.1,11051.7,1.92
+Andhra Pradesh,Chittoor,2019,Whole Year,Sugarcane,1397.1,77497.1,55.47
+Andhra Pradesh,Chittoor,2019,Whole Year,Groundnut,10523.9,27256.9,2.59
+Andhra Pradesh,Chittoor,2019,Whole Year,Soyabean,14921.3,28201.3,1.89
+Andhra Pradesh,Chittoor,2019,Kharif,Jowar,2790.3,5608.5,2.01
+Andhra Pradesh,Chittoor,2019,Whole Year,Bajra,3410.1,5490.3,1.61
+Andhra Pradesh,Chittoor,2019,Whole Year,Ragi,13653.8,31676.8,2.32
+Andhra Pradesh,Chittoor,2019,Whole Year,Turmeric,19142.3,89586.0,4.68
+Andhra Pradesh,Chittoor,2019,Whole Year,Onion,7288.5,102039.0,14.0
+Andhra Pradesh,Anantapur,2019,Whole Year,Rice,18352.3,79465.5,4.33
+Andhra Pradesh,Anantapur,2019,Rabi,Wheat,12494.0,64718.9,5.18
+Andhra Pradesh,Anantapur,2019,Rabi,Maize,22243.0,59388.8,2.67
+Andhra Pradesh,Anantapur,2019,Whole Year,Cotton(lint),14780.5,39759.5,2.69
+Andhra Pradesh,Anantapur,2019,Whole Year,Sugarcane,7302.9,526393.0,72.08
+Andhra Pradesh,Anantapur,2019,Rabi,Groundnut,23399.0,52647.8,2.25
+Andhra Pradesh,Anantapur,2019,Whole Year,Soyabean,17550.5,25097.2,1.43
+Andhra Pradesh,Anantapur,2019,Kharif,Jowar,24527.3,38998.4,1.59
+Andhra Pradesh,Anantapur,2019,Whole Year,Bajra,7243.8,7026.5,0.97
+Andhra Pradesh,Anantapur,2019,Kharif,Ragi,6238.4,9731.9,1.56
+Andhra Pradesh,Anantapur,2019,Whole Year,Turmeric,4895.1,38230.7,7.81
+Andhra Pradesh,Anantapur,2019,Kharif,Onion,3749.4,65727.0,17.53
+Telangana,Nizamabad,2019,Kharif,Rice,3388.0,14568.4,4.3
+Telangana,Nizamabad,2019,Rabi,Wheat,5502.0,23713.6,4.31
+Telangana,Nizamabad,2019,Rabi,Maize,20951.3,67672.7,3.23
+Telangana,Nizamabad,2019,Whole Year,Cotton(lint),2050.1,5453.3,2.66
+Telangana,Nizamabad,2019,Whole Year,Sugarcane,12106.4,669483.9,55.3
+Telangana,Nizamabad,2019,Rabi,Groundnut,1360.7,1973.0,1.45
+Telangana,Nizamabad,2019,Rabi,Soyabean,3158.8,7075.7,2.24
+Telangana,Nizamabad,2019,Kharif,Jowar,2293.7,3211.2,1.4
+Telangana,Nizamabad,2019,Rabi,Bajra,6116.8,9848.0,1.61
+Telangana,Nizamabad,2019,Rabi,Ragi,17985.6,43705.0,2.43
+Telangana,Nizamabad,2019,Whole Year,Turmeric,22153.8,146658.2,6.62
+Telangana,Nizamabad,2019,Whole Year,Onion,22524.9,518297.9,23.01
+Telangana,Medak,2019,Rabi,Rice,22216.5,56874.2,2.56
+Telangana,Medak,2019,Rabi,Wheat,24931.8,101721.7,4.08
+Telangana,Medak,2019,Whole Year,Maize,5781.9,18849.0,3.26
+Telangana,Medak,2019,Kharif,Cotton(lint),15468.2,38825.2,2.51
+Telangana,Medak,2019,Whole Year,Sugarcane,7339.8,480096.3,65.41
+Telangana,Medak,2019,Kharif,Groundnut,23192.2,53805.9,2.32
+Telangana,Medak,2019,Kharif,Soyabean,5308.6,9183.9,1.73
+Telangana,Medak,2019,Whole Year,Jowar,11889.3,12008.2,1.01
+Telangana,Medak,2019,Whole Year,Bajra,3326.0,4955.7,1.49
+Telangana,Medak,2019,Kharif,Ragi,6128.6,14769.9,2.41
+Telangana,Medak,2019,Whole Year,Turmeric,23764.3,117633.3,4.95
+Telangana,Medak,2019,Rabi,Onion,10167.9,201324.4,19.8
+Telangana,Khammam,2019,Whole Year,Rice,18571.5,46614.5,2.51
+Telangana,Khammam,2019,Rabi,Wheat,13189.9,53946.7,4.09
+Telangana,Khammam,2019,Kharif,Maize,20074.1,58415.6,2.91
+Telangana,Khammam,2019,Kharif,Cotton(lint),12956.2,29151.5,2.25
+Telangana,Khammam,2019,Whole Year,Sugarcane,22168.3,1433402.3,64.66
+Telangana,Khammam,2019,Whole Year,Groundnut,2547.4,4942.0,1.94
+Telangana,Khammam,2019,Kharif,Soyabean,6861.6,12145.0,1.77
+Telangana,Khammam,2019,Kharif,Jowar,20788.7,19749.3,0.95
+Telangana,Khammam,2019,Rabi,Bajra,21331.0,21544.3,1.01
+Telangana,Khammam,2019,Kharif,Ragi,17620.0,28544.4,1.62
+Telangana,Khammam,2019,Whole Year,Turmeric,4121.6,25842.4,6.27
+Telangana,Khammam,2019,Rabi,Onion,18162.5,337096.0,18.56
+Telangana,Nalgonda,2019,Whole Year,Rice,19123.4,62342.3,3.26
+Telangana,Nalgonda,2019,Rabi,Wheat,17192.8,89058.7,5.18
+Telangana,Nalgonda,2019,Rabi,Maize,1234.0,4689.2,3.8
+Telangana,Nalgonda,2019,Kharif,Cotton(lint),19495.0,46203.2,2.37
+Telangana,Nalgonda,2019,Whole Year,Sugarcane,21640.7,1816087.5,83.92
+Telangana,Nalgonda,2019,Kharif,Groundnut,8401.2,18986.7,2.26
+Telangana,Nalgonda,2019,Whole Year,Soyabean,14853.1,22131.1,1.49
+Telangana,Nalgonda,2019,Kharif,Jowar,12279.1,22961.9,1.87
+Telangana,Nalgonda,2019,Rabi,Bajra,19699.4,26397.2,1.34
+Telangana,Nalgonda,2019,Rabi,Ragi,1902.6,4414.0,2.32
+Telangana,Nalgonda,2019,Whole Year,Turmeric,24231.8,111466.3,4.6
+Telangana,Nalgonda,2019,Kharif,Onion,24715.9,389275.4,15.75
+Tamil Nadu,Tirunelveli,2019,Rabi,Rice,6889.7,16535.3,2.4
+Tamil Nadu,Tirunelveli,2019,Rabi,Wheat,20412.8,86550.3,4.24
+Tamil Nadu,Tirunelveli,2019,Whole Year,Maize,13730.3,41053.6,2.99
+Tamil Nadu,Tirunelveli,2019,Whole Year,Cotton(lint),22801.2,34429.8,1.51
+Tamil Nadu,Tirunelveli,2019,Whole Year,Sugarcane,4805.3,410997.3,85.53
+Tamil Nadu,Tirunelveli,2019,Whole Year,Groundnut,15730.5,19820.4,1.26
+Tamil Nadu,Tirunelveli,2019,Rabi,Soyabean,11987.4,23495.3,1.96
+Tamil Nadu,Tirunelveli,2019,Rabi,Jowar,1143.2,1852.0,1.62
+Tamil Nadu,Tirunelveli,2019,Kharif,Bajra,16719.9,28256.6,1.69
+Tamil Nadu,Tirunelveli,2019,Rabi,Ragi,8961.1,17384.5,1.94
+Tamil Nadu,Tirunelveli,2019,Whole Year,Turmeric,9355.9,61374.7,6.56
+Tamil Nadu,Tirunelveli,2019,Whole Year,Onion,4174.0,68996.2,16.53
+Tamil Nadu,Coimbatore,2019,Kharif,Rice,6277.1,15943.8,2.54
+Tamil Nadu,Coimbatore,2019,Rabi,Wheat,7100.5,23786.7,3.35
+Tamil Nadu,Coimbatore,2019,Rabi,Maize,9554.4,24650.4,2.58
+Tamil Nadu,Coimbatore,2019,Rabi,Cotton(lint),20628.7,51571.8,2.5
+Tamil Nadu,Coimbatore,2019,Whole Year,Sugarcane,9695.5,549444.0,56.67
+Tamil Nadu,Coimbatore,2019,Whole Year,Groundnut,1464.7,2724.3,1.86
+Tamil Nadu,Coimbatore,2019,Rabi,Soyabean,5594.0,10348.9,1.85
+Tamil Nadu,Coimbatore,2019,Whole Year,Jowar,14177.4,23250.9,1.64
+Tamil Nadu,Coimbatore,2019,Kharif,Bajra,19423.0,30688.3,1.58
+Tamil Nadu,Coimbatore,2019,Whole Year,Ragi,5026.8,7942.3,1.58
+Tamil Nadu,Coimbatore,2019,Whole Year,Turmeric,7061.4,33118.0,4.69
+Tamil Nadu,Coimbatore,2019,Kharif,Onion,21698.7,326131.5,15.03
+Tamil Nadu,Thanjavur,2019,Whole Year,Rice,3544.5,12334.9,3.48
+Tamil Nadu,Thanjavur,2019,Rabi,Wheat,13467.6,37844.0,2.81
+Tamil Nadu,Thanjavur,2019,Whole Year,Maize,18465.5,76447.2,4.14
+Tamil Nadu,Thanjavur,2019,Whole Year,Cotton(lint),4847.4,13233.4,2.73
+Tamil Nadu,Thanjavur,2019,Whole Year,Sugarcane,12712.0,1172554.9,92.24
+Tamil Nadu,Thanjavur,2019,Whole Year,Groundnut,5249.5,11601.4,2.21
+Tamil Nadu,Thanjavur,2019,Kharif,Soyabean,13443.9,19762.5,1.47
+Tamil Nadu,Thanjavur,2019,Rabi,Jowar,6434.6,11003.2,1.71
+Tamil Nadu,Thanjavur,2019,Kharif,Bajra,17567.8,24946.3,1.42
+Tamil Nadu,Thanjavur,2019,Rabi,Ragi,18286.7,39865.0,2.18
+Tamil Nadu,Thanjavur,2019,Whole Year,Turmeric,16307.1,116921.9,7.17
+Tamil Nadu,Thanjavur,2019,Rabi,Onion,10487.2,145772.1,13.9
+Tamil Nadu,Madurai,2019,Kharif,Rice,22046.4,86862.8,3.94
+Tamil Nadu,Madurai,2019,Rabi,Wheat,3697.5,16749.7,4.53
+Tamil Nadu,Madurai,2019,Whole Year,Maize,11056.8,29632.2,2.68
+Tamil Nadu,Madurai,2019,Rabi,Cotton(lint),2513.1,6584.3,2.62
+Tamil Nadu,Madurai,2019,Whole Year,Sugarcane,20639.9,1376062.1,66.67
+Tamil Nadu,Madurai,2019,Whole Year,Groundnut,10052.1,17088.6,1.7
+Tamil Nadu,Madurai,2019,Rabi,Soyabean,19062.6,44797.1,2.35
+Tamil Nadu,Madurai,2019,Kharif,Jowar,5071.4,9382.1,1.85
+Tamil Nadu,Madurai,2019,Whole Year,Bajra,17055.9,19443.7,1.14
+Tamil Nadu,Madurai,2019,Whole Year,Ragi,5080.4,8890.7,1.75
+Tamil Nadu,Madurai,2019,Whole Year,Turmeric,21704.0,161043.7,7.42
+Tamil Nadu,Madurai,2019,Whole Year,Onion,2572.9,42530.0,16.53
+Maharashtra,Satara,2019,Whole Year,Rice,14604.9,59441.9,4.07
+Maharashtra,Satara,2019,Rabi,Wheat,12877.8,64389.0,5.0
+Maharashtra,Satara,2019,Kharif,Maize,18404.1,57604.8,3.13
+Maharashtra,Satara,2019,Whole Year,Cotton(lint),17586.5,37459.2,2.13
+Maharashtra,Satara,2019,Whole Year,Sugarcane,20845.2,1376200.1,66.02
+Maharashtra,Satara,2019,Whole Year,Groundnut,24325.7,45002.5,1.85
+Maharashtra,Satara,2019,Whole Year,Soyabean,2007.5,4336.2,2.16
+Maharashtra,Satara,2019,Kharif,Jowar,7597.6,12688.0,1.67
+Maharashtra,Satara,2019,Rabi,Bajra,6351.0,10923.7,1.72
+Maharashtra,Satara,2019,Kharif,Ragi,24258.4,62344.1,2.57
+Maharashtra,Satara,2019,Whole Year,Turmeric,5261.1,34723.3,6.6
+Maharashtra,Satara,2019,Whole Year,Onion,8219.3,168577.8,20.51
+Maharashtra,Solapur,2019,Rabi,Rice,18347.0,74488.8,4.06
+Maharashtra,Solapur,2019,Rabi,Wheat,20245.7,61142.0,3.02
+Maharashtra,Solapur,2019,Whole Year,Maize,15196.5,51516.1,3.39
+Maharashtra,Solapur,2019,Whole Year,Cotton(lint),22025.6,34580.2,1.57
+Maharashtra,Solapur,2019,Whole Year,Sugarcane,1684.1,158339.1,94.02
+Maharashtra,Solapur,2019,Kharif,Groundnut,15036.3,31275.5,2.08
+Maharashtra,Solapur,2019,Kharif,Soyabean,12568.2,19480.7,1.55
+Maharashtra,Solapur,2019,Whole Year,Jowar,8414.0,9844.4,1.17
+Maharashtra,Solapur,2019,Rabi,Bajra,21442.9,32593.2,1.52
+Maharashtra,Solapur,2019,Kharif,Ragi,22994.2,52886.7,2.3
+Maharashtra,Solapur,2019,Whole Year,Turmeric,12869.7,96908.8,7.53
+Maharashtra,Solapur,2019,Rabi,Onion,24789.8,325738.0,13.14
+Maharashtra,Kolhapur,2019,Whole Year,Rice,21530.3,85905.9,3.99
+Maharashtra,Kolhapur,2019,Rabi,Wheat,18147.0,73676.8,4.06
+Maharashtra,Kolhapur,2019,Kharif,Maize,761.5,2139.8,2.81
+Maharashtra,Kolhapur,2019,Kharif,Cotton(lint),24932.9,35903.4,1.44
+Maharashtra,Kolhapur,2019,Whole Year,Sugarcane,3115.3,268383.1,86.15
+Maharashtra,Kolhapur,2019,Kharif,Groundnut,13968.6,33105.6,2.37
+Maharashtra,Kolhapur,2019,Whole Year,Soyabean,23146.0,38653.8,1.67
+Maharashtra,Kolhapur,2019,Rabi,Jowar,8679.4,14407.8,1.66
+Maharashtra,Kolhapur,2019,Rabi,Bajra,6965.2,7522.4,1.08
+Maharashtra,Kolhapur,2019,Whole Year,Ragi,3432.7,8375.8,2.44
+Maharashtra,Kolhapur,2019,Whole Year,Turmeric,10680.0,48166.8,4.51
+Maharashtra,Kolhapur,2019,Whole Year,Onion,17163.0,286622.1,16.7
+Maharashtra,Pune,2019,Whole Year,Rice,19906.0,49964.1,2.51
+Maharashtra,Pune,2019,Rabi,Wheat,1919.7,6814.9,3.55
+Maharashtra,Pune,2019,Kharif,Maize,20308.6,80828.2,3.98
+Maharashtra,Pune,2019,Whole Year,Cotton(lint),19410.8,34939.4,1.8
+Maharashtra,Pune,2019,Whole Year,Sugarcane,13711.1,877921.7,64.03
+Maharashtra,Pune,2019,Rabi,Groundnut,13482.3,22650.3,1.68
+Maharashtra,Pune,2019,Kharif,Soyabean,14870.6,33161.4,2.23
+Maharashtra,Pune,2019,Rabi,Jowar,5270.3,9908.2,1.88
+Maharashtra,Pune,2019,Kharif,Bajra,23569.2,33232.6,1.41
+Maharashtra,Pune,2019,Whole Year,Ragi,4123.1,7462.8,1.81
+Maharashtra,Pune,2019,Whole Year,Turmeric,7238.0,42342.3,5.85
+Maharashtra,Pune,2019,Kharif,Onion,2759.5,64048.0,23.21
+Punjab,Ludhiana,2019,Whole Year,Rice,13634.6,59446.9,4.36
+Punjab,Ludhiana,2019,Rabi,Wheat,1549.9,5703.6,3.68
+Punjab,Ludhiana,2019,Kharif,Maize,19561.5,60053.8,3.07
+Punjab,Ludhiana,2019,Rabi,Cotton(lint),23422.0,46844.0,2.0
+Punjab,Ludhiana,2019,Whole Year,Sugarcane,24174.1,2048755.0,84.75
+Punjab,Ludhiana,2019,Whole Year,Groundnut,17495.3,23793.6,1.36
+Punjab,Ludhiana,2019,Kharif,Soyabean,10949.6,25512.6,2.33
+Punjab,Ludhiana,2019,Kharif,Jowar,23624.3,46067.4,1.95
+Punjab,Ludhiana,2019,Kharif,Bajra,13246.3,13246.3,1.0
+Punjab,Ludhiana,2019,Rabi,Ragi,10246.8,23465.2,2.29
+Punjab,Ludhiana,2019,Whole Year,Turmeric,20545.2,155116.3,7.55
+Punjab,Ludhiana,2019,Rabi,Onion,4272.8,74645.8,17.47
+Punjab,Patiala,2019,Rabi,Rice,23537.6,63316.1,2.69
+Punjab,Patiala,2019,Rabi,Wheat,23843.3,110632.9,4.64
+Punjab,Patiala,2019,Rabi,Maize,22488.6,69714.7,3.1
+Punjab,Patiala,2019,Rabi,Cotton(lint),12972.4,21534.2,1.66
+Punjab,Patiala,2019,Whole Year,Sugarcane,14515.0,1080206.3,74.42
+Punjab,Patiala,2019,Rabi,Groundnut,10899.6,21690.2,1.99
+Punjab,Patiala,2019,Kharif,Soyabean,15718.9,38982.9,2.48
+Punjab,Patiala,2019,Rabi,Jowar,7614.8,15686.5,2.06
+Punjab,Patiala,2019,Kharif,Bajra,6431.5,10933.5,1.7
+Punjab,Patiala,2019,Kharif,Ragi,19948.4,55456.6,2.78
+Punjab,Patiala,2019,Whole Year,Turmeric,19616.0,115145.9,5.87
+Punjab,Patiala,2019,Kharif,Onion,12183.7,243795.8,20.01
+Punjab,Firozepur,2019,Whole Year,Rice,18548.1,63434.5,3.42
+Punjab,Firozepur,2019,Rabi,Wheat,10482.7,34697.7,3.31
+Punjab,Firozepur,2019,Whole Year,Maize,9670.4,36070.6,3.73
+Punjab,Firozepur,2019,Kharif,Cotton(lint),3010.6,5780.4,1.92
+Punjab,Firozepur,2019,Whole Year,Sugarcane,17432.1,971316.6,55.72
+Punjab,Firozepur,2019,Kharif,Groundnut,12931.3,33492.1,2.59
+Punjab,Firozepur,2019,Whole Year,Soyabean,17834.9,40663.6,2.28
+Punjab,Firozepur,2019,Rabi,Jowar,14565.1,29421.5,2.02
+Punjab,Firozepur,2019,Whole Year,Bajra,24886.4,44546.7,1.79
+Punjab,Firozepur,2019,Whole Year,Ragi,20279.5,40964.6,2.02
+Punjab,Firozepur,2019,Whole Year,Turmeric,15147.3,102850.2,6.79
+Punjab,Firozepur,2019,Whole Year,Onion,10808.1,210649.9,19.49
+Punjab,Bathinda,2019,Rabi,Rice,21804.7,80895.4,3.71
+Punjab,Bathinda,2019,Rabi,Wheat,20841.9,90453.8,4.34
+Punjab,Bathinda,2019,Whole Year,Maize,18777.5,68537.9,3.65
+Punjab,Bathinda,2019,Rabi,Cotton(lint),2696.5,5743.5,2.13
+Punjab,Bathinda,2019,Whole Year,Sugarcane,4056.9,350272.7,86.34
+Punjab,Bathinda,2019,Whole Year,Groundnut,9910.4,25073.3,2.53
+Punjab,Bathinda,2019,Kharif,Soyabean,4099.8,8281.6,2.02
+Punjab,Bathinda,2019,Rabi,Jowar,1021.2,1531.8,1.5
+Punjab,Bathinda,2019,Rabi,Bajra,14452.3,22979.2,1.59
+Punjab,Bathinda,2019,Kharif,Ragi,23855.6,63455.9,2.66
+Punjab,Bathinda,2019,Whole Year,Turmeric,3154.7,24795.9,7.86
+Punjab,Bathinda,2019,Kharif,Onion,7713.6,105676.3,13.7
+Madhya Pradesh,Indore,2019,Rabi,Rice,15744.3,35424.7,2.25
+Madhya Pradesh,Indore,2019,Rabi,Wheat,14168.8,44915.1,3.17
+Madhya Pradesh,Indore,2019,Whole Year,Maize,3384.1,12859.6,3.8
+Madhya Pradesh,Indore,2019,Kharif,Cotton(lint),16227.4,26612.9,1.64
+Madhya Pradesh,Indore,2019,Whole Year,Sugarcane,5789.7,448528.1,77.47
+Madhya Pradesh,Indore,2019,Whole Year,Groundnut,6088.7,12481.8,2.05
+Madhya Pradesh,Indore,2019,Rabi,Soyabean,16918.6,34852.3,2.06
+Madhya Pradesh,Indore,2019,Rabi,Jowar,16429.6,32530.6,1.98
+Madhya Pradesh,Indore,2019,Whole Year,Bajra,3893.8,6619.5,1.7
+Madhya Pradesh,Indore,2019,Kharif,Ragi,20981.3,58328.0,2.78
+Madhya Pradesh,Indore,2019,Whole Year,Turmeric,20786.3,168161.2,8.09
+Madhya Pradesh,Indore,2019,Rabi,Onion,22238.4,298216.9,13.41
+Madhya Pradesh,Ujjain,2019,Kharif,Rice,22605.1,79117.8,3.5
+Madhya Pradesh,Ujjain,2019,Rabi,Wheat,11136.6,31962.0,2.87
+Madhya Pradesh,Ujjain,2019,Kharif,Maize,10452.7,39720.3,3.8
+Madhya Pradesh,Ujjain,2019,Whole Year,Cotton(lint),17075.6,34322.0,2.01
+Madhya Pradesh,Ujjain,2019,Whole Year,Sugarcane,7017.9,605925.5,86.34
+Madhya Pradesh,Ujjain,2019,Rabi,Groundnut,14536.4,24421.2,1.68
+Madhya Pradesh,Ujjain,2019,Whole Year,Soyabean,2283.7,5275.3,2.31
+Madhya Pradesh,Ujjain,2019,Kharif,Jowar,14264.0,26673.7,1.87
+Madhya Pradesh,Ujjain,2019,Kharif,Bajra,16964.3,25276.8,1.49
+Madhya Pradesh,Ujjain,2019,Kharif,Ragi,19279.0,49161.4,2.55
+Madhya Pradesh,Ujjain,2019,Whole Year,Turmeric,8185.5,47885.2,5.85
+Madhya Pradesh,Ujjain,2019,Kharif,Onion,6672.3,95413.9,14.3
+Madhya Pradesh,Jabalpur,2019,Rabi,Rice,10267.4,26079.2,2.54
+Madhya Pradesh,Jabalpur,2019,Rabi,Wheat,14896.5,69417.7,4.66
+Madhya Pradesh,Jabalpur,2019,Whole Year,Maize,7161.6,28861.2,4.03
+Madhya Pradesh,Jabalpur,2019,Kharif,Cotton(lint),20897.0,34062.1,1.63
+Madhya Pradesh,Jabalpur,2019,Whole Year,Sugarcane,18932.2,1042028.3,55.04
+Madhya Pradesh,Jabalpur,2019,Whole Year,Groundnut,21379.1,38696.2,1.81
+Madhya Pradesh,Jabalpur,2019,Rabi,Soyabean,22729.8,41595.5,1.83
+Madhya Pradesh,Jabalpur,2019,Kharif,Jowar,3361.2,6991.3,2.08
+Madhya Pradesh,Jabalpur,2019,Rabi,Bajra,12845.5,11304.0,0.88
+Madhya Pradesh,Jabalpur,2019,Whole Year,Ragi,5236.7,12044.4,2.3
+Madhya Pradesh,Jabalpur,2019,Whole Year,Turmeric,20677.2,161075.4,7.79
+Madhya Pradesh,Jabalpur,2019,Kharif,Onion,1673.9,21409.2,12.79
+Madhya Pradesh,Bhopal,2019,Whole Year,Rice,1871.7,6906.6,3.69
+Madhya Pradesh,Bhopal,2019,Rabi,Wheat,2462.6,10613.8,4.31
+Madhya Pradesh,Bhopal,2019,Kharif,Maize,21517.0,65626.8,3.05
+Madhya Pradesh,Bhopal,2019,Rabi,Cotton(lint),10490.9,17310.0,1.65
+Madhya Pradesh,Bhopal,2019,Whole Year,Sugarcane,15923.7,1000645.3,62.84
+Madhya Pradesh,Bhopal,2019,Whole Year,Groundnut,23760.9,49897.9,2.1
+Madhya Pradesh,Bhopal,2019,Whole Year,Soyabean,4019.4,8842.7,2.2
+Madhya Pradesh,Bhopal,2019,Kharif,Jowar,16118.8,19664.9,1.22
+Madhya Pradesh,Bhopal,2019,Rabi,Bajra,11295.9,15814.3,1.4
+Madhya Pradesh,Bhopal,2019,Rabi,Ragi,4476.7,10878.4,2.43
+Madhya Pradesh,Bhopal,2019,Whole Year,Turmeric,11501.1,58195.6,5.06
+Madhya Pradesh,Bhopal,2019,Rabi,Onion,19192.7,325124.3,16.94
+Karnataka,Bellary,2020,Whole Year,Rice,20067.3,78663.8,3.92
+Karnataka,Bellary,2020,Rabi,Wheat,12556.3,53992.1,4.3
+Karnataka,Bellary,2020,Rabi,Maize,23109.3,94054.9,4.07
+Karnataka,Bellary,2020,Kharif,Cotton(lint),14352.8,38896.1,2.71
+Karnataka,Bellary,2020,Whole Year,Sugarcane,2136.5,183974.0,86.11
+Karnataka,Bellary,2020,Kharif,Groundnut,10233.3,19750.3,1.93
+Karnataka,Bellary,2020,Whole Year,Soyabean,6938.6,17138.3,2.47
+Karnataka,Bellary,2020,Kharif,Jowar,5465.3,6449.1,1.18
+Karnataka,Bellary,2020,Kharif,Bajra,23877.7,26504.2,1.11
+Karnataka,Bellary,2020,Whole Year,Ragi,23300.0,41008.0,1.76
+Karnataka,Bellary,2020,Whole Year,Turmeric,22937.6,140148.7,6.11
+Karnataka,Bellary,2020,Rabi,Onion,13844.8,179290.2,12.95
+Karnataka,Shimoga,2020,Kharif,Rice,5520.5,24787.0,4.49
+Karnataka,Shimoga,2020,Rabi,Wheat,22737.1,100725.4,4.43
+Karnataka,Shimoga,2020,Kharif,Maize,15271.7,38179.2,2.5
+Karnataka,Shimoga,2020,Kharif,Cotton(lint),5862.3,11666.0,1.99
+Karnataka,Shimoga,2020,Whole Year,Sugarcane,20716.6,1951089.4,94.18
+Karnataka,Shimoga,2020,Rabi,Groundnut,3742.7,7073.7,1.89
+Karnataka,Shimoga,2020,Whole Year,Soyabean,24422.6,44204.9,1.81
+Karnataka,Shimoga,2020,Kharif,Jowar,5847.2,5788.7,0.99
+Karnataka,Shimoga,2020,Whole Year,Bajra,13857.1,15381.4,1.11
+Karnataka,Shimoga,2020,Whole Year,Ragi,1705.0,4688.8,2.75
+Karnataka,Shimoga,2020,Whole Year,Turmeric,21681.7,125537.0,5.79
+Karnataka,Shimoga,2020,Kharif,Onion,21671.0,336550.6,15.53
+Karnataka,Raichur,2020,Kharif,Rice,24340.4,58903.8,2.42
+Karnataka,Raichur,2020,Rabi,Wheat,7247.1,37612.4,5.19
+Karnataka,Raichur,2020,Kharif,Maize,11567.6,42337.4,3.66
+Karnataka,Raichur,2020,Kharif,Cotton(lint),10259.8,22058.6,2.15
+Karnataka,Raichur,2020,Whole Year,Sugarcane,23228.3,2118421.0,91.2
+Karnataka,Raichur,2020,Whole Year,Groundnut,19878.0,42340.1,2.13
+Karnataka,Raichur,2020,Kharif,Soyabean,22921.7,33924.1,1.48
+Karnataka,Raichur,2020,Kharif,Jowar,16157.0,31506.1,1.95
+Karnataka,Raichur,2020,Whole Year,Bajra,13638.0,13365.2,0.98
+Karnataka,Raichur,2020,Whole Year,Ragi,5237.9,11418.6,2.18
+Karnataka,Raichur,2020,Whole Year,Turmeric,24355.1,126403.0,5.19
+Karnataka,Raichur,2020,Whole Year,Onion,8833.4,193981.5,21.96
+Karnataka,Bangalore Rural,2020,Whole Year,Rice,17326.1,55616.8,3.21
+Karnataka,Bangalore Rural,2020,Rabi,Wheat,19068.0,93051.8,4.88
+Karnataka,Bangalore Rural,2020,Kharif,Maize,21931.0,75004.0,3.42
+Karnataka,Bangalore Rural,2020,Kharif,Cotton(lint),21277.9,35108.5,1.65
+Karnataka,Bangalore Rural,2020,Whole Year,Sugarcane,17197.5,1164958.6,67.74
+Karnataka,Bangalore Rural,2020,Kharif,Groundnut,8792.5,17585.0,2.0
+Karnataka,Bangalore Rural,2020,Rabi,Soyabean,24014.3,34340.4,1.43
+Karnataka,Bangalore Rural,2020,Whole Year,Jowar,14921.0,26261.0,1.76
+Karnataka,Bangalore Rural,2020,Rabi,Bajra,10368.1,17936.8,1.73
+Karnataka,Bangalore Rural,2020,Kharif,Ragi,11612.6,27986.4,2.41
+Karnataka,Bangalore Rural,2020,Whole Year,Turmeric,10365.2,85512.9,8.25
+Karnataka,Bangalore Rural,2020,Kharif,Onion,22557.7,411001.3,18.22
+Andhra Pradesh,West Godavari,2020,Kharif,Rice,9714.9,24578.7,2.53
+Andhra Pradesh,West Godavari,2020,Rabi,Wheat,16643.3,53425.0,3.21
+Andhra Pradesh,West Godavari,2020,Kharif,Maize,15914.8,48699.3,3.06
+Andhra Pradesh,West Godavari,2020,Kharif,Cotton(lint),2611.6,5092.6,1.95
+Andhra Pradesh,West Godavari,2020,Whole Year,Sugarcane,21899.5,1525081.2,69.64
+Andhra Pradesh,West Godavari,2020,Rabi,Groundnut,13707.3,25084.4,1.83
+Andhra Pradesh,West Godavari,2020,Kharif,Soyabean,17325.3,32051.8,1.85
+Andhra Pradesh,West Godavari,2020,Kharif,Jowar,18446.0,28222.4,1.53
+Andhra Pradesh,West Godavari,2020,Kharif,Bajra,2282.5,3127.0,1.37
+Andhra Pradesh,West Godavari,2020,Rabi,Ragi,14412.7,39779.1,2.76
+Andhra Pradesh,West Godavari,2020,Whole Year,Turmeric,18996.6,158051.7,8.32
+Andhra Pradesh,West Godavari,2020,Whole Year,Onion,14970.5,318422.5,21.27
+Andhra Pradesh,Chittoor,2020,Rabi,Rice,6262.9,22734.3,3.63
+Andhra Pradesh,Chittoor,2020,Rabi,Wheat,13775.5,64469.3,4.68
+Andhra Pradesh,Chittoor,2020,Kharif,Maize,23850.6,64873.6,2.72
+Andhra Pradesh,Chittoor,2020,Kharif,Cotton(lint),21346.4,53792.9,2.52
+Andhra Pradesh,Chittoor,2020,Whole Year,Sugarcane,23809.3,1968314.8,82.67
+Andhra Pradesh,Chittoor,2020,Kharif,Groundnut,16726.7,32784.3,1.96
+Andhra Pradesh,Chittoor,2020,Whole Year,Soyabean,15156.5,32738.0,2.16
+Andhra Pradesh,Chittoor,2020,Whole Year,Jowar,24242.1,40726.7,1.68
+Andhra Pradesh,Chittoor,2020,Rabi,Bajra,22121.0,25217.9,1.14
+Andhra Pradesh,Chittoor,2020,Whole Year,Ragi,15438.4,34273.2,2.22
+Andhra Pradesh,Chittoor,2020,Whole Year,Turmeric,2117.4,10248.2,4.84
+Andhra Pradesh,Chittoor,2020,Rabi,Onion,11570.7,214636.5,18.55
+Andhra Pradesh,Anantapur,2020,Rabi,Rice,24079.5,94632.4,3.93
+Andhra Pradesh,Anantapur,2020,Rabi,Wheat,1377.1,6017.9,4.37
+Andhra Pradesh,Anantapur,2020,Kharif,Maize,9245.0,25886.0,2.8
+Andhra Pradesh,Anantapur,2020,Whole Year,Cotton(lint),10340.5,20164.0,1.95
+Andhra Pradesh,Anantapur,2020,Whole Year,Sugarcane,5301.7,454673.8,85.76
+Andhra Pradesh,Anantapur,2020,Whole Year,Groundnut,5075.6,12739.8,2.51
+Andhra Pradesh,Anantapur,2020,Rabi,Soyabean,7235.1,16351.3,2.26
+Andhra Pradesh,Anantapur,2020,Whole Year,Jowar,2055.3,3391.2,1.65
+Andhra Pradesh,Anantapur,2020,Rabi,Bajra,12625.0,16791.2,1.33
+Andhra Pradesh,Anantapur,2020,Rabi,Ragi,13778.4,35961.6,2.61
+Andhra Pradesh,Anantapur,2020,Whole Year,Turmeric,14577.5,91109.4,6.25
+Andhra Pradesh,Anantapur,2020,Rabi,Onion,18104.2,250743.2,13.85
+Andhra Pradesh,Guntur,2020,Kharif,Rice,8342.8,29450.1,3.53
+Andhra Pradesh,Guntur,2020,Rabi,Wheat,12600.7,57963.2,4.6
+Andhra Pradesh,Guntur,2020,Whole Year,Maize,13537.4,49546.9,3.66
+Andhra Pradesh,Guntur,2020,Kharif,Cotton(lint),10265.5,17040.7,1.66
+Andhra Pradesh,Guntur,2020,Whole Year,Sugarcane,15817.4,1020222.3,64.5
+Andhra Pradesh,Guntur,2020,Kharif,Groundnut,17539.8,42797.1,2.44
+Andhra Pradesh,Guntur,2020,Whole Year,Soyabean,22420.6,40357.1,1.8
+Andhra Pradesh,Guntur,2020,Rabi,Jowar,9833.0,16126.1,1.64
+Andhra Pradesh,Guntur,2020,Whole Year,Bajra,11687.6,9817.6,0.84
+Andhra Pradesh,Guntur,2020,Whole Year,Ragi,3558.2,6618.3,1.86
+Andhra Pradesh,Guntur,2020,Whole Year,Turmeric,13773.4,104815.6,7.61
+Andhra Pradesh,Guntur,2020,Rabi,Onion,21385.8,325491.9,15.22
+Telangana,Khammam,2020,Whole Year,Rice,10154.6,25589.6,2.52
+Telangana,Khammam,2020,Rabi,Wheat,20748.5,88596.1,4.27
+Telangana,Khammam,2020,Kharif,Maize,16138.4,57775.5,3.58
+Telangana,Khammam,2020,Kharif,Cotton(lint),17246.4,42081.2,2.44
+Telangana,Khammam,2020,Whole Year,Sugarcane,21245.2,1839409.4,86.58
+Telangana,Khammam,2020,Kharif,Groundnut,21724.2,31934.6,1.47
+Telangana,Khammam,2020,Whole Year,Soyabean,23396.1,41411.1,1.77
+Telangana,Khammam,2020,Kharif,Jowar,6887.8,11847.0,1.72
+Telangana,Khammam,2020,Rabi,Bajra,5071.7,7911.9,1.56
+Telangana,Khammam,2020,Whole Year,Ragi,24739.8,52695.8,2.13
+Telangana,Khammam,2020,Whole Year,Turmeric,22891.9,134375.5,5.87
+Telangana,Khammam,2020,Kharif,Onion,24231.4,340693.5,14.06
+Telangana,Nalgonda,2020,Whole Year,Rice,5930.5,22535.9,3.8
+Telangana,Nalgonda,2020,Rabi,Wheat,8911.5,37963.0,4.26
+Telangana,Nalgonda,2020,Whole Year,Maize,9566.3,27550.9,2.88
+Telangana,Nalgonda,2020,Whole Year,Cotton(lint),3102.2,7414.3,2.39
+Telangana,Nalgonda,2020,Whole Year,Sugarcane,9546.2,534873.6,56.03
+Telangana,Nalgonda,2020,Whole Year,Groundnut,12496.0,19618.7,1.57
+Telangana,Nalgonda,2020,Rabi,Soyabean,23764.6,47766.8,2.01
+Telangana,Nalgonda,2020,Kharif,Jowar,15442.2,27950.4,1.81
+Telangana,Nalgonda,2020,Whole Year,Bajra,7539.0,7991.3,1.06
+Telangana,Nalgonda,2020,Kharif,Ragi,5256.9,12196.0,2.32
+Telangana,Nalgonda,2020,Whole Year,Turmeric,3439.5,24764.4,7.2
+Telangana,Nalgonda,2020,Whole Year,Onion,20696.1,266772.7,12.89
+Telangana,Medak,2020,Kharif,Rice,22890.1,81946.6,3.58
+Telangana,Medak,2020,Rabi,Wheat,4538.0,14884.6,3.28
+Telangana,Medak,2020,Whole Year,Maize,8673.6,25153.4,2.9
+Telangana,Medak,2020,Kharif,Cotton(lint),2607.2,4979.8,1.91
+Telangana,Medak,2020,Whole Year,Sugarcane,10166.0,595016.0,58.53
+Telangana,Medak,2020,Rabi,Groundnut,11615.1,19281.1,1.66
+Telangana,Medak,2020,Rabi,Soyabean,5456.3,8948.3,1.64
+Telangana,Medak,2020,Kharif,Jowar,9469.7,18560.6,1.96
+Telangana,Medak,2020,Rabi,Bajra,12158.5,20061.5,1.65
+Telangana,Medak,2020,Whole Year,Ragi,2885.8,7329.9,2.54
+Telangana,Medak,2020,Whole Year,Turmeric,11459.5,66121.3,5.77
+Telangana,Medak,2020,Kharif,Onion,24015.1,364789.4,15.19
+Telangana,Nizamabad,2020,Kharif,Rice,17579.6,64692.9,3.68
+Telangana,Nizamabad,2020,Rabi,Wheat,3173.1,16119.3,5.08
+Telangana,Nizamabad,2020,Kharif,Maize,1362.2,4222.8,3.1
+Telangana,Nizamabad,2020,Rabi,Cotton(lint),9881.8,21147.1,2.14
+Telangana,Nizamabad,2020,Whole Year,Sugarcane,24941.0,2066112.4,82.84
+Telangana,Nizamabad,2020,Whole Year,Groundnut,12085.7,15469.7,1.28
+Telangana,Nizamabad,2020,Whole Year,Soyabean,20955.3,46730.3,2.23
+Telangana,Nizamabad,2020,Kharif,Jowar,7156.2,7585.6,1.06
+Telangana,Nizamabad,2020,Whole Year,Bajra,13406.2,22254.3,1.66
+Telangana,Nizamabad,2020,Rabi,Ragi,10353.7,27540.8,2.66
+Telangana,Nizamabad,2020,Whole Year,Turmeric,23411.8,157561.4,6.73
+Telangana,Nizamabad,2020,Rabi,Onion,10694.0,250988.2,23.47
+Tamil Nadu,Vellore,2020,Rabi,Rice,13703.4,38917.7,2.84
+Tamil Nadu,Vellore,2020,Rabi,Wheat,21633.5,67712.9,3.13
+Tamil Nadu,Vellore,2020,Whole Year,Maize,8778.3,26949.4,3.07
+Tamil Nadu,Vellore,2020,Whole Year,Cotton(lint),22382.7,40065.0,1.79
+Tamil Nadu,Vellore,2020,Whole Year,Sugarcane,15988.2,1348125.0,84.32
+Tamil Nadu,Vellore,2020,Rabi,Groundnut,24131.1,55984.2,2.32
+Tamil Nadu,Vellore,2020,Rabi,Soyabean,19796.4,46125.6,2.33
+Tamil Nadu,Vellore,2020,Rabi,Jowar,4855.5,5098.3,1.05
+Tamil Nadu,Vellore,2020,Whole Year,Bajra,22806.9,40368.2,1.77
+Tamil Nadu,Vellore,2020,Whole Year,Ragi,10988.6,21208.0,1.93
+Tamil Nadu,Vellore,2020,Whole Year,Turmeric,3835.1,30297.3,7.9
+Tamil Nadu,Vellore,2020,Kharif,Onion,1550.4,33519.6,21.62
+Tamil Nadu,Thanjavur,2020,Rabi,Rice,16159.5,57366.2,3.55
+Tamil Nadu,Thanjavur,2020,Rabi,Wheat,22021.0,65402.4,2.97
+Tamil Nadu,Thanjavur,2020,Kharif,Maize,3712.6,14813.3,3.99
+Tamil Nadu,Thanjavur,2020,Kharif,Cotton(lint),20083.1,52617.7,2.62
+Tamil Nadu,Thanjavur,2020,Whole Year,Sugarcane,2196.4,121285.2,55.22
+Tamil Nadu,Thanjavur,2020,Rabi,Groundnut,12273.0,23686.9,1.93
+Tamil Nadu,Thanjavur,2020,Whole Year,Soyabean,16008.6,32177.3,2.01
+Tamil Nadu,Thanjavur,2020,Kharif,Jowar,17208.9,21339.0,1.24
+Tamil Nadu,Thanjavur,2020,Rabi,Bajra,21352.5,28185.3,1.32
+Tamil Nadu,Thanjavur,2020,Rabi,Ragi,9952.7,22990.7,2.31
+Tamil Nadu,Thanjavur,2020,Whole Year,Turmeric,18060.1,91745.3,5.08
+Tamil Nadu,Thanjavur,2020,Whole Year,Onion,24766.3,363321.6,14.67
+Tamil Nadu,Tirunelveli,2020,Rabi,Rice,22522.3,90314.4,4.01
+Tamil Nadu,Tirunelveli,2020,Rabi,Wheat,18124.3,63435.0,3.5
+Tamil Nadu,Tirunelveli,2020,Rabi,Maize,4167.8,10461.2,2.51
+Tamil Nadu,Tirunelveli,2020,Rabi,Cotton(lint),21226.1,59008.6,2.78
+Tamil Nadu,Tirunelveli,2020,Whole Year,Sugarcane,17740.3,1628027.3,91.77
+Tamil Nadu,Tirunelveli,2020,Rabi,Groundnut,5624.2,14285.5,2.54
+Tamil Nadu,Tirunelveli,2020,Whole Year,Soyabean,5851.7,13400.4,2.29
+Tamil Nadu,Tirunelveli,2020,Whole Year,Jowar,13812.4,25967.3,1.88
+Tamil Nadu,Tirunelveli,2020,Whole Year,Bajra,3776.3,6193.1,1.64
+Tamil Nadu,Tirunelveli,2020,Kharif,Ragi,5404.4,9133.4,1.69
+Tamil Nadu,Tirunelveli,2020,Whole Year,Turmeric,21108.6,95622.0,4.53
+Tamil Nadu,Tirunelveli,2020,Rabi,Onion,15789.7,200687.1,12.71
+Tamil Nadu,Salem,2020,Whole Year,Rice,698.8,1684.1,2.41
+Tamil Nadu,Salem,2020,Rabi,Wheat,6496.3,22282.3,3.43
+Tamil Nadu,Salem,2020,Kharif,Maize,5496.9,18909.3,3.44
+Tamil Nadu,Salem,2020,Rabi,Cotton(lint),1093.5,1782.4,1.63
+Tamil Nadu,Salem,2020,Whole Year,Sugarcane,12055.7,913219.3,75.75
+Tamil Nadu,Salem,2020,Kharif,Groundnut,16796.4,24354.8,1.45
+Tamil Nadu,Salem,2020,Kharif,Soyabean,22546.4,43514.6,1.93
+Tamil Nadu,Salem,2020,Rabi,Jowar,6878.3,14238.1,2.07
+Tamil Nadu,Salem,2020,Whole Year,Bajra,15879.5,20325.8,1.28
+Tamil Nadu,Salem,2020,Rabi,Ragi,4291.5,9613.0,2.24
+Tamil Nadu,Salem,2020,Whole Year,Turmeric,1301.0,6596.1,5.07
+Tamil Nadu,Salem,2020,Kharif,Onion,13017.7,277407.2,21.31
+Maharashtra,Solapur,2020,Kharif,Rice,18374.1,56959.7,3.1
+Maharashtra,Solapur,2020,Rabi,Wheat,13959.7,45229.4,3.24
+Maharashtra,Solapur,2020,Rabi,Maize,24028.6,86503.0,3.6
+Maharashtra,Solapur,2020,Kharif,Cotton(lint),2051.4,4841.3,2.36
+Maharashtra,Solapur,2020,Whole Year,Sugarcane,5358.9,463491.3,86.49
+Maharashtra,Solapur,2020,Whole Year,Groundnut,5823.1,11588.0,1.99
+Maharashtra,Solapur,2020,Whole Year,Soyabean,24182.2,59246.4,2.45
+Maharashtra,Solapur,2020,Kharif,Jowar,8482.7,9415.8,1.11
+Maharashtra,Solapur,2020,Whole Year,Bajra,23902.2,40872.8,1.71
+Maharashtra,Solapur,2020,Kharif,Ragi,18654.4,49434.2,2.65
+Maharashtra,Solapur,2020,Whole Year,Turmeric,23905.9,177620.8,7.43
+Maharashtra,Solapur,2020,Rabi,Onion,16602.6,315781.5,19.02
+Maharashtra,Nagpur,2020,Whole Year,Rice,7928.4,27511.5,3.47
+Maharashtra,Nagpur,2020,Rabi,Wheat,4024.9,19923.3,4.95
+Maharashtra,Nagpur,2020,Rabi,Maize,16506.3,60908.2,3.69
+Maharashtra,Nagpur,2020,Kharif,Cotton(lint),19839.1,51581.7,2.6
+Maharashtra,Nagpur,2020,Whole Year,Sugarcane,13734.0,931302.5,67.81
+Maharashtra,Nagpur,2020,Rabi,Groundnut,7036.1,9639.5,1.37
+Maharashtra,Nagpur,2020,Whole Year,Soyabean,16292.9,36007.3,2.21
+Maharashtra,Nagpur,2020,Rabi,Jowar,5862.2,10962.3,1.87
+Maharashtra,Nagpur,2020,Rabi,Bajra,6554.8,5374.9,0.82
+Maharashtra,Nagpur,2020,Rabi,Ragi,6895.4,12618.6,1.83
+Maharashtra,Nagpur,2020,Whole Year,Turmeric,20363.7,154764.1,7.6
+Maharashtra,Nagpur,2020,Whole Year,Onion,18029.5,241595.3,13.4
+Maharashtra,Pune,2020,Rabi,Rice,15288.4,63446.9,4.15
+Maharashtra,Pune,2020,Rabi,Wheat,14765.5,41491.1,2.81
+Maharashtra,Pune,2020,Whole Year,Maize,4771.1,12500.3,2.62
+Maharashtra,Pune,2020,Kharif,Cotton(lint),8612.2,20066.4,2.33
+Maharashtra,Pune,2020,Whole Year,Sugarcane,15099.4,1289337.8,85.39
+Maharashtra,Pune,2020,Rabi,Groundnut,18109.7,27164.6,1.5
+Maharashtra,Pune,2020,Whole Year,Soyabean,22436.9,39488.9,1.76
+Maharashtra,Pune,2020,Whole Year,Jowar,23805.3,48324.8,2.03
+Maharashtra,Pune,2020,Whole Year,Bajra,6454.2,6131.5,0.95
+Maharashtra,Pune,2020,Whole Year,Ragi,18942.4,30876.1,1.63
+Maharashtra,Pune,2020,Whole Year,Turmeric,19934.2,121399.3,6.09
+Maharashtra,Pune,2020,Whole Year,Onion,21643.0,402126.9,18.58
+Maharashtra,Nashik,2020,Kharif,Rice,1422.6,3272.0,2.3
+Maharashtra,Nashik,2020,Rabi,Wheat,19144.4,76003.3,3.97
+Maharashtra,Nashik,2020,Whole Year,Maize,22178.2,74962.3,3.38
+Maharashtra,Nashik,2020,Whole Year,Cotton(lint),21658.8,43534.2,2.01
+Maharashtra,Nashik,2020,Whole Year,Sugarcane,17248.1,1426935.3,82.73
+Maharashtra,Nashik,2020,Whole Year,Groundnut,17771.3,30566.6,1.72
+Maharashtra,Nashik,2020,Whole Year,Soyabean,9255.4,15364.0,1.66
+Maharashtra,Nashik,2020,Whole Year,Jowar,10161.5,9856.7,0.97
+Maharashtra,Nashik,2020,Kharif,Bajra,5448.9,5884.8,1.08
+Maharashtra,Nashik,2020,Rabi,Ragi,6289.0,12578.0,2.0
+Maharashtra,Nashik,2020,Whole Year,Turmeric,2509.2,17037.5,6.79
+Maharashtra,Nashik,2020,Whole Year,Onion,8358.0,146432.2,17.52
+Punjab,Firozepur,2020,Kharif,Rice,19584.1,72069.5,3.68
+Punjab,Firozepur,2020,Rabi,Wheat,4603.3,23108.6,5.02
+Punjab,Firozepur,2020,Whole Year,Maize,18857.3,68452.0,3.63
+Punjab,Firozepur,2020,Kharif,Cotton(lint),7918.4,16391.1,2.07
+Punjab,Firozepur,2020,Whole Year,Sugarcane,16517.0,1394034.8,84.4
+Punjab,Firozepur,2020,Kharif,Groundnut,1888.9,4438.9,2.35
+Punjab,Firozepur,2020,Kharif,Soyabean,14625.5,36417.5,2.49
+Punjab,Firozepur,2020,Kharif,Jowar,5655.2,9104.9,1.61
+Punjab,Firozepur,2020,Kharif,Bajra,15413.1,14180.1,0.92
+Punjab,Firozepur,2020,Rabi,Ragi,1686.2,2866.5,1.7
+Punjab,Firozepur,2020,Whole Year,Turmeric,4218.8,22486.2,5.33
+Punjab,Firozepur,2020,Kharif,Onion,21734.9,501858.8,23.09
+Punjab,Bathinda,2020,Rabi,Rice,10547.7,41452.5,3.93
+Punjab,Bathinda,2020,Rabi,Wheat,3921.1,12077.0,3.08
+Punjab,Bathinda,2020,Whole Year,Maize,16999.2,45897.8,2.7
+Punjab,Bathinda,2020,Rabi,Cotton(lint),10366.1,16378.4,1.58
+Punjab,Bathinda,2020,Whole Year,Sugarcane,4927.3,294849.6,59.84
+Punjab,Bathinda,2020,Whole Year,Groundnut,1282.0,1782.0,1.39
+Punjab,Bathinda,2020,Rabi,Soyabean,16712.1,40443.3,2.42
+Punjab,Bathinda,2020,Rabi,Jowar,23343.9,26612.0,1.14
+Punjab,Bathinda,2020,Whole Year,Bajra,18795.9,18983.9,1.01
+Punjab,Bathinda,2020,Rabi,Ragi,14511.2,29893.1,2.06
+Punjab,Bathinda,2020,Whole Year,Turmeric,8764.2,58194.3,6.64
+Punjab,Bathinda,2020,Whole Year,Onion,4881.5,96702.5,19.81
+Punjab,Ludhiana,2020,Whole Year,Rice,20375.9,81299.8,3.99
+Punjab,Ludhiana,2020,Rabi,Wheat,3038.9,14070.1,4.63
+Punjab,Ludhiana,2020,Rabi,Maize,4815.4,12760.8,2.65
+Punjab,Ludhiana,2020,Kharif,Cotton(lint),19851.0,46848.4,2.36
+Punjab,Ludhiana,2020,Whole Year,Sugarcane,15821.0,959069.0,60.62
+Punjab,Ludhiana,2020,Rabi,Groundnut,21566.2,43348.1,2.01
+Punjab,Ludhiana,2020,Rabi,Soyabean,24558.6,38557.0,1.57
+Punjab,Ludhiana,2020,Rabi,Jowar,9701.6,8925.5,0.92
+Punjab,Ludhiana,2020,Whole Year,Bajra,5244.5,8653.4,1.65
+Punjab,Ludhiana,2020,Rabi,Ragi,18178.6,47082.6,2.59
+Punjab,Ludhiana,2020,Whole Year,Turmeric,2117.4,15817.0,7.47
+Punjab,Ludhiana,2020,Whole Year,Onion,530.3,12287.1,23.17
+Punjab,Amritsar,2020,Whole Year,Rice,16840.3,60119.9,3.57
+Punjab,Amritsar,2020,Rabi,Wheat,3641.0,16275.3,4.47
+Punjab,Amritsar,2020,Rabi,Maize,20675.6,78980.8,3.82
+Punjab,Amritsar,2020,Kharif,Cotton(lint),24237.7,38053.2,1.57
+Punjab,Amritsar,2020,Whole Year,Sugarcane,7248.8,521551.2,71.95
+Punjab,Amritsar,2020,Rabi,Groundnut,13967.5,27376.3,1.96
+Punjab,Amritsar,2020,Rabi,Soyabean,8020.2,19408.9,2.42
+Punjab,Amritsar,2020,Kharif,Jowar,21235.4,25694.8,1.21
+Punjab,Amritsar,2020,Kharif,Bajra,22258.5,35168.4,1.58
+Punjab,Amritsar,2020,Kharif,Ragi,3950.7,8415.0,2.13
+Punjab,Amritsar,2020,Whole Year,Turmeric,1818.5,9074.3,4.99
+Punjab,Amritsar,2020,Whole Year,Onion,4467.9,65990.9,14.77
+Madhya Pradesh,Indore,2020,Whole Year,Rice,15675.9,50476.4,3.22
+Madhya Pradesh,Indore,2020,Rabi,Wheat,18177.9,54533.7,3.0
+Madhya Pradesh,Indore,2020,Rabi,Maize,21618.1,54910.0,2.54
+Madhya Pradesh,Indore,2020,Kharif,Cotton(lint),3684.7,9580.2,2.6
+Madhya Pradesh,Indore,2020,Whole Year,Sugarcane,13510.7,1253928.1,92.81
+Madhya Pradesh,Indore,2020,Kharif,Groundnut,8888.6,13955.1,1.57
+Madhya Pradesh,Indore,2020,Kharif,Soyabean,20780.3,44677.6,2.15
+Madhya Pradesh,Indore,2020,Whole Year,Jowar,685.6,1192.9,1.74
+Madhya Pradesh,Indore,2020,Rabi,Bajra,1293.4,1112.3,0.86
+Madhya Pradesh,Indore,2020,Kharif,Ragi,15595.4,41795.7,2.68
+Madhya Pradesh,Indore,2020,Whole Year,Turmeric,10435.7,67727.7,6.49
+Madhya Pradesh,Indore,2020,Whole Year,Onion,11561.1,197463.6,17.08
+Madhya Pradesh,Hoshangabad,2020,Rabi,Rice,15761.2,48071.7,3.05
+Madhya Pradesh,Hoshangabad,2020,Rabi,Wheat,14958.0,69853.9,4.67
+Madhya Pradesh,Hoshangabad,2020,Rabi,Maize,9613.3,30954.8,3.22
+Madhya Pradesh,Hoshangabad,2020,Kharif,Cotton(lint),23671.4,41425.0,1.75
+Madhya Pradesh,Hoshangabad,2020,Whole Year,Sugarcane,21118.7,1277047.8,60.47
+Madhya Pradesh,Hoshangabad,2020,Rabi,Groundnut,11812.8,14175.4,1.2
+Madhya Pradesh,Hoshangabad,2020,Kharif,Soyabean,14096.1,31716.2,2.25
+Madhya Pradesh,Hoshangabad,2020,Whole Year,Jowar,3504.6,4030.3,1.15
+Madhya Pradesh,Hoshangabad,2020,Whole Year,Bajra,19917.0,26888.0,1.35
+Madhya Pradesh,Hoshangabad,2020,Kharif,Ragi,11508.5,21405.8,1.86
+Madhya Pradesh,Hoshangabad,2020,Whole Year,Turmeric,23608.6,152511.6,6.46
+Madhya Pradesh,Hoshangabad,2020,Rabi,Onion,13148.9,243649.1,18.53
+Madhya Pradesh,Bhopal,2020,Whole Year,Rice,2887.0,11172.7,3.87
+Madhya Pradesh,Bhopal,2020,Rabi,Wheat,9473.0,28987.4,3.06
+Madhya Pradesh,Bhopal,2020,Whole Year,Maize,1246.8,4638.1,3.72
+Madhya Pradesh,Bhopal,2020,Rabi,Cotton(lint),17755.4,36398.6,2.05
+Madhya Pradesh,Bhopal,2020,Whole Year,Sugarcane,5289.4,299909.0,56.7
+Madhya Pradesh,Bhopal,2020,Rabi,Groundnut,2990.8,3828.2,1.28
+Madhya Pradesh,Bhopal,2020,Whole Year,Soyabean,6115.1,9111.5,1.49
+Madhya Pradesh,Bhopal,2020,Kharif,Jowar,20418.4,25523.0,1.25
+Madhya Pradesh,Bhopal,2020,Whole Year,Bajra,23870.2,30792.6,1.29
+Madhya Pradesh,Bhopal,2020,Kharif,Ragi,20125.2,34816.6,1.73
+Madhya Pradesh,Bhopal,2020,Whole Year,Turmeric,17749.6,81648.2,4.6
+Madhya Pradesh,Bhopal,2020,Whole Year,Onion,11159.9,180678.8,16.19
+Madhya Pradesh,Gwalior,2020,Whole Year,Rice,17071.0,55139.3,3.23
+Madhya Pradesh,Gwalior,2020,Rabi,Wheat,17733.5,75012.7,4.23
+Madhya Pradesh,Gwalior,2020,Rabi,Maize,1227.3,3313.7,2.7
+Madhya Pradesh,Gwalior,2020,Kharif,Cotton(lint),8677.2,24296.2,2.8
+Madhya Pradesh,Gwalior,2020,Whole Year,Sugarcane,20189.5,1737912.2,86.08
+Madhya Pradesh,Gwalior,2020,Whole Year,Groundnut,10363.2,24353.5,2.35
+Madhya Pradesh,Gwalior,2020,Rabi,Soyabean,23088.2,53564.6,2.32
+Madhya Pradesh,Gwalior,2020,Rabi,Jowar,11201.8,12097.9,1.08
+Madhya Pradesh,Gwalior,2020,Rabi,Bajra,14836.1,19583.7,1.32
+Madhya Pradesh,Gwalior,2020,Kharif,Ragi,17637.2,37390.9,2.12
+Madhya Pradesh,Gwalior,2020,Whole Year,Turmeric,1286.1,10829.0,8.42
+Madhya Pradesh,Gwalior,2020,Rabi,Onion,10662.7,140747.6,13.2
+Karnataka,Mandya,2021,Kharif,Rice,1739.2,6174.2,3.55
+Karnataka,Mandya,2021,Rabi,Wheat,16830.1,52173.3,3.1
+Karnataka,Mandya,2021,Rabi,Maize,1415.1,5334.9,3.77
+Karnataka,Mandya,2021,Rabi,Cotton(lint),14846.3,32068.0,2.16
+Karnataka,Mandya,2021,Whole Year,Sugarcane,23566.2,1360241.1,57.72
+Karnataka,Mandya,2021,Whole Year,Groundnut,14291.6,31155.7,2.18
+Karnataka,Mandya,2021,Whole Year,Soyabean,15961.3,27134.2,1.7
+Karnataka,Mandya,2021,Kharif,Jowar,8218.7,13971.8,1.7
+Karnataka,Mandya,2021,Whole Year,Bajra,2111.6,3336.3,1.58
+Karnataka,Mandya,2021,Kharif,Ragi,6760.3,15481.1,2.29
+Karnataka,Mandya,2021,Whole Year,Turmeric,1428.5,9799.5,6.86
+Karnataka,Mandya,2021,Whole Year,Onion,20838.2,455523.1,21.86
+Karnataka,Bangalore Rural,2021,Rabi,Rice,19691.5,67344.9,3.42
+Karnataka,Bangalore Rural,2021,Rabi,Wheat,12574.2,41997.8,3.34
+Karnataka,Bangalore Rural,2021,Kharif,Maize,5367.3,18785.5,3.5
+Karnataka,Bangalore Rural,2021,Whole Year,Cotton(lint),3446.8,6824.7,1.98
+Karnataka,Bangalore Rural,2021,Whole Year,Sugarcane,15273.2,1298222.0,85.0
+Karnataka,Bangalore Rural,2021,Kharif,Groundnut,10566.7,18280.4,1.73
+Karnataka,Bangalore Rural,2021,Kharif,Soyabean,4136.8,7984.0,1.93
+Karnataka,Bangalore Rural,2021,Kharif,Jowar,12383.0,19689.0,1.59
+Karnataka,Bangalore Rural,2021,Kharif,Bajra,6215.8,6029.3,0.97
+Karnataka,Bangalore Rural,2021,Rabi,Ragi,11203.9,19830.9,1.77
+Karnataka,Bangalore Rural,2021,Whole Year,Turmeric,17377.7,113997.7,6.56
+Karnataka,Bangalore Rural,2021,Whole Year,Onion,15080.5,286378.7,18.99
+Karnataka,Mysore,2021,Kharif,Rice,24893.9,80407.3,3.23
+Karnataka,Mysore,2021,Rabi,Wheat,859.2,3875.0,4.51
+Karnataka,Mysore,2021,Rabi,Maize,4546.0,14683.6,3.23
+Karnataka,Mysore,2021,Whole Year,Cotton(lint),3919.4,6663.0,1.7
+Karnataka,Mysore,2021,Whole Year,Sugarcane,1749.0,128429.1,73.43
+Karnataka,Mysore,2021,Whole Year,Groundnut,21184.1,28598.5,1.35
+Karnataka,Mysore,2021,Rabi,Soyabean,1845.6,2897.6,1.57
+Karnataka,Mysore,2021,Whole Year,Jowar,16652.0,27642.3,1.66
+Karnataka,Mysore,2021,Whole Year,Bajra,15880.4,14292.4,0.9
+Karnataka,Mysore,2021,Whole Year,Ragi,23621.0,59997.3,2.54
+Karnataka,Mysore,2021,Whole Year,Turmeric,6262.7,45341.9,7.24
+Karnataka,Mysore,2021,Whole Year,Onion,14503.3,277738.2,19.15
+Karnataka,Raichur,2021,Whole Year,Rice,11490.2,29185.1,2.54
+Karnataka,Raichur,2021,Rabi,Wheat,3242.9,16668.5,5.14
+Karnataka,Raichur,2021,Kharif,Maize,18408.4,62772.6,3.41
+Karnataka,Raichur,2021,Whole Year,Cotton(lint),14897.4,26964.3,1.81
+Karnataka,Raichur,2021,Whole Year,Sugarcane,16706.4,939233.8,56.22
+Karnataka,Raichur,2021,Kharif,Groundnut,24277.5,60693.8,2.5
+Karnataka,Raichur,2021,Rabi,Soyabean,7950.8,12323.7,1.55
+Karnataka,Raichur,2021,Kharif,Jowar,11556.6,22650.9,1.96
+Karnataka,Raichur,2021,Rabi,Bajra,13287.7,20463.1,1.54
+Karnataka,Raichur,2021,Kharif,Ragi,14491.6,29997.6,2.07
+Karnataka,Raichur,2021,Whole Year,Turmeric,12917.8,80736.2,6.25
+Karnataka,Raichur,2021,Kharif,Onion,13707.9,174638.6,12.74
+Andhra Pradesh,Anantapur,2021,Rabi,Rice,12120.5,39876.4,3.29
+Andhra Pradesh,Anantapur,2021,Rabi,Wheat,2795.6,13474.8,4.82
+Andhra Pradesh,Anantapur,2021,Kharif,Maize,9816.1,25914.5,2.64
+Andhra Pradesh,Anantapur,2021,Whole Year,Cotton(lint),10379.1,25636.4,2.47
+Andhra Pradesh,Anantapur,2021,Whole Year,Sugarcane,16865.6,1557875.5,92.37
+Andhra Pradesh,Anantapur,2021,Whole Year,Groundnut,22329.3,47784.7,2.14
+Andhra Pradesh,Anantapur,2021,Whole Year,Soyabean,7125.2,11257.8,1.58
+Andhra Pradesh,Anantapur,2021,Whole Year,Jowar,10875.1,21532.7,1.98
+Andhra Pradesh,Anantapur,2021,Kharif,Bajra,11852.3,18371.1,1.55
+Andhra Pradesh,Anantapur,2021,Whole Year,Ragi,23610.1,55955.9,2.37
+Andhra Pradesh,Anantapur,2021,Whole Year,Turmeric,21274.3,152324.0,7.16
+Andhra Pradesh,Anantapur,2021,Kharif,Onion,7044.8,134344.3,19.07
+Andhra Pradesh,Guntur,2021,Kharif,Rice,17977.9,50158.3,2.79
+Andhra Pradesh,Guntur,2021,Rabi,Wheat,19866.5,93372.6,4.7
+Andhra Pradesh,Guntur,2021,Rabi,Maize,3256.1,10517.2,3.23
+Andhra Pradesh,Guntur,2021,Rabi,Cotton(lint),22539.9,51841.8,2.3
+Andhra Pradesh,Guntur,2021,Whole Year,Sugarcane,4837.2,320996.6,66.36
+Andhra Pradesh,Guntur,2021,Whole Year,Groundnut,14053.7,21221.1,1.51
+Andhra Pradesh,Guntur,2021,Whole Year,Soyabean,9746.0,14813.9,1.52
+Andhra Pradesh,Guntur,2021,Rabi,Jowar,14735.3,28439.1,1.93
+Andhra Pradesh,Guntur,2021,Whole Year,Bajra,16915.7,20298.8,1.2
+Andhra Pradesh,Guntur,2021,Rabi,Ragi,16180.0,42877.0,2.65
+Andhra Pradesh,Guntur,2021,Whole Year,Turmeric,23192.6,169537.9,7.31
+Andhra Pradesh,Guntur,2021,Rabi,Onion,20959.6,346252.6,16.52
+Andhra Pradesh,Nellore,2021,Whole Year,Rice,6592.0,18523.5,2.81
+Andhra Pradesh,Nellore,2021,Rabi,Wheat,15489.2,44299.1,2.86
+Andhra Pradesh,Nellore,2021,Rabi,Maize,13036.7,35981.3,2.76
+Andhra Pradesh,Nellore,2021,Rabi,Cotton(lint),784.6,1718.3,2.19
+Andhra Pradesh,Nellore,2021,Whole Year,Sugarcane,3004.1,182318.8,60.69
+Andhra Pradesh,Nellore,2021,Rabi,Groundnut,14709.9,22653.2,1.54
+Andhra Pradesh,Nellore,2021,Whole Year,Soyabean,10462.5,20925.0,2.0
+Andhra Pradesh,Nellore,2021,Kharif,Jowar,508.4,1047.3,2.06
+Andhra Pradesh,Nellore,2021,Kharif,Bajra,7015.0,8418.0,1.2
+Andhra Pradesh,Nellore,2021,Whole Year,Ragi,12794.3,29426.9,2.3
+Andhra Pradesh,Nellore,2021,Whole Year,Turmeric,22068.2,111444.4,5.05
+Andhra Pradesh,Nellore,2021,Rabi,Onion,10182.1,140716.6,13.82
+Andhra Pradesh,West Godavari,2021,Whole Year,Rice,11406.8,40151.9,3.52
+Andhra Pradesh,West Godavari,2021,Rabi,Wheat,10910.4,46914.7,4.3
+Andhra Pradesh,West Godavari,2021,Kharif,Maize,2685.0,7061.5,2.63
+Andhra Pradesh,West Godavari,2021,Kharif,Cotton(lint),14869.2,36578.2,2.46
+Andhra Pradesh,West Godavari,2021,Whole Year,Sugarcane,18256.9,1265385.7,69.31
+Andhra Pradesh,West Godavari,2021,Whole Year,Groundnut,16182.4,23140.8,1.43
+Andhra Pradesh,West Godavari,2021,Kharif,Soyabean,18011.0,27376.7,1.52
+Andhra Pradesh,West Godavari,2021,Kharif,Jowar,12140.2,16874.9,1.39
+Andhra Pradesh,West Godavari,2021,Kharif,Bajra,8872.4,15792.9,1.78
+Andhra Pradesh,West Godavari,2021,Kharif,Ragi,22999.6,44159.2,1.92
+Andhra Pradesh,West Godavari,2021,Whole Year,Turmeric,13020.6,79425.7,6.1
+Andhra Pradesh,West Godavari,2021,Whole Year,Onion,1037.3,14511.8,13.99
+Telangana,Mahabubnagar,2021,Rabi,Rice,3551.9,8595.6,2.42
+Telangana,Mahabubnagar,2021,Rabi,Wheat,8288.2,23870.0,2.88
+Telangana,Mahabubnagar,2021,Kharif,Maize,17576.9,52203.4,2.97
+Telangana,Mahabubnagar,2021,Whole Year,Cotton(lint),10701.6,27610.1,2.58
+Telangana,Mahabubnagar,2021,Whole Year,Sugarcane,12016.1,1016682.2,84.61
+Telangana,Mahabubnagar,2021,Whole Year,Groundnut,2100.7,4033.3,1.92
+Telangana,Mahabubnagar,2021,Whole Year,Soyabean,6838.0,13607.6,1.99
+Telangana,Mahabubnagar,2021,Whole Year,Jowar,15946.9,24877.2,1.56
+Telangana,Mahabubnagar,2021,Whole Year,Bajra,569.9,683.9,1.2
+Telangana,Mahabubnagar,2021,Whole Year,Ragi,4063.8,7518.0,1.85
+Telangana,Mahabubnagar,2021,Whole Year,Turmeric,11349.8,69801.3,6.15
+Telangana,Mahabubnagar,2021,Kharif,Onion,19788.3,436925.7,22.08
+Telangana,Warangal,2021,Whole Year,Rice,5025.3,15628.7,3.11
+Telangana,Warangal,2021,Rabi,Wheat,9725.0,33454.0,3.44
+Telangana,Warangal,2021,Rabi,Maize,15603.5,53364.0,3.42
+Telangana,Warangal,2021,Kharif,Cotton(lint),17622.6,38945.9,2.21
+Telangana,Warangal,2021,Whole Year,Sugarcane,17563.7,1352053.6,76.98
+Telangana,Warangal,2021,Rabi,Groundnut,23292.6,40296.2,1.73
+Telangana,Warangal,2021,Rabi,Soyabean,17372.9,40826.3,2.35
+Telangana,Warangal,2021,Rabi,Jowar,8837.0,10692.8,1.21
+Telangana,Warangal,2021,Rabi,Bajra,20187.7,17159.5,0.85
+Telangana,Warangal,2021,Kharif,Ragi,15535.6,37906.9,2.44
+Telangana,Warangal,2021,Whole Year,Turmeric,17148.3,81111.5,4.73
+Telangana,Warangal,2021,Whole Year,Onion,19635.6,470076.3,23.94
+Telangana,Medak,2021,Kharif,Rice,17576.3,54135.0,3.08
+Telangana,Medak,2021,Rabi,Wheat,17521.8,63779.4,3.64
+Telangana,Medak,2021,Kharif,Maize,12124.8,39041.9,3.22
+Telangana,Medak,2021,Whole Year,Cotton(lint),2015.7,5180.3,2.57
+Telangana,Medak,2021,Whole Year,Sugarcane,13676.5,1174127.5,85.85
+Telangana,Medak,2021,Rabi,Groundnut,5575.0,9143.0,1.64
+Telangana,Medak,2021,Rabi,Soyabean,24408.7,51502.4,2.11
+Telangana,Medak,2021,Kharif,Jowar,13109.4,15862.4,1.21
+Telangana,Medak,2021,Rabi,Bajra,15187.6,17921.4,1.18
+Telangana,Medak,2021,Kharif,Ragi,1704.2,3868.5,2.27
+Telangana,Medak,2021,Whole Year,Turmeric,16457.5,93807.8,5.7
+Telangana,Medak,2021,Kharif,Onion,7818.5,184985.7,23.66
+Telangana,Khammam,2021,Rabi,Rice,4883.7,14016.2,2.87
+Telangana,Khammam,2021,Rabi,Wheat,9720.2,35964.7,3.7
+Telangana,Khammam,2021,Rabi,Maize,19745.2,74242.0,3.76
+Telangana,Khammam,2021,Whole Year,Cotton(lint),15528.1,31056.2,2.0
+Telangana,Khammam,2021,Whole Year,Sugarcane,10556.3,718567.3,68.07
+Telangana,Khammam,2021,Rabi,Groundnut,6922.2,8445.1,1.22
+Telangana,Khammam,2021,Rabi,Soyabean,8211.3,19296.6,2.35
+Telangana,Khammam,2021,Rabi,Jowar,19028.5,24927.3,1.31
+Telangana,Khammam,2021,Kharif,Bajra,14494.6,22901.5,1.58
+Telangana,Khammam,2021,Rabi,Ragi,19316.1,53119.3,2.75
+Telangana,Khammam,2021,Whole Year,Turmeric,5211.0,34027.8,6.53
+Telangana,Khammam,2021,Whole Year,Onion,1207.8,16389.8,13.57
+Tamil Nadu,Vellore,2021,Rabi,Rice,19690.3,81911.6,4.16
+Tamil Nadu,Vellore,2021,Rabi,Wheat,5016.0,19060.8,3.8
+Tamil Nadu,Vellore,2021,Whole Year,Maize,7585.2,20328.3,2.68
+Tamil Nadu,Vellore,2021,Whole Year,Cotton(lint),8683.1,19537.0,2.25
+Tamil Nadu,Vellore,2021,Whole Year,Sugarcane,6108.1,349077.9,57.15
+Tamil Nadu,Vellore,2021,Whole Year,Groundnut,23331.9,41997.4,1.8
+Tamil Nadu,Vellore,2021,Kharif,Soyabean,3401.1,5339.7,1.57
+Tamil Nadu,Vellore,2021,Kharif,Jowar,24100.3,44826.6,1.86
+Tamil Nadu,Vellore,2021,Rabi,Bajra,24126.2,30881.5,1.28
+Tamil Nadu,Vellore,2021,Whole Year,Ragi,12111.7,24465.6,2.02
+Tamil Nadu,Vellore,2021,Whole Year,Turmeric,19213.3,133532.4,6.95
+Tamil Nadu,Vellore,2021,Rabi,Onion,1179.8,15278.4,12.95
+Tamil Nadu,Madurai,2021,Rabi,Rice,17874.0,43433.8,2.43
+Tamil Nadu,Madurai,2021,Rabi,Wheat,9626.5,49383.9,5.13
+Tamil Nadu,Madurai,2021,Whole Year,Maize,20474.5,59990.3,2.93
+Tamil Nadu,Madurai,2021,Whole Year,Cotton(lint),16165.7,45102.3,2.79
+Tamil Nadu,Madurai,2021,Whole Year,Sugarcane,649.9,59257.9,91.18
+Tamil Nadu,Madurai,2021,Whole Year,Groundnut,867.8,1614.1,1.86
+Tamil Nadu,Madurai,2021,Whole Year,Soyabean,24558.5,47397.9,1.93
+Tamil Nadu,Madurai,2021,Rabi,Jowar,24795.1,26034.9,1.05
+Tamil Nadu,Madurai,2021,Kharif,Bajra,4735.8,6630.1,1.4
+Tamil Nadu,Madurai,2021,Rabi,Ragi,11380.2,28678.1,2.52
+Tamil Nadu,Madurai,2021,Whole Year,Turmeric,833.7,6427.8,7.71
+Tamil Nadu,Madurai,2021,Rabi,Onion,3805.3,78465.3,20.62
+Tamil Nadu,Tirunelveli,2021,Rabi,Rice,21392.2,78509.4,3.67
+Tamil Nadu,Tirunelveli,2021,Rabi,Wheat,10912.2,34373.4,3.15
+Tamil Nadu,Tirunelveli,2021,Kharif,Maize,23028.3,59643.3,2.59
+Tamil Nadu,Tirunelveli,2021,Whole Year,Cotton(lint),6655.1,16171.9,2.43
+Tamil Nadu,Tirunelveli,2021,Whole Year,Sugarcane,22170.2,1522871.0,68.69
+Tamil Nadu,Tirunelveli,2021,Rabi,Groundnut,8970.1,18119.6,2.02
+Tamil Nadu,Tirunelveli,2021,Rabi,Soyabean,21726.8,43236.3,1.99
+Tamil Nadu,Tirunelveli,2021,Rabi,Jowar,14075.6,29136.5,2.07
+Tamil Nadu,Tirunelveli,2021,Whole Year,Bajra,4635.7,8251.5,1.78
+Tamil Nadu,Tirunelveli,2021,Whole Year,Ragi,4783.3,7988.1,1.67
+Tamil Nadu,Tirunelveli,2021,Whole Year,Turmeric,16957.9,123453.5,7.28
+Tamil Nadu,Tirunelveli,2021,Kharif,Onion,12834.8,289296.4,22.54
+Tamil Nadu,Salem,2021,Rabi,Rice,20024.4,89108.6,4.45
+Tamil Nadu,Salem,2021,Rabi,Wheat,7074.7,20375.1,2.88
+Tamil Nadu,Salem,2021,Rabi,Maize,6734.4,24311.2,3.61
+Tamil Nadu,Salem,2021,Rabi,Cotton(lint),16479.1,30815.9,1.87
+Tamil Nadu,Salem,2021,Whole Year,Sugarcane,4068.2,255767.7,62.87
+Tamil Nadu,Salem,2021,Kharif,Groundnut,3229.4,8138.1,2.52
+Tamil Nadu,Salem,2021,Kharif,Soyabean,23399.0,58029.5,2.48
+Tamil Nadu,Salem,2021,Rabi,Jowar,19358.9,31748.6,1.64
+Tamil Nadu,Salem,2021,Whole Year,Bajra,18408.8,23747.4,1.29
+Tamil Nadu,Salem,2021,Whole Year,Ragi,18469.3,51344.7,2.78
+Tamil Nadu,Salem,2021,Whole Year,Turmeric,11543.4,93501.5,8.1
+Tamil Nadu,Salem,2021,Rabi,Onion,19221.9,286598.5,14.91
+Maharashtra,Nashik,2021,Rabi,Rice,4658.2,12297.6,2.64
+Maharashtra,Nashik,2021,Rabi,Wheat,20898.8,85476.1,4.09
+Maharashtra,Nashik,2021,Whole Year,Maize,4658.0,12204.0,2.62
+Maharashtra,Nashik,2021,Rabi,Cotton(lint),9163.9,13012.7,1.42
+Maharashtra,Nashik,2021,Whole Year,Sugarcane,13801.1,1201385.8,87.05
+Maharashtra,Nashik,2021,Kharif,Groundnut,15365.1,26735.3,1.74
+Maharashtra,Nashik,2021,Kharif,Soyabean,20754.2,34867.1,1.68
+Maharashtra,Nashik,2021,Whole Year,Jowar,16065.9,15101.9,0.94
+Maharashtra,Nashik,2021,Whole Year,Bajra,24861.1,44252.8,1.78
+Maharashtra,Nashik,2021,Rabi,Ragi,18120.1,38958.2,2.15
+Maharashtra,Nashik,2021,Whole Year,Turmeric,4048.2,28337.4,7.0
+Maharashtra,Nashik,2021,Kharif,Onion,8610.1,126999.0,14.75
+Maharashtra,Pune,2021,Rabi,Rice,789.5,3292.2,4.17
+Maharashtra,Pune,2021,Rabi,Wheat,21649.0,101533.8,4.69
+Maharashtra,Pune,2021,Whole Year,Maize,3044.0,7975.3,2.62
+Maharashtra,Pune,2021,Rabi,Cotton(lint),11293.3,23828.9,2.11
+Maharashtra,Pune,2021,Whole Year,Sugarcane,13097.6,755469.6,57.68
+Maharashtra,Pune,2021,Rabi,Groundnut,8960.8,12903.6,1.44
+Maharashtra,Pune,2021,Rabi,Soyabean,6732.6,14407.8,2.14
+Maharashtra,Pune,2021,Rabi,Jowar,6910.5,9743.8,1.41
+Maharashtra,Pune,2021,Whole Year,Bajra,5651.5,7573.0,1.34
+Maharashtra,Pune,2021,Rabi,Ragi,17366.6,36817.2,2.12
+Maharashtra,Pune,2021,Whole Year,Turmeric,15678.8,98776.4,6.3
+Maharashtra,Pune,2021,Whole Year,Onion,3125.3,61568.4,19.7
+Maharashtra,Satara,2021,Whole Year,Rice,19013.5,76814.5,4.04
+Maharashtra,Satara,2021,Rabi,Wheat,16903.2,57132.8,3.38
+Maharashtra,Satara,2021,Whole Year,Maize,3521.7,12009.0,3.41
+Maharashtra,Satara,2021,Whole Year,Cotton(lint),13056.1,22978.7,1.76
+Maharashtra,Satara,2021,Whole Year,Sugarcane,13702.2,965183.0,70.44
+Maharashtra,Satara,2021,Whole Year,Groundnut,14413.5,25944.3,1.8
+Maharashtra,Satara,2021,Whole Year,Soyabean,13428.5,30214.1,2.25
+Maharashtra,Satara,2021,Whole Year,Jowar,15171.8,19268.2,1.27
+Maharashtra,Satara,2021,Rabi,Bajra,12290.4,18435.6,1.5
+Maharashtra,Satara,2021,Rabi,Ragi,3064.0,7935.8,2.59
+Maharashtra,Satara,2021,Whole Year,Turmeric,17185.1,94861.8,5.52
+Maharashtra,Satara,2021,Kharif,Onion,1392.5,18200.0,13.07
+Maharashtra,Aurangabad,2021,Whole Year,Rice,24669.1,84861.7,3.44
+Maharashtra,Aurangabad,2021,Rabi,Wheat,24105.9,108717.6,4.51
+Maharashtra,Aurangabad,2021,Kharif,Maize,7061.1,28526.8,4.04
+Maharashtra,Aurangabad,2021,Whole Year,Cotton(lint),16393.1,36556.6,2.23
+Maharashtra,Aurangabad,2021,Whole Year,Sugarcane,4487.0,289052.5,64.42
+Maharashtra,Aurangabad,2021,Whole Year,Groundnut,19912.5,28076.6,1.41
+Maharashtra,Aurangabad,2021,Kharif,Soyabean,24640.6,52484.5,2.13
+Maharashtra,Aurangabad,2021,Rabi,Jowar,1237.0,2474.0,2.0
+Maharashtra,Aurangabad,2021,Kharif,Bajra,23620.7,32360.4,1.37
+Maharashtra,Aurangabad,2021,Kharif,Ragi,13168.5,28575.6,2.17
+Maharashtra,Aurangabad,2021,Whole Year,Turmeric,1709.7,11643.1,6.81
+Maharashtra,Aurangabad,2021,Kharif,Onion,4610.7,62013.9,13.45
+Punjab,Patiala,2021,Kharif,Rice,4805.4,10571.9,2.2
+Punjab,Patiala,2021,Rabi,Wheat,2044.3,8279.4,4.05
+Punjab,Patiala,2021,Rabi,Maize,11132.3,29945.9,2.69
+Punjab,Patiala,2021,Kharif,Cotton(lint),12944.1,29512.5,2.28
+Punjab,Patiala,2021,Whole Year,Sugarcane,16951.1,1310659.1,77.32
+Punjab,Patiala,2021,Whole Year,Groundnut,12280.7,21368.4,1.74
+Punjab,Patiala,2021,Kharif,Soyabean,13919.7,32015.3,2.3
+Punjab,Patiala,2021,Kharif,Jowar,9630.4,17912.5,1.86
+Punjab,Patiala,2021,Rabi,Bajra,2011.9,3058.1,1.52
+Punjab,Patiala,2021,Whole Year,Ragi,7589.4,14571.6,1.92
+Punjab,Patiala,2021,Whole Year,Turmeric,6477.2,53566.4,8.27
+Punjab,Patiala,2021,Whole Year,Onion,13003.2,163450.2,12.57
+Punjab,Amritsar,2021,Rabi,Rice,7270.9,29083.6,4.0
+Punjab,Amritsar,2021,Rabi,Wheat,19277.6,79423.7,4.12
+Punjab,Amritsar,2021,Kharif,Maize,5277.2,15989.9,3.03
+Punjab,Amritsar,2021,Whole Year,Cotton(lint),8251.6,19391.3,2.35
+Punjab,Amritsar,2021,Whole Year,Sugarcane,2892.6,159526.9,55.15
+Punjab,Amritsar,2021,Whole Year,Groundnut,19440.8,23717.8,1.22
+Punjab,Amritsar,2021,Rabi,Soyabean,22942.0,32118.8,1.4
+Punjab,Amritsar,2021,Rabi,Jowar,23614.7,48174.0,2.04
+Punjab,Amritsar,2021,Whole Year,Bajra,9790.1,15957.9,1.63
+Punjab,Amritsar,2021,Rabi,Ragi,978.9,2349.4,2.4
+Punjab,Amritsar,2021,Whole Year,Turmeric,11179.8,93798.5,8.39
+Punjab,Amritsar,2021,Whole Year,Onion,10053.4,153012.7,15.22
+Punjab,Ludhiana,2021,Kharif,Rice,819.5,3024.0,3.69
+Punjab,Ludhiana,2021,Rabi,Wheat,22945.4,80767.8,3.52
+Punjab,Ludhiana,2021,Kharif,Maize,17869.5,66117.2,3.7
+Punjab,Ludhiana,2021,Kharif,Cotton(lint),24676.1,34546.5,1.4
+Punjab,Ludhiana,2021,Whole Year,Sugarcane,11452.0,778277.9,67.96
+Punjab,Ludhiana,2021,Rabi,Groundnut,15545.9,38709.3,2.49
+Punjab,Ludhiana,2021,Whole Year,Soyabean,7087.2,14741.4,2.08
+Punjab,Ludhiana,2021,Kharif,Jowar,13308.4,12243.7,0.92
+Punjab,Ludhiana,2021,Whole Year,Bajra,19125.1,23523.9,1.23
+Punjab,Ludhiana,2021,Whole Year,Ragi,5456.4,12113.2,2.22
+Punjab,Ludhiana,2021,Whole Year,Turmeric,9759.1,72217.3,7.4
+Punjab,Ludhiana,2021,Whole Year,Onion,15734.8,218871.1,13.91
+Punjab,Bathinda,2021,Whole Year,Rice,11748.3,26316.2,2.24
+Punjab,Bathinda,2021,Rabi,Wheat,6235.0,23942.4,3.84
+Punjab,Bathinda,2021,Whole Year,Maize,13241.0,47402.8,3.58
+Punjab,Bathinda,2021,Kharif,Cotton(lint),12075.7,33691.2,2.79
+Punjab,Bathinda,2021,Whole Year,Sugarcane,16680.1,1241166.2,74.41
+Punjab,Bathinda,2021,Whole Year,Groundnut,2279.9,2827.1,1.24
+Punjab,Bathinda,2021,Whole Year,Soyabean,11004.5,19808.1,1.8
+Punjab,Bathinda,2021,Kharif,Jowar,14449.1,28609.2,1.98
+Punjab,Bathinda,2021,Kharif,Bajra,17483.7,18183.0,1.04
+Punjab,Bathinda,2021,Kharif,Ragi,23610.1,39428.9,1.67
+Punjab,Bathinda,2021,Whole Year,Turmeric,22088.9,166992.1,7.56
+Punjab,Bathinda,2021,Rabi,Onion,11636.5,274155.9,23.56
+Madhya Pradesh,Jabalpur,2021,Rabi,Rice,860.0,3827.0,4.45
+Madhya Pradesh,Jabalpur,2021,Rabi,Wheat,14055.8,39496.8,2.81
+Madhya Pradesh,Jabalpur,2021,Whole Year,Maize,9529.3,26110.3,2.74
+Madhya Pradesh,Jabalpur,2021,Kharif,Cotton(lint),19707.1,37640.6,1.91
+Madhya Pradesh,Jabalpur,2021,Whole Year,Sugarcane,13007.2,1220855.8,93.86
+Madhya Pradesh,Jabalpur,2021,Kharif,Groundnut,11784.0,21682.6,1.84
+Madhya Pradesh,Jabalpur,2021,Whole Year,Soyabean,2710.2,6016.6,2.22
+Madhya Pradesh,Jabalpur,2021,Rabi,Jowar,7771.5,12589.8,1.62
+Madhya Pradesh,Jabalpur,2021,Kharif,Bajra,2866.0,4213.0,1.47
+Madhya Pradesh,Jabalpur,2021,Whole Year,Ragi,14009.9,26058.4,1.86
+Madhya Pradesh,Jabalpur,2021,Whole Year,Turmeric,15409.5,105863.3,6.87
+Madhya Pradesh,Jabalpur,2021,Kharif,Onion,11175.7,157800.9,14.12
+Madhya Pradesh,Ujjain,2021,Kharif,Rice,15277.4,50415.4,3.3
+Madhya Pradesh,Ujjain,2021,Rabi,Wheat,13049.6,38887.8,2.98
+Madhya Pradesh,Ujjain,2021,Kharif,Maize,20373.5,81494.0,4.0
+Madhya Pradesh,Ujjain,2021,Rabi,Cotton(lint),18164.6,34694.4,1.91
+Madhya Pradesh,Ujjain,2021,Whole Year,Sugarcane,22948.1,1358757.0,59.21
+Madhya Pradesh,Ujjain,2021,Whole Year,Groundnut,8992.0,14477.1,1.61
+Madhya Pradesh,Ujjain,2021,Rabi,Soyabean,20919.3,30333.0,1.45
+Madhya Pradesh,Ujjain,2021,Rabi,Jowar,19597.8,20577.7,1.05
+Madhya Pradesh,Ujjain,2021,Whole Year,Bajra,3967.6,6506.9,1.64
+Madhya Pradesh,Ujjain,2021,Rabi,Ragi,12675.2,19012.8,1.5
+Madhya Pradesh,Ujjain,2021,Whole Year,Turmeric,14575.8,120250.3,8.25
+Madhya Pradesh,Ujjain,2021,Kharif,Onion,2052.5,34461.5,16.79
+Madhya Pradesh,Sehore,2021,Whole Year,Rice,22512.7,70689.9,3.14
+Madhya Pradesh,Sehore,2021,Rabi,Wheat,23790.7,92783.7,3.9
+Madhya Pradesh,Sehore,2021,Kharif,Maize,20768.4,61682.1,2.97
+Madhya Pradesh,Sehore,2021,Rabi,Cotton(lint),24801.0,52082.1,2.1
+Madhya Pradesh,Sehore,2021,Whole Year,Sugarcane,23028.8,1829407.9,79.44
+Madhya Pradesh,Sehore,2021,Whole Year,Groundnut,22194.2,35288.8,1.59
+Madhya Pradesh,Sehore,2021,Kharif,Soyabean,2679.5,5278.6,1.97
+Madhya Pradesh,Sehore,2021,Whole Year,Jowar,4977.8,8611.6,1.73
+Madhya Pradesh,Sehore,2021,Whole Year,Bajra,11589.3,10314.5,0.89
+Madhya Pradesh,Sehore,2021,Rabi,Ragi,2276.0,6190.7,2.72
+Madhya Pradesh,Sehore,2021,Whole Year,Turmeric,13785.0,113312.7,8.22
+Madhya Pradesh,Sehore,2021,Rabi,Onion,653.1,8353.1,12.79
+Madhya Pradesh,Gwalior,2021,Rabi,Rice,23602.8,86858.3,3.68
+Madhya Pradesh,Gwalior,2021,Rabi,Wheat,18949.9,55712.7,2.94
+Madhya Pradesh,Gwalior,2021,Kharif,Maize,14571.8,60618.7,4.16
+Madhya Pradesh,Gwalior,2021,Whole Year,Cotton(lint),4861.0,9965.0,2.05
+Madhya Pradesh,Gwalior,2021,Whole Year,Sugarcane,20277.9,1910989.3,94.24
+Madhya Pradesh,Gwalior,2021,Whole Year,Groundnut,2611.3,3812.5,1.46
+Madhya Pradesh,Gwalior,2021,Kharif,Soyabean,18814.5,27281.0,1.45
+Madhya Pradesh,Gwalior,2021,Rabi,Jowar,6071.6,11414.6,1.88
+Madhya Pradesh,Gwalior,2021,Rabi,Bajra,1804.4,2472.0,1.37
+Madhya Pradesh,Gwalior,2021,Kharif,Ragi,1574.3,3306.0,2.1
+Madhya Pradesh,Gwalior,2021,Whole Year,Turmeric,20336.7,139713.1,6.87
+Madhya Pradesh,Gwalior,2021,Whole Year,Onion,860.3,20199.8,23.48
+Karnataka,Dharwad,2022,Rabi,Rice,14263.5,42077.3,2.95
+Karnataka,Dharwad,2022,Rabi,Wheat,7679.4,36477.2,4.75
+Karnataka,Dharwad,2022,Kharif,Maize,20037.5,67927.1,3.39
+Karnataka,Dharwad,2022,Rabi,Cotton(lint),15030.9,33068.0,2.2
+Karnataka,Dharwad,2022,Whole Year,Sugarcane,21697.5,1551154.3,71.49
+Karnataka,Dharwad,2022,Kharif,Groundnut,15081.9,23980.2,1.59
+Karnataka,Dharwad,2022,Rabi,Soyabean,19266.8,35643.6,1.85
+Karnataka,Dharwad,2022,Whole Year,Jowar,2658.2,4386.0,1.65
+Karnataka,Dharwad,2022,Whole Year,Bajra,13109.4,12322.8,0.94
+Karnataka,Dharwad,2022,Rabi,Ragi,5453.5,10361.6,1.9
+Karnataka,Dharwad,2022,Whole Year,Turmeric,13691.3,73248.5,5.35
+Karnataka,Dharwad,2022,Whole Year,Onion,19449.4,241756.0,12.43
+Karnataka,Belgaum,2022,Rabi,Rice,1612.4,4853.3,3.01
+Karnataka,Belgaum,2022,Rabi,Wheat,14256.3,60874.4,4.27
+Karnataka,Belgaum,2022,Kharif,Maize,17272.8,45254.7,2.62
+Karnataka,Belgaum,2022,Rabi,Cotton(lint),5726.7,15061.2,2.63
+Karnataka,Belgaum,2022,Whole Year,Sugarcane,19871.4,1379075.2,69.4
+Karnataka,Belgaum,2022,Rabi,Groundnut,13338.4,32412.3,2.43
+Karnataka,Belgaum,2022,Kharif,Soyabean,8766.2,21126.5,2.41
+Karnataka,Belgaum,2022,Rabi,Jowar,13483.5,18742.1,1.39
+Karnataka,Belgaum,2022,Rabi,Bajra,24485.8,30362.4,1.24
+Karnataka,Belgaum,2022,Whole Year,Ragi,11017.0,19279.8,1.75
+Karnataka,Belgaum,2022,Whole Year,Turmeric,13924.9,117804.7,8.46
+Karnataka,Belgaum,2022,Rabi,Onion,22329.4,517372.2,23.17
+Karnataka,Shimoga,2022,Whole Year,Rice,5283.2,15321.3,2.9
+Karnataka,Shimoga,2022,Rabi,Wheat,4833.5,22814.1,4.72
+Karnataka,Shimoga,2022,Rabi,Maize,23067.9,89042.1,3.86
+Karnataka,Shimoga,2022,Whole Year,Cotton(lint),24241.7,44119.9,1.82
+Karnataka,Shimoga,2022,Whole Year,Sugarcane,22917.6,1755717.3,76.61
+Karnataka,Shimoga,2022,Rabi,Groundnut,8682.8,15802.7,1.82
+Karnataka,Shimoga,2022,Rabi,Soyabean,23211.8,50601.7,2.18
+Karnataka,Shimoga,2022,Rabi,Jowar,9322.6,15289.1,1.64
+Karnataka,Shimoga,2022,Rabi,Bajra,2461.5,4332.2,1.76
+Karnataka,Shimoga,2022,Kharif,Ragi,5546.8,9651.4,1.74
+Karnataka,Shimoga,2022,Whole Year,Turmeric,20704.0,142443.5,6.88
+Karnataka,Shimoga,2022,Whole Year,Onion,23454.5,535466.2,22.83
+Karnataka,Mysore,2022,Rabi,Rice,3124.9,10405.9,3.33
+Karnataka,Mysore,2022,Rabi,Wheat,17646.0,80289.3,4.55
+Karnataka,Mysore,2022,Whole Year,Maize,24757.8,66103.3,2.67
+Karnataka,Mysore,2022,Kharif,Cotton(lint),2943.4,4474.0,1.52
+Karnataka,Mysore,2022,Whole Year,Sugarcane,2952.9,254421.9,86.16
+Karnataka,Mysore,2022,Rabi,Groundnut,2821.5,7279.5,2.58
+Karnataka,Mysore,2022,Kharif,Soyabean,3986.9,9130.0,2.29
+Karnataka,Mysore,2022,Whole Year,Jowar,23589.5,40573.9,1.72
+Karnataka,Mysore,2022,Kharif,Bajra,17325.1,16978.6,0.98
+Karnataka,Mysore,2022,Whole Year,Ragi,1082.9,2631.4,2.43
+Karnataka,Mysore,2022,Whole Year,Turmeric,9588.3,52160.4,5.44
+Karnataka,Mysore,2022,Rabi,Onion,17616.5,229014.5,13.0
+Andhra Pradesh,Chittoor,2022,Kharif,Rice,11224.6,32775.8,2.92
+Andhra Pradesh,Chittoor,2022,Rabi,Wheat,19950.2,82992.8,4.16
+Andhra Pradesh,Chittoor,2022,Kharif,Maize,759.1,3006.0,3.96
+Andhra Pradesh,Chittoor,2022,Whole Year,Cotton(lint),23014.8,34752.3,1.51
+Andhra Pradesh,Chittoor,2022,Whole Year,Sugarcane,3219.3,204683.1,63.58
+Andhra Pradesh,Chittoor,2022,Whole Year,Groundnut,23297.3,57544.3,2.47
+Andhra Pradesh,Chittoor,2022,Rabi,Soyabean,24182.0,51265.8,2.12
+Andhra Pradesh,Chittoor,2022,Whole Year,Jowar,14910.9,21322.6,1.43
+Andhra Pradesh,Chittoor,2022,Whole Year,Bajra,8824.7,10942.6,1.24
+Andhra Pradesh,Chittoor,2022,Kharif,Ragi,23918.6,51185.8,2.14
+Andhra Pradesh,Chittoor,2022,Whole Year,Turmeric,19242.1,140852.2,7.32
+Andhra Pradesh,Chittoor,2022,Kharif,Onion,11860.5,220723.9,18.61
+Andhra Pradesh,Anantapur,2022,Rabi,Rice,17853.3,63557.7,3.56
+Andhra Pradesh,Anantapur,2022,Rabi,Wheat,9470.9,27181.5,2.87
+Andhra Pradesh,Anantapur,2022,Kharif,Maize,16827.5,65795.5,3.91
+Andhra Pradesh,Anantapur,2022,Kharif,Cotton(lint),738.2,1439.5,1.95
+Andhra Pradesh,Anantapur,2022,Whole Year,Sugarcane,23956.1,1913613.3,79.88
+Andhra Pradesh,Anantapur,2022,Rabi,Groundnut,19435.1,23710.8,1.22
+Andhra Pradesh,Anantapur,2022,Whole Year,Soyabean,22482.9,34398.8,1.53
+Andhra Pradesh,Anantapur,2022,Rabi,Jowar,9031.1,18333.1,2.03
+Andhra Pradesh,Anantapur,2022,Kharif,Bajra,10996.0,14404.8,1.31
+Andhra Pradesh,Anantapur,2022,Whole Year,Ragi,24321.4,45481.0,1.87
+Andhra Pradesh,Anantapur,2022,Whole Year,Turmeric,2264.2,12905.9,5.7
+Andhra Pradesh,Anantapur,2022,Whole Year,Onion,22791.5,534688.6,23.46
+Andhra Pradesh,Prakasam,2022,Whole Year,Rice,8751.9,31681.9,3.62
+Andhra Pradesh,Prakasam,2022,Rabi,Wheat,22351.7,113993.7,5.1
+Andhra Pradesh,Prakasam,2022,Rabi,Maize,8979.7,33943.3,3.78
+Andhra Pradesh,Prakasam,2022,Rabi,Cotton(lint),17307.6,32538.3,1.88
+Andhra Pradesh,Prakasam,2022,Whole Year,Sugarcane,1619.8,114228.3,70.52
+Andhra Pradesh,Prakasam,2022,Kharif,Groundnut,1953.5,4981.4,2.55
+Andhra Pradesh,Prakasam,2022,Whole Year,Soyabean,23544.0,33197.0,1.41
+Andhra Pradesh,Prakasam,2022,Kharif,Jowar,10245.7,14446.4,1.41
+Andhra Pradesh,Prakasam,2022,Whole Year,Bajra,1940.4,2619.5,1.35
+Andhra Pradesh,Prakasam,2022,Whole Year,Ragi,11261.2,20720.6,1.84
+Andhra Pradesh,Prakasam,2022,Whole Year,Turmeric,19568.2,158111.1,8.08
+Andhra Pradesh,Prakasam,2022,Rabi,Onion,12773.4,259683.2,20.33
+Andhra Pradesh,West Godavari,2022,Kharif,Rice,18058.1,79455.6,4.4
+Andhra Pradesh,West Godavari,2022,Rabi,Wheat,16724.2,69739.9,4.17
+Andhra Pradesh,West Godavari,2022,Rabi,Maize,8015.5,29577.2,3.69
+Andhra Pradesh,West Godavari,2022,Rabi,Cotton(lint),21616.3,30911.3,1.43
+Andhra Pradesh,West Godavari,2022,Whole Year,Sugarcane,10119.4,742156.8,73.34
+Andhra Pradesh,West Godavari,2022,Kharif,Groundnut,8687.3,10511.6,1.21
+Andhra Pradesh,West Godavari,2022,Kharif,Soyabean,16005.6,36972.9,2.31
+Andhra Pradesh,West Godavari,2022,Kharif,Jowar,12584.1,26174.9,2.08
+Andhra Pradesh,West Godavari,2022,Rabi,Bajra,6750.0,11475.0,1.7
+Andhra Pradesh,West Godavari,2022,Kharif,Ragi,7503.8,15758.0,2.1
+Andhra Pradesh,West Godavari,2022,Whole Year,Turmeric,6741.9,46047.2,6.83
+Andhra Pradesh,West Godavari,2022,Whole Year,Onion,5075.9,118573.0,23.36
+Telangana,Nizamabad,2022,Rabi,Rice,8610.2,20836.7,2.42
+Telangana,Nizamabad,2022,Rabi,Wheat,873.2,4095.3,4.69
+Telangana,Nizamabad,2022,Whole Year,Maize,1475.9,5933.1,4.02
+Telangana,Nizamabad,2022,Rabi,Cotton(lint),21053.8,30738.5,1.46
+Telangana,Nizamabad,2022,Whole Year,Sugarcane,6485.0,521977.6,80.49
+Telangana,Nizamabad,2022,Whole Year,Groundnut,14116.8,25127.9,1.78
+Telangana,Nizamabad,2022,Rabi,Soyabean,6452.9,10131.1,1.57
+Telangana,Nizamabad,2022,Kharif,Jowar,2665.5,3651.7,1.37
+Telangana,Nizamabad,2022,Kharif,Bajra,19967.2,28353.4,1.42
+Telangana,Nizamabad,2022,Kharif,Ragi,7399.0,17609.6,2.38
+Telangana,Nizamabad,2022,Whole Year,Turmeric,23963.4,196260.2,8.19
+Telangana,Nizamabad,2022,Rabi,Onion,8685.0,195586.2,22.52
+Telangana,Khammam,2022,Whole Year,Rice,14133.8,63036.7,4.46
+Telangana,Khammam,2022,Rabi,Wheat,11553.1,56148.1,4.86
+Telangana,Khammam,2022,Kharif,Maize,2649.3,9299.0,3.51
+Telangana,Khammam,2022,Whole Year,Cotton(lint),19391.1,35679.6,1.84
+Telangana,Khammam,2022,Whole Year,Sugarcane,10183.4,654181.6,64.24
+Telangana,Khammam,2022,Kharif,Groundnut,10767.5,25088.3,2.33
+Telangana,Khammam,2022,Kharif,Soyabean,20034.8,47482.5,2.37
+Telangana,Khammam,2022,Kharif,Jowar,11710.5,15457.9,1.32
+Telangana,Khammam,2022,Kharif,Bajra,2404.6,3029.8,1.26
+Telangana,Khammam,2022,Rabi,Ragi,22303.2,53527.7,2.4
+Telangana,Khammam,2022,Whole Year,Turmeric,3589.0,29178.6,8.13
+Telangana,Khammam,2022,Kharif,Onion,2725.4,43960.7,16.13
+Telangana,Warangal,2022,Kharif,Rice,6028.4,23691.6,3.93
+Telangana,Warangal,2022,Rabi,Wheat,649.9,2112.2,3.25
+Telangana,Warangal,2022,Whole Year,Maize,23957.2,63965.7,2.67
+Telangana,Warangal,2022,Whole Year,Cotton(lint),18276.2,29973.0,1.64
+Telangana,Warangal,2022,Whole Year,Sugarcane,9138.0,835396.0,91.42
+Telangana,Warangal,2022,Kharif,Groundnut,13295.2,32839.1,2.47
+Telangana,Warangal,2022,Whole Year,Soyabean,604.8,1088.6,1.8
+Telangana,Warangal,2022,Kharif,Jowar,11126.5,20361.5,1.83
+Telangana,Warangal,2022,Whole Year,Bajra,11195.0,15001.3,1.34
+Telangana,Warangal,2022,Rabi,Ragi,13980.8,22509.1,1.61
+Telangana,Warangal,2022,Whole Year,Turmeric,14919.3,85786.0,5.75
+Telangana,Warangal,2022,Whole Year,Onion,11861.9,280771.2,23.67
+Telangana,Nalgonda,2022,Kharif,Rice,17747.5,42948.9,2.42
+Telangana,Nalgonda,2022,Rabi,Wheat,14122.3,41095.9,2.91
+Telangana,Nalgonda,2022,Kharif,Maize,18885.1,71952.2,3.81
+Telangana,Nalgonda,2022,Kharif,Cotton(lint),12229.4,30206.6,2.47
+Telangana,Nalgonda,2022,Whole Year,Sugarcane,17634.4,1575104.6,89.32
+Telangana,Nalgonda,2022,Kharif,Groundnut,13913.5,24070.4,1.73
+Telangana,Nalgonda,2022,Kharif,Soyabean,12958.7,26435.7,2.04
+Telangana,Nalgonda,2022,Kharif,Jowar,20190.8,24834.7,1.23
+Telangana,Nalgonda,2022,Rabi,Bajra,21722.7,31715.1,1.46
+Telangana,Nalgonda,2022,Whole Year,Ragi,3883.5,9475.7,2.44
+Telangana,Nalgonda,2022,Whole Year,Turmeric,12180.9,54814.0,4.5
+Telangana,Nalgonda,2022,Kharif,Onion,14004.4,271405.3,19.38
+Tamil Nadu,Thanjavur,2022,Whole Year,Rice,23665.1,55376.3,2.34
+Tamil Nadu,Thanjavur,2022,Rabi,Wheat,2672.7,9274.3,3.47
+Tamil Nadu,Thanjavur,2022,Rabi,Maize,16543.4,61872.3,3.74
+Tamil Nadu,Thanjavur,2022,Whole Year,Cotton(lint),21576.2,52861.7,2.45
+Tamil Nadu,Thanjavur,2022,Whole Year,Sugarcane,2118.0,199007.3,93.96
+Tamil Nadu,Thanjavur,2022,Rabi,Groundnut,14643.2,32068.6,2.19
+Tamil Nadu,Thanjavur,2022,Whole Year,Soyabean,750.1,1155.2,1.54
+Tamil Nadu,Thanjavur,2022,Whole Year,Jowar,18502.3,19427.4,1.05
+Tamil Nadu,Thanjavur,2022,Whole Year,Bajra,5592.5,4753.6,0.85
+Tamil Nadu,Thanjavur,2022,Whole Year,Ragi,17549.0,31237.2,1.78
+Tamil Nadu,Thanjavur,2022,Whole Year,Turmeric,3714.4,27375.1,7.37
+Tamil Nadu,Thanjavur,2022,Rabi,Onion,9299.8,215383.4,23.16
+Tamil Nadu,Erode,2022,Whole Year,Rice,21957.4,60602.4,2.76
+Tamil Nadu,Erode,2022,Rabi,Wheat,18087.4,52453.5,2.9
+Tamil Nadu,Erode,2022,Kharif,Maize,12831.8,41190.1,3.21
+Tamil Nadu,Erode,2022,Kharif,Cotton(lint),10475.4,20427.0,1.95
+Tamil Nadu,Erode,2022,Whole Year,Sugarcane,570.7,53857.0,94.37
+Tamil Nadu,Erode,2022,Kharif,Groundnut,8938.6,20648.2,2.31
+Tamil Nadu,Erode,2022,Kharif,Soyabean,23405.1,44001.6,1.88
+Tamil Nadu,Erode,2022,Rabi,Jowar,9218.5,18252.6,1.98
+Tamil Nadu,Erode,2022,Kharif,Bajra,15472.1,15781.5,1.02
+Tamil Nadu,Erode,2022,Kharif,Ragi,17252.8,40544.1,2.35
+Tamil Nadu,Erode,2022,Whole Year,Turmeric,24771.4,120389.0,4.86
+Tamil Nadu,Erode,2022,Whole Year,Onion,22144.8,447989.3,20.23
+Tamil Nadu,Tirunelveli,2022,Whole Year,Rice,2313.7,6686.6,2.89
+Tamil Nadu,Tirunelveli,2022,Rabi,Wheat,21697.1,62921.6,2.9
+Tamil Nadu,Tirunelveli,2022,Kharif,Maize,14760.0,60811.2,4.12
+Tamil Nadu,Tirunelveli,2022,Kharif,Cotton(lint),3423.6,8559.0,2.5
+Tamil Nadu,Tirunelveli,2022,Whole Year,Sugarcane,6959.9,617273.5,88.69
+Tamil Nadu,Tirunelveli,2022,Whole Year,Groundnut,13759.7,21877.9,1.59
+Tamil Nadu,Tirunelveli,2022,Whole Year,Soyabean,9983.9,15774.6,1.58
+Tamil Nadu,Tirunelveli,2022,Whole Year,Jowar,2488.4,4827.5,1.94
+Tamil Nadu,Tirunelveli,2022,Kharif,Bajra,10785.1,8735.9,0.81
+Tamil Nadu,Tirunelveli,2022,Kharif,Ragi,9488.9,21065.4,2.22
+Tamil Nadu,Tirunelveli,2022,Whole Year,Turmeric,9530.1,74906.6,7.86
+Tamil Nadu,Tirunelveli,2022,Rabi,Onion,11782.4,247901.7,21.04
+Tamil Nadu,Vellore,2022,Kharif,Rice,9887.5,37671.4,3.81
+Tamil Nadu,Vellore,2022,Rabi,Wheat,23281.6,69844.8,3.0
+Tamil Nadu,Vellore,2022,Whole Year,Maize,20202.5,63031.8,3.12
+Tamil Nadu,Vellore,2022,Kharif,Cotton(lint),7928.3,14270.9,1.8
+Tamil Nadu,Vellore,2022,Whole Year,Sugarcane,19195.1,1251328.6,65.19
+Tamil Nadu,Vellore,2022,Whole Year,Groundnut,1386.4,3535.3,2.55
+Tamil Nadu,Vellore,2022,Rabi,Soyabean,24502.6,52680.6,2.15
+Tamil Nadu,Vellore,2022,Whole Year,Jowar,19370.2,34091.6,1.76
+Tamil Nadu,Vellore,2022,Whole Year,Bajra,10712.4,8677.0,0.81
+Tamil Nadu,Vellore,2022,Whole Year,Ragi,15310.7,26334.4,1.72
+Tamil Nadu,Vellore,2022,Whole Year,Turmeric,5149.4,40628.8,7.89
+Tamil Nadu,Vellore,2022,Rabi,Onion,3799.9,85801.7,22.58
+Maharashtra,Aurangabad,2022,Rabi,Rice,5802.8,18278.8,3.15
+Maharashtra,Aurangabad,2022,Rabi,Wheat,3867.4,18524.8,4.79
+Maharashtra,Aurangabad,2022,Rabi,Maize,23550.5,81013.7,3.44
+Maharashtra,Aurangabad,2022,Rabi,Cotton(lint),7030.6,11319.3,1.61
+Maharashtra,Aurangabad,2022,Whole Year,Sugarcane,17139.9,1525622.5,89.01
+Maharashtra,Aurangabad,2022,Whole Year,Groundnut,22214.0,27989.6,1.26
+Maharashtra,Aurangabad,2022,Whole Year,Soyabean,12578.3,31194.2,2.48
+Maharashtra,Aurangabad,2022,Whole Year,Jowar,15633.6,27984.1,1.79
+Maharashtra,Aurangabad,2022,Rabi,Bajra,4114.2,4278.8,1.04
+Maharashtra,Aurangabad,2022,Rabi,Ragi,22732.3,55012.2,2.42
+Maharashtra,Aurangabad,2022,Whole Year,Turmeric,16621.4,112693.1,6.78
+Maharashtra,Aurangabad,2022,Rabi,Onion,6959.9,100292.2,14.41
+Maharashtra,Ahmednagar,2022,Rabi,Rice,20222.4,85743.0,4.24
+Maharashtra,Ahmednagar,2022,Rabi,Wheat,18144.1,92716.4,5.11
+Maharashtra,Ahmednagar,2022,Rabi,Maize,23707.3,98622.4,4.16
+Maharashtra,Ahmednagar,2022,Kharif,Cotton(lint),22279.6,51911.5,2.33
+Maharashtra,Ahmednagar,2022,Whole Year,Sugarcane,9434.4,607858.4,64.43
+Maharashtra,Ahmednagar,2022,Kharif,Groundnut,6888.2,10194.5,1.48
+Maharashtra,Ahmednagar,2022,Kharif,Soyabean,20318.5,33728.7,1.66
+Maharashtra,Ahmednagar,2022,Kharif,Jowar,17806.9,23861.2,1.34
+Maharashtra,Ahmednagar,2022,Whole Year,Bajra,13460.5,16287.2,1.21
+Maharashtra,Ahmednagar,2022,Rabi,Ragi,24513.4,45349.8,1.85
+Maharashtra,Ahmednagar,2022,Whole Year,Turmeric,21657.4,164812.8,7.61
+Maharashtra,Ahmednagar,2022,Rabi,Onion,22945.4,430455.7,18.76
+Maharashtra,Kolhapur,2022,Rabi,Rice,12734.8,51321.2,4.03
+Maharashtra,Kolhapur,2022,Rabi,Wheat,10333.7,46605.0,4.51
+Maharashtra,Kolhapur,2022,Whole Year,Maize,20038.4,59313.7,2.96
+Maharashtra,Kolhapur,2022,Whole Year,Cotton(lint),8719.8,14649.3,1.68
+Maharashtra,Kolhapur,2022,Whole Year,Sugarcane,24192.8,1753010.3,72.46
+Maharashtra,Kolhapur,2022,Whole Year,Groundnut,12068.6,28964.6,2.4
+Maharashtra,Kolhapur,2022,Rabi,Soyabean,9973.2,21941.0,2.2
+Maharashtra,Kolhapur,2022,Whole Year,Jowar,9866.5,18450.4,1.87
+Maharashtra,Kolhapur,2022,Rabi,Bajra,5611.2,6060.1,1.08
+Maharashtra,Kolhapur,2022,Kharif,Ragi,4838.5,9048.0,1.87
+Maharashtra,Kolhapur,2022,Whole Year,Turmeric,1042.1,7596.9,7.29
+Maharashtra,Kolhapur,2022,Kharif,Onion,14530.8,335661.5,23.1
+Maharashtra,Solapur,2022,Whole Year,Rice,22968.1,66607.5,2.9
+Maharashtra,Solapur,2022,Rabi,Wheat,2644.7,9573.8,3.62
+Maharashtra,Solapur,2022,Rabi,Maize,15100.6,46056.8,3.05
+Maharashtra,Solapur,2022,Rabi,Cotton(lint),14605.1,28626.0,1.96
+Maharashtra,Solapur,2022,Whole Year,Sugarcane,21183.9,1319121.5,62.27
+Maharashtra,Solapur,2022,Kharif,Groundnut,831.9,2013.2,2.42
+Maharashtra,Solapur,2022,Rabi,Soyabean,3849.4,6928.9,1.8
+Maharashtra,Solapur,2022,Whole Year,Jowar,14918.3,15515.0,1.04
+Maharashtra,Solapur,2022,Kharif,Bajra,9927.7,17174.9,1.73
+Maharashtra,Solapur,2022,Rabi,Ragi,1789.7,4241.6,2.37
+Maharashtra,Solapur,2022,Whole Year,Turmeric,6986.9,46672.5,6.68
+Maharashtra,Solapur,2022,Kharif,Onion,6571.4,149630.8,22.77
+Punjab,Gurdaspur,2022,Rabi,Rice,5730.5,23265.8,4.06
+Punjab,Gurdaspur,2022,Rabi,Wheat,11593.7,43940.1,3.79
+Punjab,Gurdaspur,2022,Whole Year,Maize,19372.8,55793.7,2.88
+Punjab,Gurdaspur,2022,Whole Year,Cotton(lint),22639.8,32601.3,1.44
+Punjab,Gurdaspur,2022,Whole Year,Sugarcane,16317.6,1374431.4,84.23
+Punjab,Gurdaspur,2022,Rabi,Groundnut,23533.6,55304.0,2.35
+Punjab,Gurdaspur,2022,Kharif,Soyabean,3981.2,6091.2,1.53
+Punjab,Gurdaspur,2022,Rabi,Jowar,18382.3,26470.5,1.44
+Punjab,Gurdaspur,2022,Whole Year,Bajra,7380.9,7085.7,0.96
+Punjab,Gurdaspur,2022,Rabi,Ragi,20483.3,48340.6,2.36
+Punjab,Gurdaspur,2022,Whole Year,Turmeric,18608.5,96764.2,5.2
+Punjab,Gurdaspur,2022,Whole Year,Onion,20039.0,302989.7,15.12
+Punjab,Amritsar,2022,Whole Year,Rice,16436.9,61802.7,3.76
+Punjab,Amritsar,2022,Rabi,Wheat,1690.9,6746.7,3.99
+Punjab,Amritsar,2022,Whole Year,Maize,24139.4,96074.8,3.98
+Punjab,Amritsar,2022,Whole Year,Cotton(lint),1120.2,2397.2,2.14
+Punjab,Amritsar,2022,Whole Year,Sugarcane,20017.5,1801775.2,90.01
+Punjab,Amritsar,2022,Kharif,Groundnut,5952.8,10834.1,1.82
+Punjab,Amritsar,2022,Rabi,Soyabean,3735.4,6985.2,1.87
+Punjab,Amritsar,2022,Whole Year,Jowar,8435.9,9532.6,1.13
+Punjab,Amritsar,2022,Rabi,Bajra,583.4,630.1,1.08
+Punjab,Amritsar,2022,Kharif,Ragi,16319.8,25458.9,1.56
+Punjab,Amritsar,2022,Whole Year,Turmeric,19198.2,140146.9,7.3
+Punjab,Amritsar,2022,Kharif,Onion,20434.9,473885.3,23.19
+Punjab,Firozepur,2022,Kharif,Rice,1102.4,4795.4,4.35
+Punjab,Firozepur,2022,Rabi,Wheat,8474.3,34320.9,4.05
+Punjab,Firozepur,2022,Kharif,Maize,1391.0,5661.4,4.07
+Punjab,Firozepur,2022,Rabi,Cotton(lint),21480.2,35442.3,1.65
+Punjab,Firozepur,2022,Whole Year,Sugarcane,3636.6,244997.7,67.37
+Punjab,Firozepur,2022,Rabi,Groundnut,11846.3,28312.7,2.39
+Punjab,Firozepur,2022,Kharif,Soyabean,3437.9,4916.2,1.43
+Punjab,Firozepur,2022,Rabi,Jowar,6054.4,9626.5,1.59
+Punjab,Firozepur,2022,Kharif,Bajra,19346.4,19733.3,1.02
+Punjab,Firozepur,2022,Rabi,Ragi,13462.6,31233.2,2.32
+Punjab,Firozepur,2022,Whole Year,Turmeric,2627.7,22256.6,8.47
+Punjab,Firozepur,2022,Kharif,Onion,5362.3,77109.9,14.38
+Punjab,Jalandhar,2022,Whole Year,Rice,8973.6,34368.9,3.83
+Punjab,Jalandhar,2022,Rabi,Wheat,13193.4,49343.3,3.74
+Punjab,Jalandhar,2022,Whole Year,Maize,1156.3,4162.7,3.6
+Punjab,Jalandhar,2022,Whole Year,Cotton(lint),18293.2,47562.3,2.6
+Punjab,Jalandhar,2022,Whole Year,Sugarcane,19710.3,1355280.2,68.76
+Punjab,Jalandhar,2022,Whole Year,Groundnut,9651.5,19882.1,2.06
+Punjab,Jalandhar,2022,Whole Year,Soyabean,17230.7,41353.7,2.4
+Punjab,Jalandhar,2022,Kharif,Jowar,4639.9,7748.6,1.67
+Punjab,Jalandhar,2022,Rabi,Bajra,6057.6,8601.8,1.42
+Punjab,Jalandhar,2022,Whole Year,Ragi,15283.0,26439.6,1.73
+Punjab,Jalandhar,2022,Whole Year,Turmeric,7539.6,59638.2,7.91
+Punjab,Jalandhar,2022,Whole Year,Onion,17490.6,397561.3,22.73
+Madhya Pradesh,Ujjain,2022,Kharif,Rice,6052.6,19247.3,3.18
+Madhya Pradesh,Ujjain,2022,Rabi,Wheat,12928.3,66322.2,5.13
+Madhya Pradesh,Ujjain,2022,Rabi,Maize,10228.9,41324.8,4.04
+Madhya Pradesh,Ujjain,2022,Whole Year,Cotton(lint),24415.0,35645.9,1.46
+Madhya Pradesh,Ujjain,2022,Whole Year,Sugarcane,5092.2,403760.5,79.29
+Madhya Pradesh,Ujjain,2022,Kharif,Groundnut,19230.0,44805.9,2.33
+Madhya Pradesh,Ujjain,2022,Kharif,Soyabean,9837.8,14855.1,1.51
+Madhya Pradesh,Ujjain,2022,Rabi,Jowar,3554.7,4905.5,1.38
+Madhya Pradesh,Ujjain,2022,Rabi,Bajra,16297.8,28521.1,1.75
+Madhya Pradesh,Ujjain,2022,Whole Year,Ragi,5945.4,16349.8,2.75
+Madhya Pradesh,Ujjain,2022,Whole Year,Turmeric,17105.4,120251.0,7.03
+Madhya Pradesh,Ujjain,2022,Kharif,Onion,17799.1,419346.8,23.56
+Madhya Pradesh,Gwalior,2022,Rabi,Rice,16822.4,69644.7,4.14
+Madhya Pradesh,Gwalior,2022,Rabi,Wheat,11151.2,50180.4,4.5
+Madhya Pradesh,Gwalior,2022,Rabi,Maize,13586.2,39943.4,2.94
+Madhya Pradesh,Gwalior,2022,Rabi,Cotton(lint),12222.7,22612.0,1.85
+Madhya Pradesh,Gwalior,2022,Whole Year,Sugarcane,18966.9,1142566.1,60.24
+Madhya Pradesh,Gwalior,2022,Kharif,Groundnut,24502.1,62480.4,2.55
+Madhya Pradesh,Gwalior,2022,Whole Year,Soyabean,24570.6,38330.1,1.56
+Madhya Pradesh,Gwalior,2022,Kharif,Jowar,23031.2,34777.1,1.51
+Madhya Pradesh,Gwalior,2022,Whole Year,Bajra,3100.2,4371.3,1.41
+Madhya Pradesh,Gwalior,2022,Rabi,Ragi,24929.9,48613.3,1.95
+Madhya Pradesh,Gwalior,2022,Whole Year,Turmeric,24764.5,196382.5,7.93
+Madhya Pradesh,Gwalior,2022,Whole Year,Onion,4279.9,93259.0,21.79
+Madhya Pradesh,Hoshangabad,2022,Whole Year,Rice,15967.7,41835.4,2.62
+Madhya Pradesh,Hoshangabad,2022,Rabi,Wheat,18489.2,67485.6,3.65
+Madhya Pradesh,Hoshangabad,2022,Kharif,Maize,9737.2,37975.1,3.9
+Madhya Pradesh,Hoshangabad,2022,Whole Year,Cotton(lint),24826.1,46424.8,1.87
+Madhya Pradesh,Hoshangabad,2022,Whole Year,Sugarcane,9604.0,547139.9,56.97
+Madhya Pradesh,Hoshangabad,2022,Rabi,Groundnut,6435.0,15830.1,2.46
+Madhya Pradesh,Hoshangabad,2022,Whole Year,Soyabean,12230.3,27885.1,2.28
+Madhya Pradesh,Hoshangabad,2022,Kharif,Jowar,21449.5,22307.5,1.04
+Madhya Pradesh,Hoshangabad,2022,Kharif,Bajra,7153.1,10586.6,1.48
+Madhya Pradesh,Hoshangabad,2022,Rabi,Ragi,7256.6,18722.0,2.58
+Madhya Pradesh,Hoshangabad,2022,Whole Year,Turmeric,654.7,4700.7,7.18
+Madhya Pradesh,Hoshangabad,2022,Kharif,Onion,21490.9,502887.1,23.4
+Madhya Pradesh,Sehore,2022,Kharif,Rice,16503.4,48685.0,2.95
+Madhya Pradesh,Sehore,2022,Rabi,Wheat,832.0,3644.2,4.38
+Madhya Pradesh,Sehore,2022,Kharif,Maize,19481.8,54549.0,2.8
+Madhya Pradesh,Sehore,2022,Whole Year,Cotton(lint),1904.6,4761.5,2.5
+Madhya Pradesh,Sehore,2022,Whole Year,Sugarcane,16767.3,1075957.6,64.17
+Madhya Pradesh,Sehore,2022,Whole Year,Groundnut,12101.4,20693.4,1.71
+Madhya Pradesh,Sehore,2022,Kharif,Soyabean,8188.9,13921.1,1.7
+Madhya Pradesh,Sehore,2022,Rabi,Jowar,1603.3,2052.2,1.28
+Madhya Pradesh,Sehore,2022,Whole Year,Bajra,2281.7,2213.2,0.97
+Madhya Pradesh,Sehore,2022,Whole Year,Ragi,16662.4,32991.6,1.98
+Madhya Pradesh,Sehore,2022,Whole Year,Turmeric,10988.9,81098.1,7.38
+Madhya Pradesh,Sehore,2022,Kharif,Onion,2398.6,50850.3,21.2
+Karnataka,Mandya,2023,Kharif,Rice,14454.6,54060.2,3.74
+Karnataka,Mandya,2023,Rabi,Wheat,14617.7,54085.5,3.7
+Karnataka,Mandya,2023,Kharif,Maize,14977.9,48977.7,3.27
+Karnataka,Mandya,2023,Rabi,Cotton(lint),9264.9,15379.7,1.66
+Karnataka,Mandya,2023,Whole Year,Sugarcane,12190.4,670715.8,55.02
+Karnataka,Mandya,2023,Kharif,Groundnut,944.9,1360.7,1.44
+Karnataka,Mandya,2023,Kharif,Soyabean,16833.3,24913.3,1.48
+Karnataka,Mandya,2023,Whole Year,Jowar,12655.2,13414.5,1.06
+Karnataka,Mandya,2023,Whole Year,Bajra,2700.2,2997.2,1.11
+Karnataka,Mandya,2023,Kharif,Ragi,14503.6,35968.9,2.48
+Karnataka,Mandya,2023,Whole Year,Turmeric,11034.9,91479.3,8.29
+Karnataka,Mandya,2023,Rabi,Onion,11837.6,222546.9,18.8
+Karnataka,Shimoga,2023,Rabi,Rice,10446.6,36563.1,3.5
+Karnataka,Shimoga,2023,Rabi,Wheat,13318.9,44218.7,3.32
+Karnataka,Shimoga,2023,Kharif,Maize,10945.9,44002.5,4.02
+Karnataka,Shimoga,2023,Kharif,Cotton(lint),2457.6,5505.0,2.24
+Karnataka,Shimoga,2023,Whole Year,Sugarcane,19377.0,1167851.8,60.27
+Karnataka,Shimoga,2023,Whole Year,Groundnut,10040.4,22791.7,2.27
+Karnataka,Shimoga,2023,Rabi,Soyabean,23999.0,51837.8,2.16
+Karnataka,Shimoga,2023,Whole Year,Jowar,13601.7,19994.5,1.47
+Karnataka,Shimoga,2023,Whole Year,Bajra,10798.7,11230.6,1.04
+Karnataka,Shimoga,2023,Whole Year,Ragi,23431.2,63732.9,2.72
+Karnataka,Shimoga,2023,Whole Year,Turmeric,17281.0,139976.1,8.1
+Karnataka,Shimoga,2023,Whole Year,Onion,17477.7,252378.0,14.44
+Karnataka,Davangere,2023,Whole Year,Rice,2746.5,10903.6,3.97
+Karnataka,Davangere,2023,Rabi,Wheat,8556.0,27807.0,3.25
+Karnataka,Davangere,2023,Whole Year,Maize,16966.8,65152.5,3.84
+Karnataka,Davangere,2023,Whole Year,Cotton(lint),8704.3,15058.4,1.73
+Karnataka,Davangere,2023,Whole Year,Sugarcane,4045.9,248175.5,61.34
+Karnataka,Davangere,2023,Whole Year,Groundnut,2196.7,5228.1,2.38
+Karnataka,Davangere,2023,Rabi,Soyabean,12414.1,22593.7,1.82
+Karnataka,Davangere,2023,Rabi,Jowar,14294.5,20727.0,1.45
+Karnataka,Davangere,2023,Rabi,Bajra,12258.5,18510.3,1.51
+Karnataka,Davangere,2023,Kharif,Ragi,3936.9,10865.8,2.76
+Karnataka,Davangere,2023,Whole Year,Turmeric,11874.5,67922.1,5.72
+Karnataka,Davangere,2023,Whole Year,Onion,16801.8,289327.0,17.22
+Karnataka,Bellary,2023,Rabi,Rice,7794.7,25176.9,3.23
+Karnataka,Bellary,2023,Rabi,Wheat,11528.4,40810.5,3.54
+Karnataka,Bellary,2023,Kharif,Maize,10784.8,30628.8,2.84
+Karnataka,Bellary,2023,Rabi,Cotton(lint),10952.4,30557.2,2.79
+Karnataka,Bellary,2023,Whole Year,Sugarcane,6794.8,463609.2,68.23
+Karnataka,Bellary,2023,Kharif,Groundnut,10464.3,17684.7,1.69
+Karnataka,Bellary,2023,Whole Year,Soyabean,5904.5,9565.3,1.62
+Karnataka,Bellary,2023,Whole Year,Jowar,18608.3,38519.2,2.07
+Karnataka,Bellary,2023,Whole Year,Bajra,10952.3,10842.8,0.99
+Karnataka,Bellary,2023,Rabi,Ragi,11313.8,18554.6,1.64
+Karnataka,Bellary,2023,Whole Year,Turmeric,16057.2,114006.1,7.1
+Karnataka,Bellary,2023,Kharif,Onion,14448.1,239260.5,16.56
+Andhra Pradesh,Guntur,2023,Whole Year,Rice,11915.8,26453.1,2.22
+Andhra Pradesh,Guntur,2023,Rabi,Wheat,9516.2,29119.6,3.06
+Andhra Pradesh,Guntur,2023,Whole Year,Maize,4447.0,14230.4,3.2
+Andhra Pradesh,Guntur,2023,Kharif,Cotton(lint),10950.9,18945.1,1.73
+Andhra Pradesh,Guntur,2023,Whole Year,Sugarcane,2419.9,163488.4,67.56
+Andhra Pradesh,Guntur,2023,Rabi,Groundnut,22946.0,47498.2,2.07
+Andhra Pradesh,Guntur,2023,Whole Year,Soyabean,21092.2,47246.5,2.24
+Andhra Pradesh,Guntur,2023,Whole Year,Jowar,10140.0,20381.4,2.01
+Andhra Pradesh,Guntur,2023,Rabi,Bajra,16607.7,17438.1,1.05
+Andhra Pradesh,Guntur,2023,Rabi,Ragi,18966.1,50070.5,2.64
+Andhra Pradesh,Guntur,2023,Whole Year,Turmeric,23581.3,133706.0,5.67
+Andhra Pradesh,Guntur,2023,Kharif,Onion,8031.1,121189.3,15.09
+Andhra Pradesh,Chittoor,2023,Kharif,Rice,19896.8,57700.7,2.9
+Andhra Pradesh,Chittoor,2023,Rabi,Wheat,3472.2,14479.1,4.17
+Andhra Pradesh,Chittoor,2023,Whole Year,Maize,14932.7,56445.6,3.78
+Andhra Pradesh,Chittoor,2023,Kharif,Cotton(lint),20927.7,56923.3,2.72
+Andhra Pradesh,Chittoor,2023,Whole Year,Sugarcane,6832.7,533838.9,78.13
+Andhra Pradesh,Chittoor,2023,Rabi,Groundnut,6047.2,14694.7,2.43
+Andhra Pradesh,Chittoor,2023,Rabi,Soyabean,6963.0,13786.7,1.98
+Andhra Pradesh,Chittoor,2023,Whole Year,Jowar,21000.9,36541.6,1.74
+Andhra Pradesh,Chittoor,2023,Kharif,Bajra,4079.6,3467.7,0.85
+Andhra Pradesh,Chittoor,2023,Rabi,Ragi,12762.4,21313.2,1.67
+Andhra Pradesh,Chittoor,2023,Whole Year,Turmeric,18212.3,134588.9,7.39
+Andhra Pradesh,Chittoor,2023,Kharif,Onion,24714.0,495021.4,20.03
+Andhra Pradesh,Anantapur,2023,Whole Year,Rice,16242.4,68705.4,4.23
+Andhra Pradesh,Anantapur,2023,Rabi,Wheat,14774.6,74464.0,5.04
+Andhra Pradesh,Anantapur,2023,Kharif,Maize,6604.8,17700.9,2.68
+Andhra Pradesh,Anantapur,2023,Kharif,Cotton(lint),24943.8,61361.7,2.46
+Andhra Pradesh,Anantapur,2023,Whole Year,Sugarcane,11415.8,655837.7,57.45
+Andhra Pradesh,Anantapur,2023,Kharif,Groundnut,3321.0,6210.3,1.87
+Andhra Pradesh,Anantapur,2023,Kharif,Soyabean,12233.8,21164.5,1.73
+Andhra Pradesh,Anantapur,2023,Whole Year,Jowar,9019.8,11184.6,1.24
+Andhra Pradesh,Anantapur,2023,Whole Year,Bajra,19717.0,23068.9,1.17
+Andhra Pradesh,Anantapur,2023,Rabi,Ragi,20108.6,33581.4,1.67
+Andhra Pradesh,Anantapur,2023,Whole Year,Turmeric,19554.8,90929.8,4.65
+Andhra Pradesh,Anantapur,2023,Kharif,Onion,1551.3,23796.9,15.34
+Andhra Pradesh,West Godavari,2023,Rabi,Rice,21282.3,65549.5,3.08
+Andhra Pradesh,West Godavari,2023,Rabi,Wheat,2070.2,9398.7,4.54
+Andhra Pradesh,West Godavari,2023,Kharif,Maize,14381.1,56086.3,3.9
+Andhra Pradesh,West Godavari,2023,Kharif,Cotton(lint),22482.4,58903.9,2.62
+Andhra Pradesh,West Godavari,2023,Whole Year,Sugarcane,3112.6,268150.5,86.15
+Andhra Pradesh,West Godavari,2023,Kharif,Groundnut,18479.1,34186.3,1.85
+Andhra Pradesh,West Godavari,2023,Rabi,Soyabean,21675.8,42918.1,1.98
+Andhra Pradesh,West Godavari,2023,Whole Year,Jowar,10094.4,13122.7,1.3
+Andhra Pradesh,West Godavari,2023,Rabi,Bajra,15886.1,26053.2,1.64
+Andhra Pradesh,West Godavari,2023,Kharif,Ragi,14106.7,29059.8,2.06
+Andhra Pradesh,West Godavari,2023,Whole Year,Turmeric,20251.0,165855.7,8.19
+Andhra Pradesh,West Godavari,2023,Whole Year,Onion,5850.8,75065.8,12.83
+Telangana,Nizamabad,2023,Kharif,Rice,6854.7,20221.4,2.95
+Telangana,Nizamabad,2023,Rabi,Wheat,10003.2,30009.6,3.0
+Telangana,Nizamabad,2023,Kharif,Maize,23396.4,80483.6,3.44
+Telangana,Nizamabad,2023,Kharif,Cotton(lint),22182.9,40372.9,1.82
+Telangana,Nizamabad,2023,Whole Year,Sugarcane,4997.4,440520.8,88.15
+Telangana,Nizamabad,2023,Kharif,Groundnut,23353.3,52311.4,2.24
+Telangana,Nizamabad,2023,Kharif,Soyabean,21520.4,34647.8,1.61
+Telangana,Nizamabad,2023,Rabi,Jowar,7672.5,9360.4,1.22
+Telangana,Nizamabad,2023,Kharif,Bajra,16572.6,13589.5,0.82
+Telangana,Nizamabad,2023,Kharif,Ragi,16750.5,40703.7,2.43
+Telangana,Nizamabad,2023,Whole Year,Turmeric,10684.3,79811.7,7.47
+Telangana,Nizamabad,2023,Whole Year,Onion,20124.4,337083.7,16.75
+Telangana,Mahabubnagar,2023,Whole Year,Rice,20864.3,47570.6,2.28
+Telangana,Mahabubnagar,2023,Rabi,Wheat,19891.0,102836.5,5.17
+Telangana,Mahabubnagar,2023,Whole Year,Maize,8187.9,30295.2,3.7
+Telangana,Mahabubnagar,2023,Kharif,Cotton(lint),14442.5,25852.1,1.79
+Telangana,Mahabubnagar,2023,Whole Year,Sugarcane,18954.9,1769819.0,93.37
+Telangana,Mahabubnagar,2023,Kharif,Groundnut,22210.0,47085.2,2.12
+Telangana,Mahabubnagar,2023,Whole Year,Soyabean,16735.3,32466.5,1.94
+Telangana,Mahabubnagar,2023,Rabi,Jowar,2078.1,2535.3,1.22
+Telangana,Mahabubnagar,2023,Kharif,Bajra,7901.4,12958.3,1.64
+Telangana,Mahabubnagar,2023,Kharif,Ragi,4301.6,9463.5,2.2
+Telangana,Mahabubnagar,2023,Whole Year,Turmeric,19888.7,118735.5,5.97
+Telangana,Mahabubnagar,2023,Kharif,Onion,4502.6,98066.6,21.78
+Telangana,Nalgonda,2023,Whole Year,Rice,23635.8,74925.5,3.17
+Telangana,Nalgonda,2023,Rabi,Wheat,8789.3,34102.5,3.88
+Telangana,Nalgonda,2023,Rabi,Maize,18380.9,69479.8,3.78
+Telangana,Nalgonda,2023,Kharif,Cotton(lint),5374.8,8545.9,1.59
+Telangana,Nalgonda,2023,Whole Year,Sugarcane,24853.4,1986780.8,79.94
+Telangana,Nalgonda,2023,Kharif,Groundnut,728.3,888.5,1.22
+Telangana,Nalgonda,2023,Rabi,Soyabean,10331.2,25724.7,2.49
+Telangana,Nalgonda,2023,Kharif,Jowar,5508.1,5012.4,0.91
+Telangana,Nalgonda,2023,Kharif,Bajra,5876.8,6170.6,1.05
+Telangana,Nalgonda,2023,Rabi,Ragi,11303.8,27694.3,2.45
+Telangana,Nalgonda,2023,Whole Year,Turmeric,3510.0,28431.0,8.1
+Telangana,Nalgonda,2023,Rabi,Onion,9447.4,205858.8,21.79
+Telangana,Warangal,2023,Rabi,Rice,21469.6,54318.1,2.53
+Telangana,Warangal,2023,Rabi,Wheat,12220.5,52059.3,4.26
+Telangana,Warangal,2023,Rabi,Maize,6603.5,24895.2,3.77
+Telangana,Warangal,2023,Kharif,Cotton(lint),7310.9,14036.9,1.92
+Telangana,Warangal,2023,Whole Year,Sugarcane,1873.2,173570.7,92.66
+Telangana,Warangal,2023,Kharif,Groundnut,22800.8,50845.8,2.23
+Telangana,Warangal,2023,Whole Year,Soyabean,19354.8,44516.0,2.3
+Telangana,Warangal,2023,Kharif,Jowar,6257.2,7258.4,1.16
+Telangana,Warangal,2023,Whole Year,Bajra,22988.5,36551.7,1.59
+Telangana,Warangal,2023,Kharif,Ragi,3612.9,6792.3,1.88
+Telangana,Warangal,2023,Whole Year,Turmeric,2168.5,18193.7,8.39
+Telangana,Warangal,2023,Whole Year,Onion,20332.7,438576.3,21.57
+Tamil Nadu,Vellore,2023,Whole Year,Rice,4494.6,11596.1,2.58
+Tamil Nadu,Vellore,2023,Rabi,Wheat,20028.2,70098.7,3.5
+Tamil Nadu,Vellore,2023,Rabi,Maize,1933.0,7500.0,3.88
+Tamil Nadu,Vellore,2023,Whole Year,Cotton(lint),10632.9,27220.2,2.56
+Tamil Nadu,Vellore,2023,Whole Year,Sugarcane,16683.6,1282301.5,76.86
+Tamil Nadu,Vellore,2023,Whole Year,Groundnut,19516.6,26152.2,1.34
+Tamil Nadu,Vellore,2023,Rabi,Soyabean,16233.7,35064.8,2.16
+Tamil Nadu,Vellore,2023,Rabi,Jowar,20708.6,28992.0,1.4
+Tamil Nadu,Vellore,2023,Whole Year,Bajra,19773.2,27682.5,1.4
+Tamil Nadu,Vellore,2023,Kharif,Ragi,23178.7,36390.6,1.57
+Tamil Nadu,Vellore,2023,Whole Year,Turmeric,9314.1,62125.0,6.67
+Tamil Nadu,Vellore,2023,Whole Year,Onion,21873.7,378196.3,17.29
+Tamil Nadu,Coimbatore,2023,Whole Year,Rice,11994.4,30465.8,2.54
+Tamil Nadu,Coimbatore,2023,Rabi,Wheat,12891.8,64845.8,5.03
+Tamil Nadu,Coimbatore,2023,Kharif,Maize,4311.0,15174.7,3.52
+Tamil Nadu,Coimbatore,2023,Whole Year,Cotton(lint),19657.6,36956.3,1.88
+Tamil Nadu,Coimbatore,2023,Whole Year,Sugarcane,10158.0,775563.3,76.35
+Tamil Nadu,Coimbatore,2023,Whole Year,Groundnut,6740.7,12874.7,1.91
+Tamil Nadu,Coimbatore,2023,Whole Year,Soyabean,4112.1,6867.2,1.67
+Tamil Nadu,Coimbatore,2023,Kharif,Jowar,15866.4,22847.6,1.44
+Tamil Nadu,Coimbatore,2023,Kharif,Bajra,19963.5,17967.2,0.9
+Tamil Nadu,Coimbatore,2023,Kharif,Ragi,2605.8,4065.0,1.56
+Tamil Nadu,Coimbatore,2023,Whole Year,Turmeric,13507.4,112921.9,8.36
+Tamil Nadu,Coimbatore,2023,Kharif,Onion,6274.8,101400.8,16.16
+Tamil Nadu,Tirunelveli,2023,Whole Year,Rice,14043.6,57017.0,4.06
+Tamil Nadu,Tirunelveli,2023,Rabi,Wheat,18697.3,54596.1,2.92
+Tamil Nadu,Tirunelveli,2023,Kharif,Maize,11633.2,30013.7,2.58
+Tamil Nadu,Tirunelveli,2023,Rabi,Cotton(lint),7638.0,11075.1,1.45
+Tamil Nadu,Tirunelveli,2023,Whole Year,Sugarcane,15917.3,1019025.5,64.02
+Tamil Nadu,Tirunelveli,2023,Kharif,Groundnut,9136.8,18456.3,2.02
+Tamil Nadu,Tirunelveli,2023,Whole Year,Soyabean,15622.6,33744.8,2.16
+Tamil Nadu,Tirunelveli,2023,Kharif,Jowar,15155.4,26976.6,1.78
+Tamil Nadu,Tirunelveli,2023,Kharif,Bajra,12602.8,12224.7,0.97
+Tamil Nadu,Tirunelveli,2023,Kharif,Ragi,22680.2,61916.9,2.73
+Tamil Nadu,Tirunelveli,2023,Whole Year,Turmeric,18836.7,103601.9,5.5
+Tamil Nadu,Tirunelveli,2023,Whole Year,Onion,11632.9,162395.3,13.96
+Tamil Nadu,Salem,2023,Rabi,Rice,21500.3,54610.8,2.54
+Tamil Nadu,Salem,2023,Rabi,Wheat,3268.2,10523.6,3.22
+Tamil Nadu,Salem,2023,Whole Year,Maize,8352.3,32406.9,3.88
+Tamil Nadu,Salem,2023,Whole Year,Cotton(lint),22037.2,42752.2,1.94
+Tamil Nadu,Salem,2023,Whole Year,Sugarcane,23973.8,2190006.6,91.35
+Tamil Nadu,Salem,2023,Whole Year,Groundnut,18530.5,40211.2,2.17
+Tamil Nadu,Salem,2023,Kharif,Soyabean,5457.7,9387.2,1.72
+Tamil Nadu,Salem,2023,Rabi,Jowar,11349.1,22584.7,1.99
+Tamil Nadu,Salem,2023,Kharif,Bajra,7966.0,13064.2,1.64
+Tamil Nadu,Salem,2023,Rabi,Ragi,12960.1,29160.2,2.25
+Tamil Nadu,Salem,2023,Whole Year,Turmeric,8599.5,47985.2,5.58
+Tamil Nadu,Salem,2023,Kharif,Onion,20208.8,244930.7,12.12
+Maharashtra,Pune,2023,Whole Year,Rice,17266.7,40749.4,2.36
+Maharashtra,Pune,2023,Rabi,Wheat,19269.2,68405.7,3.55
+Maharashtra,Pune,2023,Whole Year,Maize,11480.8,33753.6,2.94
+Maharashtra,Pune,2023,Whole Year,Cotton(lint),22642.5,44379.3,1.96
+Maharashtra,Pune,2023,Whole Year,Sugarcane,16049.2,1017037.8,63.37
+Maharashtra,Pune,2023,Whole Year,Groundnut,18656.5,33208.6,1.78
+Maharashtra,Pune,2023,Rabi,Soyabean,5032.2,12127.6,2.41
+Maharashtra,Pune,2023,Rabi,Jowar,8313.2,9144.5,1.1
+Maharashtra,Pune,2023,Rabi,Bajra,14397.3,11805.8,0.82
+Maharashtra,Pune,2023,Kharif,Ragi,22202.6,43295.1,1.95
+Maharashtra,Pune,2023,Whole Year,Turmeric,2551.0,19744.7,7.74
+Maharashtra,Pune,2023,Kharif,Onion,1180.5,19395.6,16.43
+Maharashtra,Nashik,2023,Whole Year,Rice,23222.4,59217.1,2.55
+Maharashtra,Nashik,2023,Rabi,Wheat,7503.0,22283.9,2.97
+Maharashtra,Nashik,2023,Rabi,Maize,5850.0,16146.0,2.76
+Maharashtra,Nashik,2023,Rabi,Cotton(lint),8237.2,19192.7,2.33
+Maharashtra,Nashik,2023,Whole Year,Sugarcane,14748.4,948322.1,64.3
+Maharashtra,Nashik,2023,Kharif,Groundnut,11850.2,26188.9,2.21
+Maharashtra,Nashik,2023,Kharif,Soyabean,16320.9,25950.2,1.59
+Maharashtra,Nashik,2023,Whole Year,Jowar,18206.6,30951.2,1.7
+Maharashtra,Nashik,2023,Kharif,Bajra,1547.3,1825.8,1.18
+Maharashtra,Nashik,2023,Rabi,Ragi,16749.5,38691.3,2.31
+Maharashtra,Nashik,2023,Whole Year,Turmeric,1163.2,8351.8,7.18
+Maharashtra,Nashik,2023,Rabi,Onion,2878.9,41628.9,14.46
+Maharashtra,Solapur,2023,Kharif,Rice,5964.4,20517.5,3.44
+Maharashtra,Solapur,2023,Rabi,Wheat,21357.7,61937.3,2.9
+Maharashtra,Solapur,2023,Whole Year,Maize,13593.6,53694.7,3.95
+Maharashtra,Solapur,2023,Whole Year,Cotton(lint),21460.7,31976.4,1.49
+Maharashtra,Solapur,2023,Whole Year,Sugarcane,16238.0,1007892.7,62.07
+Maharashtra,Solapur,2023,Kharif,Groundnut,2811.8,6635.8,2.36
+Maharashtra,Solapur,2023,Kharif,Soyabean,9616.8,16637.1,1.73
+Maharashtra,Solapur,2023,Whole Year,Jowar,22836.6,23750.1,1.04
+Maharashtra,Solapur,2023,Rabi,Bajra,13689.0,22860.6,1.67
+Maharashtra,Solapur,2023,Whole Year,Ragi,10720.3,23048.6,2.15
+Maharashtra,Solapur,2023,Whole Year,Turmeric,10335.9,83410.7,8.07
+Maharashtra,Solapur,2023,Kharif,Onion,19207.6,255845.2,13.32
+Maharashtra,Nagpur,2023,Rabi,Rice,6922.5,23813.4,3.44
+Maharashtra,Nagpur,2023,Rabi,Wheat,10041.9,51916.6,5.17
+Maharashtra,Nagpur,2023,Kharif,Maize,21010.7,76689.1,3.65
+Maharashtra,Nagpur,2023,Kharif,Cotton(lint),19968.0,32947.2,1.65
+Maharashtra,Nagpur,2023,Whole Year,Sugarcane,23237.7,2129038.1,91.62
+Maharashtra,Nagpur,2023,Rabi,Groundnut,11335.0,21876.5,1.93
+Maharashtra,Nagpur,2023,Kharif,Soyabean,20881.8,41137.1,1.97
+Maharashtra,Nagpur,2023,Whole Year,Jowar,24014.2,40103.7,1.67
+Maharashtra,Nagpur,2023,Rabi,Bajra,23670.4,28404.5,1.2
+Maharashtra,Nagpur,2023,Rabi,Ragi,19489.2,32157.2,1.65
+Maharashtra,Nagpur,2023,Whole Year,Turmeric,11165.9,56052.8,5.02
+Maharashtra,Nagpur,2023,Rabi,Onion,16633.3,221888.2,13.34
+Punjab,Bathinda,2023,Kharif,Rice,2340.0,6130.8,2.62
+Punjab,Bathinda,2023,Rabi,Wheat,7988.1,23564.9,2.95
+Punjab,Bathinda,2023,Rabi,Maize,4495.8,13172.7,2.93
+Punjab,Bathinda,2023,Kharif,Cotton(lint),19998.0,31196.9,1.56
+Punjab,Bathinda,2023,Whole Year,Sugarcane,18452.1,1707003.8,92.51
+Punjab,Bathinda,2023,Whole Year,Groundnut,19425.9,42348.5,2.18
+Punjab,Bathinda,2023,Kharif,Soyabean,2706.2,6359.6,2.35
+Punjab,Bathinda,2023,Rabi,Jowar,4258.9,7708.6,1.81
+Punjab,Bathinda,2023,Whole Year,Bajra,15430.6,27466.5,1.78
+Punjab,Bathinda,2023,Rabi,Ragi,14596.5,31820.4,2.18
+Punjab,Bathinda,2023,Whole Year,Turmeric,16466.3,107854.3,6.55
+Punjab,Bathinda,2023,Kharif,Onion,3216.9,59802.2,18.59
+Punjab,Ludhiana,2023,Kharif,Rice,5873.8,18737.4,3.19
+Punjab,Ludhiana,2023,Rabi,Wheat,10540.6,48170.5,4.57
+Punjab,Ludhiana,2023,Whole Year,Maize,4618.2,11545.5,2.5
+Punjab,Ludhiana,2023,Kharif,Cotton(lint),9022.0,15157.0,1.68
+Punjab,Ludhiana,2023,Whole Year,Sugarcane,4451.7,304807.9,68.47
+Punjab,Ludhiana,2023,Whole Year,Groundnut,10202.7,24690.5,2.42
+Punjab,Ludhiana,2023,Kharif,Soyabean,8383.3,12155.8,1.45
+Punjab,Ludhiana,2023,Kharif,Jowar,7118.7,13952.7,1.96
+Punjab,Ludhiana,2023,Kharif,Bajra,13970.9,11176.7,0.8
+Punjab,Ludhiana,2023,Rabi,Ragi,14052.2,24029.3,1.71
+Punjab,Ludhiana,2023,Whole Year,Turmeric,10739.3,83122.2,7.74
+Punjab,Ludhiana,2023,Kharif,Onion,16669.6,312888.4,18.77
+Punjab,Gurdaspur,2023,Whole Year,Rice,2030.0,6577.2,3.24
+Punjab,Gurdaspur,2023,Rabi,Wheat,13582.6,52157.2,3.84
+Punjab,Gurdaspur,2023,Rabi,Maize,19029.0,77828.6,4.09
+Punjab,Gurdaspur,2023,Kharif,Cotton(lint),4844.1,10560.1,2.18
+Punjab,Gurdaspur,2023,Whole Year,Sugarcane,22293.6,2012666.2,90.28
+Punjab,Gurdaspur,2023,Whole Year,Groundnut,15430.6,26849.2,1.74
+Punjab,Gurdaspur,2023,Kharif,Soyabean,5755.0,11107.1,1.93
+Punjab,Gurdaspur,2023,Whole Year,Jowar,2540.9,3303.2,1.3
+Punjab,Gurdaspur,2023,Kharif,Bajra,22140.2,38966.8,1.76
+Punjab,Gurdaspur,2023,Rabi,Ragi,4837.3,10110.0,2.09
+Punjab,Gurdaspur,2023,Whole Year,Turmeric,6571.9,44097.4,6.71
+Punjab,Gurdaspur,2023,Kharif,Onion,520.1,6704.1,12.89
+Punjab,Patiala,2023,Kharif,Rice,16763.7,67390.1,4.02
+Punjab,Patiala,2023,Rabi,Wheat,5427.6,18128.2,3.34
+Punjab,Patiala,2023,Whole Year,Maize,4232.7,15407.0,3.64
+Punjab,Patiala,2023,Whole Year,Cotton(lint),18411.7,31484.0,1.71
+Punjab,Patiala,2023,Whole Year,Sugarcane,22493.9,1651952.0,73.44
+Punjab,Patiala,2023,Whole Year,Groundnut,18343.9,23663.6,1.29
+Punjab,Patiala,2023,Rabi,Soyabean,8471.5,20585.7,2.43
+Punjab,Patiala,2023,Whole Year,Jowar,23553.9,21669.6,0.92
+Punjab,Patiala,2023,Rabi,Bajra,12578.7,11195.0,0.89
+Punjab,Patiala,2023,Kharif,Ragi,10851.1,25174.6,2.32
+Punjab,Patiala,2023,Whole Year,Turmeric,9570.7,65367.9,6.83
+Punjab,Patiala,2023,Kharif,Onion,16052.7,372583.2,23.21
+Madhya Pradesh,Jabalpur,2023,Kharif,Rice,15718.7,51400.1,3.27
+Madhya Pradesh,Jabalpur,2023,Rabi,Wheat,11392.6,43064.0,3.78
+Madhya Pradesh,Jabalpur,2023,Rabi,Maize,22996.4,84626.8,3.68
+Madhya Pradesh,Jabalpur,2023,Rabi,Cotton(lint),24263.5,48284.4,1.99
+Madhya Pradesh,Jabalpur,2023,Whole Year,Sugarcane,21404.1,1727953.0,80.73
+Madhya Pradesh,Jabalpur,2023,Whole Year,Groundnut,17473.1,29529.5,1.69
+Madhya Pradesh,Jabalpur,2023,Rabi,Soyabean,4865.8,10412.8,2.14
+Madhya Pradesh,Jabalpur,2023,Whole Year,Jowar,20636.8,22287.7,1.08
+Madhya Pradesh,Jabalpur,2023,Rabi,Bajra,9733.3,14599.9,1.5
+Madhya Pradesh,Jabalpur,2023,Rabi,Ragi,13579.7,33813.5,2.49
+Madhya Pradesh,Jabalpur,2023,Whole Year,Turmeric,15485.1,91671.8,5.92
+Madhya Pradesh,Jabalpur,2023,Kharif,Onion,3890.0,67608.2,17.38
+Madhya Pradesh,Bhopal,2023,Rabi,Rice,15610.2,55572.3,3.56
+Madhya Pradesh,Bhopal,2023,Rabi,Wheat,22332.2,71239.7,3.19
+Madhya Pradesh,Bhopal,2023,Rabi,Maize,5976.1,17689.3,2.96
+Madhya Pradesh,Bhopal,2023,Rabi,Cotton(lint),15892.7,22408.7,1.41
+Madhya Pradesh,Bhopal,2023,Whole Year,Sugarcane,11386.3,761857.3,66.91
+Madhya Pradesh,Bhopal,2023,Kharif,Groundnut,14693.6,30121.9,2.05
+Madhya Pradesh,Bhopal,2023,Rabi,Soyabean,7068.9,13572.3,1.92
+Madhya Pradesh,Bhopal,2023,Whole Year,Jowar,10594.1,17056.5,1.61
+Madhya Pradesh,Bhopal,2023,Rabi,Bajra,2041.8,2531.8,1.24
+Madhya Pradesh,Bhopal,2023,Whole Year,Ragi,10210.8,15622.5,1.53
+Madhya Pradesh,Bhopal,2023,Whole Year,Turmeric,594.3,4534.5,7.63
+Madhya Pradesh,Bhopal,2023,Rabi,Onion,8021.3,161709.4,20.16
+Madhya Pradesh,Hoshangabad,2023,Rabi,Rice,14199.2,53673.0,3.78
+Madhya Pradesh,Hoshangabad,2023,Rabi,Wheat,21339.9,74262.9,3.48
+Madhya Pradesh,Hoshangabad,2023,Rabi,Maize,2344.1,7899.6,3.37
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Cotton(lint),20148.6,52184.9,2.59
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Sugarcane,3257.3,239346.4,73.48
+Madhya Pradesh,Hoshangabad,2023,Rabi,Groundnut,21052.9,40632.1,1.93
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Soyabean,8912.4,16398.8,1.84
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Jowar,13642.7,21009.8,1.54
+Madhya Pradesh,Hoshangabad,2023,Rabi,Bajra,7677.7,10595.2,1.38
+Madhya Pradesh,Hoshangabad,2023,Kharif,Ragi,6997.9,13366.0,1.91
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Turmeric,19912.2,102946.1,5.17
+Madhya Pradesh,Hoshangabad,2023,Whole Year,Onion,13111.9,219362.1,16.73
+Madhya Pradesh,Gwalior,2023,Kharif,Rice,8503.3,22023.5,2.59
+Madhya Pradesh,Gwalior,2023,Rabi,Wheat,20974.5,108438.2,5.17
+Madhya Pradesh,Gwalior,2023,Kharif,Maize,10262.6,42384.5,4.13
+Madhya Pradesh,Gwalior,2023,Kharif,Cotton(lint),10219.3,18496.9,1.81
+Madhya Pradesh,Gwalior,2023,Whole Year,Sugarcane,15244.8,875813.8,57.45
+Madhya Pradesh,Gwalior,2023,Whole Year,Groundnut,4889.0,9533.5,1.95
+Madhya Pradesh,Gwalior,2023,Rabi,Soyabean,9284.9,14020.2,1.51
+Madhya Pradesh,Gwalior,2023,Kharif,Jowar,513.3,1000.9,1.95
+Madhya Pradesh,Gwalior,2023,Whole Year,Bajra,14110.8,23565.0,1.67
+Madhya Pradesh,Gwalior,2023,Kharif,Ragi,8582.1,16306.0,1.9
+Madhya Pradesh,Gwalior,2023,Whole Year,Turmeric,20462.7,137100.1,6.7
+Madhya Pradesh,Gwalior,2023,Whole Year,Onion,15077.6,266572.0,17.68
+Karnataka,Belgaum,2024,Kharif,Rice,4159.7,18344.3,4.41
+Karnataka,Belgaum,2024,Rabi,Wheat,19813.4,99067.0,5.0
+Karnataka,Belgaum,2024,Kharif,Maize,515.5,1330.0,2.58
+Karnataka,Belgaum,2024,Rabi,Cotton(lint),18145.0,44636.7,2.46
+Karnataka,Belgaum,2024,Whole Year,Sugarcane,10380.8,816865.2,78.69
+Karnataka,Belgaum,2024,Whole Year,Groundnut,9219.3,13644.6,1.48
+Karnataka,Belgaum,2024,Rabi,Soyabean,9991.4,15087.0,1.51
+Karnataka,Belgaum,2024,Rabi,Jowar,19297.7,21806.4,1.13
+Karnataka,Belgaum,2024,Rabi,Bajra,24479.3,35739.8,1.46
+Karnataka,Belgaum,2024,Rabi,Ragi,11083.8,24827.7,2.24
+Karnataka,Belgaum,2024,Whole Year,Turmeric,12815.0,82272.3,6.42
+Karnataka,Belgaum,2024,Whole Year,Onion,22850.5,453353.9,19.84
+Karnataka,Mandya,2024,Whole Year,Rice,12066.6,38009.8,3.15
+Karnataka,Mandya,2024,Rabi,Wheat,16247.1,46791.6,2.88
+Karnataka,Mandya,2024,Kharif,Maize,15960.1,45486.3,2.85
+Karnataka,Mandya,2024,Rabi,Cotton(lint),22269.6,34963.3,1.57
+Karnataka,Mandya,2024,Whole Year,Sugarcane,6157.7,565030.6,91.76
+Karnataka,Mandya,2024,Rabi,Groundnut,23767.5,36839.6,1.55
+Karnataka,Mandya,2024,Whole Year,Soyabean,15085.0,21873.2,1.45
+Karnataka,Mandya,2024,Rabi,Jowar,7219.3,9457.3,1.31
+Karnataka,Mandya,2024,Rabi,Bajra,14186.3,24542.3,1.73
+Karnataka,Mandya,2024,Rabi,Ragi,4538.4,12344.4,2.72
+Karnataka,Mandya,2024,Whole Year,Turmeric,9756.8,74639.5,7.65
+Karnataka,Mandya,2024,Kharif,Onion,3362.3,77063.9,22.92
+Karnataka,Davangere,2024,Whole Year,Rice,15135.2,63719.2,4.21
+Karnataka,Davangere,2024,Rabi,Wheat,3854.7,19427.7,5.04
+Karnataka,Davangere,2024,Kharif,Maize,5013.8,19804.5,3.95
+Karnataka,Davangere,2024,Kharif,Cotton(lint),15420.2,28681.6,1.86
+Karnataka,Davangere,2024,Whole Year,Sugarcane,5778.6,464657.2,80.41
+Karnataka,Davangere,2024,Whole Year,Groundnut,7724.9,17844.5,2.31
+Karnataka,Davangere,2024,Rabi,Soyabean,12723.1,24555.6,1.93
+Karnataka,Davangere,2024,Rabi,Jowar,7937.6,9922.0,1.25
+Karnataka,Davangere,2024,Rabi,Bajra,9623.0,9815.5,1.02
+Karnataka,Davangere,2024,Rabi,Ragi,8493.3,13844.1,1.63
+Karnataka,Davangere,2024,Whole Year,Turmeric,20690.2,112347.8,5.43
+Karnataka,Davangere,2024,Kharif,Onion,8157.2,145769.2,17.87
+Karnataka,Shimoga,2024,Kharif,Rice,24251.5,69359.3,2.86
+Karnataka,Shimoga,2024,Rabi,Wheat,18352.0,60928.6,3.32
+Karnataka,Shimoga,2024,Kharif,Maize,17687.2,70218.2,3.97
+Karnataka,Shimoga,2024,Whole Year,Cotton(lint),1880.7,4588.9,2.44
+Karnataka,Shimoga,2024,Whole Year,Sugarcane,10162.5,826617.8,81.34
+Karnataka,Shimoga,2024,Kharif,Groundnut,23297.7,30287.0,1.3
+Karnataka,Shimoga,2024,Whole Year,Soyabean,19588.8,32517.4,1.66
+Karnataka,Shimoga,2024,Whole Year,Jowar,4008.1,8256.7,2.06
+Karnataka,Shimoga,2024,Rabi,Bajra,4347.8,6826.0,1.57
+Karnataka,Shimoga,2024,Whole Year,Ragi,16242.2,39793.4,2.45
+Karnataka,Shimoga,2024,Whole Year,Turmeric,15628.4,105022.8,6.72
+Karnataka,Shimoga,2024,Whole Year,Onion,17040.1,317797.9,18.65
+Andhra Pradesh,Chittoor,2024,Kharif,Rice,17191.1,51573.3,3.0
+Andhra Pradesh,Chittoor,2024,Rabi,Wheat,17963.7,63771.1,3.55
+Andhra Pradesh,Chittoor,2024,Rabi,Maize,3333.6,11167.6,3.35
+Andhra Pradesh,Chittoor,2024,Rabi,Cotton(lint),9522.0,14473.4,1.52
+Andhra Pradesh,Chittoor,2024,Whole Year,Sugarcane,2130.7,145825.1,68.44
+Andhra Pradesh,Chittoor,2024,Kharif,Groundnut,13462.8,28137.3,2.09
+Andhra Pradesh,Chittoor,2024,Rabi,Soyabean,8058.6,12087.9,1.5
+Andhra Pradesh,Chittoor,2024,Rabi,Jowar,11625.6,14183.2,1.22
+Andhra Pradesh,Chittoor,2024,Kharif,Bajra,19234.8,27698.1,1.44
+Andhra Pradesh,Chittoor,2024,Rabi,Ragi,19423.2,36709.8,1.89
+Andhra Pradesh,Chittoor,2024,Whole Year,Turmeric,21909.2,162785.4,7.43
+Andhra Pradesh,Chittoor,2024,Whole Year,Onion,7747.0,170434.0,22.0
+Andhra Pradesh,West Godavari,2024,Rabi,Rice,3417.5,12098.0,3.54
+Andhra Pradesh,West Godavari,2024,Rabi,Wheat,17707.0,91191.1,5.15
+Andhra Pradesh,West Godavari,2024,Rabi,Maize,5386.3,16105.0,2.99
+Andhra Pradesh,West Godavari,2024,Whole Year,Cotton(lint),5477.8,10243.5,1.87
+Andhra Pradesh,West Godavari,2024,Whole Year,Sugarcane,12464.1,951883.3,76.37
+Andhra Pradesh,West Godavari,2024,Kharif,Groundnut,5283.3,10249.6,1.94
+Andhra Pradesh,West Godavari,2024,Rabi,Soyabean,2537.1,5759.2,2.27
+Andhra Pradesh,West Godavari,2024,Whole Year,Jowar,5425.5,10254.2,1.89
+Andhra Pradesh,West Godavari,2024,Whole Year,Bajra,23001.9,40943.4,1.78
+Andhra Pradesh,West Godavari,2024,Rabi,Ragi,23440.3,50865.5,2.17
+Andhra Pradesh,West Godavari,2024,Whole Year,Turmeric,12897.7,103955.5,8.06
+Andhra Pradesh,West Godavari,2024,Whole Year,Onion,2173.8,46801.9,21.53
+Andhra Pradesh,Nellore,2024,Rabi,Rice,13811.0,36599.2,2.65
+Andhra Pradesh,Nellore,2024,Rabi,Wheat,7488.4,30927.1,4.13
+Andhra Pradesh,Nellore,2024,Kharif,Maize,8241.3,21509.8,2.61
+Andhra Pradesh,Nellore,2024,Kharif,Cotton(lint),3494.6,8282.2,2.37
+Andhra Pradesh,Nellore,2024,Whole Year,Sugarcane,10510.5,927761.8,88.27
+Andhra Pradesh,Nellore,2024,Kharif,Groundnut,23201.3,51506.9,2.22
+Andhra Pradesh,Nellore,2024,Rabi,Soyabean,20398.1,46099.7,2.26
+Andhra Pradesh,Nellore,2024,Kharif,Jowar,2987.4,4720.1,1.58
+Andhra Pradesh,Nellore,2024,Kharif,Bajra,9227.9,13749.6,1.49
+Andhra Pradesh,Nellore,2024,Kharif,Ragi,7667.2,20164.7,2.63
+Andhra Pradesh,Nellore,2024,Whole Year,Turmeric,12665.8,94233.6,7.44
+Andhra Pradesh,Nellore,2024,Rabi,Onion,18686.5,433526.8,23.2
+Andhra Pradesh,Guntur,2024,Whole Year,Rice,20322.3,72144.2,3.55
+Andhra Pradesh,Guntur,2024,Rabi,Wheat,2100.0,7434.0,3.54
+Andhra Pradesh,Guntur,2024,Kharif,Maize,20434.0,55784.8,2.73
+Andhra Pradesh,Guntur,2024,Whole Year,Cotton(lint),14602.0,38549.3,2.64
+Andhra Pradesh,Guntur,2024,Whole Year,Sugarcane,15913.1,1148925.8,72.2
+Andhra Pradesh,Guntur,2024,Rabi,Groundnut,1790.1,3616.0,2.02
+Andhra Pradesh,Guntur,2024,Whole Year,Soyabean,19862.3,42902.6,2.16
+Andhra Pradesh,Guntur,2024,Kharif,Jowar,1681.5,2707.2,1.61
+Andhra Pradesh,Guntur,2024,Rabi,Bajra,12252.4,16908.3,1.38
+Andhra Pradesh,Guntur,2024,Whole Year,Ragi,22695.1,58553.4,2.58
+Andhra Pradesh,Guntur,2024,Whole Year,Turmeric,17252.1,101097.3,5.86
+Andhra Pradesh,Guntur,2024,Kharif,Onion,17754.7,328106.9,18.48
+Telangana,Medak,2024,Rabi,Rice,4669.9,13449.3,2.88
+Telangana,Medak,2024,Rabi,Wheat,7284.9,36788.7,5.05
+Telangana,Medak,2024,Whole Year,Maize,7789.7,29445.1,3.78
+Telangana,Medak,2024,Whole Year,Cotton(lint),15569.3,31761.4,2.04
+Telangana,Medak,2024,Whole Year,Sugarcane,9582.4,592479.8,61.83
+Telangana,Medak,2024,Rabi,Groundnut,20685.2,50678.7,2.45
+Telangana,Medak,2024,Rabi,Soyabean,16060.2,32602.2,2.03
+Telangana,Medak,2024,Whole Year,Jowar,3597.3,5467.9,1.52
+Telangana,Medak,2024,Kharif,Bajra,21143.4,17971.9,0.85
+Telangana,Medak,2024,Kharif,Ragi,2250.7,5559.2,2.47
+Telangana,Medak,2024,Whole Year,Turmeric,11837.6,78838.4,6.66
+Telangana,Medak,2024,Whole Year,Onion,22481.3,497960.8,22.15
+Telangana,Nizamabad,2024,Kharif,Rice,20590.0,59505.1,2.89
+Telangana,Nizamabad,2024,Rabi,Wheat,13741.0,59498.5,4.33
+Telangana,Nizamabad,2024,Rabi,Maize,22518.5,74085.9,3.29
+Telangana,Nizamabad,2024,Rabi,Cotton(lint),18890.0,40424.6,2.14
+Telangana,Nizamabad,2024,Whole Year,Sugarcane,22939.7,1502779.7,65.51
+Telangana,Nizamabad,2024,Rabi,Groundnut,20366.7,47047.1,2.31
+Telangana,Nizamabad,2024,Kharif,Soyabean,10923.6,24468.9,2.24
+Telangana,Nizamabad,2024,Kharif,Jowar,13315.3,18242.0,1.37
+Telangana,Nizamabad,2024,Whole Year,Bajra,3067.9,3006.5,0.98
+Telangana,Nizamabad,2024,Kharif,Ragi,16135.8,28560.4,1.77
+Telangana,Nizamabad,2024,Whole Year,Turmeric,12818.0,96263.2,7.51
+Telangana,Nizamabad,2024,Whole Year,Onion,3294.9,42767.8,12.98
+Telangana,Nalgonda,2024,Kharif,Rice,15439.0,69012.3,4.47
+Telangana,Nalgonda,2024,Rabi,Wheat,20940.2,62611.2,2.99
+Telangana,Nalgonda,2024,Rabi,Maize,14622.7,58637.0,4.01
+Telangana,Nalgonda,2024,Kharif,Cotton(lint),18578.3,41987.0,2.26
+Telangana,Nalgonda,2024,Whole Year,Sugarcane,22964.5,2150395.8,93.64
+Telangana,Nalgonda,2024,Whole Year,Groundnut,14535.0,34593.3,2.38
+Telangana,Nalgonda,2024,Kharif,Soyabean,11409.7,23161.7,2.03
+Telangana,Nalgonda,2024,Rabi,Jowar,8232.8,12925.5,1.57
+Telangana,Nalgonda,2024,Rabi,Bajra,23153.0,32182.7,1.39
+Telangana,Nalgonda,2024,Kharif,Ragi,20666.3,41125.9,1.99
+Telangana,Nalgonda,2024,Whole Year,Turmeric,15886.1,113267.9,7.13
+Telangana,Nalgonda,2024,Whole Year,Onion,12862.5,270241.1,21.01
+Telangana,Mahabubnagar,2024,Whole Year,Rice,11884.6,46587.6,3.92
+Telangana,Mahabubnagar,2024,Rabi,Wheat,19335.7,85270.4,4.41
+Telangana,Mahabubnagar,2024,Kharif,Maize,3600.1,11412.3,3.17
+Telangana,Mahabubnagar,2024,Whole Year,Cotton(lint),18738.1,29418.8,1.57
+Telangana,Mahabubnagar,2024,Whole Year,Sugarcane,6407.7,502235.5,78.38
+Telangana,Mahabubnagar,2024,Kharif,Groundnut,6591.2,15818.9,2.4
+Telangana,Mahabubnagar,2024,Kharif,Soyabean,21394.4,53058.1,2.48
+Telangana,Mahabubnagar,2024,Rabi,Jowar,3792.8,7358.0,1.94
+Telangana,Mahabubnagar,2024,Rabi,Bajra,3470.9,5275.8,1.52
+Telangana,Mahabubnagar,2024,Kharif,Ragi,14562.2,34949.3,2.4
+Telangana,Mahabubnagar,2024,Whole Year,Turmeric,8538.2,56693.6,6.64
+Telangana,Mahabubnagar,2024,Kharif,Onion,21461.8,442327.7,20.61
+Tamil Nadu,Coimbatore,2024,Kharif,Rice,7833.8,30081.8,3.84
+Tamil Nadu,Coimbatore,2024,Rabi,Wheat,5561.3,16517.1,2.97
+Tamil Nadu,Coimbatore,2024,Rabi,Maize,23350.3,89898.7,3.85
+Tamil Nadu,Coimbatore,2024,Whole Year,Cotton(lint),12656.6,24427.2,1.93
+Tamil Nadu,Coimbatore,2024,Whole Year,Sugarcane,10350.4,948096.6,91.6
+Tamil Nadu,Coimbatore,2024,Kharif,Groundnut,5817.3,9831.2,1.69
+Tamil Nadu,Coimbatore,2024,Whole Year,Soyabean,15189.8,30835.3,2.03
+Tamil Nadu,Coimbatore,2024,Kharif,Jowar,9154.1,17026.6,1.86
+Tamil Nadu,Coimbatore,2024,Kharif,Bajra,17755.7,25390.7,1.43
+Tamil Nadu,Coimbatore,2024,Whole Year,Ragi,8383.0,22131.1,2.64
+Tamil Nadu,Coimbatore,2024,Whole Year,Turmeric,18906.3,158434.8,8.38
+Tamil Nadu,Coimbatore,2024,Kharif,Onion,9484.6,222603.6,23.47
+Tamil Nadu,Madurai,2024,Rabi,Rice,16808.6,40340.6,2.4
+Tamil Nadu,Madurai,2024,Rabi,Wheat,8690.7,32416.3,3.73
+Tamil Nadu,Madurai,2024,Rabi,Maize,6365.5,21197.1,3.33
+Tamil Nadu,Madurai,2024,Kharif,Cotton(lint),9248.2,23213.0,2.51
+Tamil Nadu,Madurai,2024,Whole Year,Sugarcane,3334.4,234041.5,70.19
+Tamil Nadu,Madurai,2024,Kharif,Groundnut,10125.7,21770.3,2.15
+Tamil Nadu,Madurai,2024,Kharif,Soyabean,16670.6,38675.8,2.32
+Tamil Nadu,Madurai,2024,Kharif,Jowar,12052.7,13499.0,1.12
+Tamil Nadu,Madurai,2024,Kharif,Bajra,21453.9,28748.2,1.34
+Tamil Nadu,Madurai,2024,Rabi,Ragi,24920.8,58563.9,2.35
+Tamil Nadu,Madurai,2024,Whole Year,Turmeric,10541.6,61879.2,5.87
+Tamil Nadu,Madurai,2024,Kharif,Onion,7727.1,141019.6,18.25
+Tamil Nadu,Tirunelveli,2024,Rabi,Rice,20277.3,56573.7,2.79
+Tamil Nadu,Tirunelveli,2024,Rabi,Wheat,20516.5,91093.3,4.44
+Tamil Nadu,Tirunelveli,2024,Kharif,Maize,1356.6,3635.7,2.68
+Tamil Nadu,Tirunelveli,2024,Whole Year,Cotton(lint),11814.8,32254.4,2.73
+Tamil Nadu,Tirunelveli,2024,Whole Year,Sugarcane,16047.8,1014060.5,63.19
+Tamil Nadu,Tirunelveli,2024,Whole Year,Groundnut,21868.7,45705.6,2.09
+Tamil Nadu,Tirunelveli,2024,Rabi,Soyabean,10535.1,17804.3,1.69
+Tamil Nadu,Tirunelveli,2024,Rabi,Jowar,24101.7,22655.6,0.94
+Tamil Nadu,Tirunelveli,2024,Whole Year,Bajra,14225.3,11380.2,0.8
+Tamil Nadu,Tirunelveli,2024,Rabi,Ragi,24513.2,37014.9,1.51
+Tamil Nadu,Tirunelveli,2024,Whole Year,Turmeric,3996.4,24697.8,6.18
+Tamil Nadu,Tirunelveli,2024,Rabi,Onion,3790.9,84499.2,22.29
+Tamil Nadu,Vellore,2024,Kharif,Rice,6950.8,19462.2,2.8
+Tamil Nadu,Vellore,2024,Rabi,Wheat,7129.4,21958.6,3.08
+Tamil Nadu,Vellore,2024,Whole Year,Maize,6133.0,18644.3,3.04
+Tamil Nadu,Vellore,2024,Kharif,Cotton(lint),23200.8,51273.8,2.21
+Tamil Nadu,Vellore,2024,Whole Year,Sugarcane,14590.8,828757.4,56.8
+Tamil Nadu,Vellore,2024,Rabi,Groundnut,10352.2,22464.3,2.17
+Tamil Nadu,Vellore,2024,Whole Year,Soyabean,21576.5,45094.9,2.09
+Tamil Nadu,Vellore,2024,Whole Year,Jowar,23036.7,36398.0,1.58
+Tamil Nadu,Vellore,2024,Kharif,Bajra,12888.6,20106.2,1.56
+Tamil Nadu,Vellore,2024,Rabi,Ragi,23492.9,50744.7,2.16
+Tamil Nadu,Vellore,2024,Whole Year,Turmeric,19248.9,153606.2,7.98
+Tamil Nadu,Vellore,2024,Rabi,Onion,3241.2,66379.8,20.48
+Maharashtra,Pune,2024,Kharif,Rice,21223.5,52634.3,2.48
+Maharashtra,Pune,2024,Rabi,Wheat,7014.1,22936.1,3.27
+Maharashtra,Pune,2024,Whole Year,Maize,24212.0,93700.4,3.87
+Maharashtra,Pune,2024,Whole Year,Cotton(lint),24635.4,61588.5,2.5
+Maharashtra,Pune,2024,Whole Year,Sugarcane,19060.2,1688161.9,88.57
+Maharashtra,Pune,2024,Rabi,Groundnut,19503.7,44273.4,2.27
+Maharashtra,Pune,2024,Kharif,Soyabean,5475.8,13361.0,2.44
+Maharashtra,Pune,2024,Whole Year,Jowar,12845.0,19652.8,1.53
+Maharashtra,Pune,2024,Kharif,Bajra,12927.8,13057.1,1.01
+Maharashtra,Pune,2024,Rabi,Ragi,11358.1,28054.5,2.47
+Maharashtra,Pune,2024,Whole Year,Turmeric,24064.1,129705.5,5.39
+Maharashtra,Pune,2024,Kharif,Onion,5754.0,88669.1,15.41
+Maharashtra,Nashik,2024,Rabi,Rice,11512.9,47318.0,4.11
+Maharashtra,Nashik,2024,Rabi,Wheat,2810.2,12702.1,4.52
+Maharashtra,Nashik,2024,Whole Year,Maize,805.2,3261.1,4.05
+Maharashtra,Nashik,2024,Rabi,Cotton(lint),5228.5,13385.0,2.56
+Maharashtra,Nashik,2024,Whole Year,Sugarcane,21897.0,2053281.7,93.77
+Maharashtra,Nashik,2024,Kharif,Groundnut,13851.3,24239.8,1.75
+Maharashtra,Nashik,2024,Rabi,Soyabean,6980.4,11029.0,1.58
+Maharashtra,Nashik,2024,Kharif,Jowar,23133.8,22671.1,0.98
+Maharashtra,Nashik,2024,Kharif,Bajra,21627.7,22276.5,1.03
+Maharashtra,Nashik,2024,Kharif,Ragi,15474.7,37758.3,2.44
+Maharashtra,Nashik,2024,Whole Year,Turmeric,9224.4,58574.9,6.35
+Maharashtra,Nashik,2024,Kharif,Onion,7079.0,108662.6,15.35
+Maharashtra,Solapur,2024,Kharif,Rice,1886.6,7150.2,3.79
+Maharashtra,Solapur,2024,Rabi,Wheat,17391.9,83655.0,4.81
+Maharashtra,Solapur,2024,Rabi,Maize,2942.8,8445.8,2.87
+Maharashtra,Solapur,2024,Rabi,Cotton(lint),9595.2,23892.0,2.49
+Maharashtra,Solapur,2024,Whole Year,Sugarcane,21084.6,1702159.8,80.73
+Maharashtra,Solapur,2024,Kharif,Groundnut,15723.9,34592.6,2.2
+Maharashtra,Solapur,2024,Rabi,Soyabean,2920.4,6132.8,2.1
+Maharashtra,Solapur,2024,Kharif,Jowar,4032.9,4960.5,1.23
+Maharashtra,Solapur,2024,Rabi,Bajra,1190.0,1820.7,1.53
+Maharashtra,Solapur,2024,Whole Year,Ragi,12129.4,29959.6,2.47
+Maharashtra,Solapur,2024,Whole Year,Turmeric,24582.6,195677.5,7.96
+Maharashtra,Solapur,2024,Whole Year,Onion,10468.4,148651.3,14.2
+Maharashtra,Nagpur,2024,Rabi,Rice,2414.2,8063.4,3.34
+Maharashtra,Nagpur,2024,Rabi,Wheat,7814.4,24615.4,3.15
+Maharashtra,Nagpur,2024,Rabi,Maize,842.7,3303.4,3.92
+Maharashtra,Nagpur,2024,Whole Year,Cotton(lint),16319.3,27742.8,1.7
+Maharashtra,Nagpur,2024,Whole Year,Sugarcane,10770.8,638923.9,59.32
+Maharashtra,Nagpur,2024,Whole Year,Groundnut,1764.6,2594.0,1.47
+Maharashtra,Nagpur,2024,Rabi,Soyabean,13383.1,20208.5,1.51
+Maharashtra,Nagpur,2024,Rabi,Jowar,5770.2,8482.2,1.47
+Maharashtra,Nagpur,2024,Kharif,Bajra,13880.8,17351.0,1.25
+Maharashtra,Nagpur,2024,Whole Year,Ragi,4661.0,12631.3,2.71
+Maharashtra,Nagpur,2024,Whole Year,Turmeric,4210.4,19536.3,4.64
+Maharashtra,Nagpur,2024,Whole Year,Onion,8712.9,187414.5,21.51
+Punjab,Gurdaspur,2024,Whole Year,Rice,9329.6,29294.9,3.14
+Punjab,Gurdaspur,2024,Rabi,Wheat,13820.7,39665.4,2.87
+Punjab,Gurdaspur,2024,Rabi,Maize,11888.7,41967.1,3.53
+Punjab,Gurdaspur,2024,Kharif,Cotton(lint),1968.3,4113.7,2.09
+Punjab,Gurdaspur,2024,Whole Year,Sugarcane,3845.8,358467.0,93.21
+Punjab,Gurdaspur,2024,Whole Year,Groundnut,24159.6,29957.9,1.24
+Punjab,Gurdaspur,2024,Rabi,Soyabean,5796.6,11071.5,1.91
+Punjab,Gurdaspur,2024,Kharif,Jowar,18939.6,17803.2,0.94
+Punjab,Gurdaspur,2024,Rabi,Bajra,4705.8,4188.2,0.89
+Punjab,Gurdaspur,2024,Kharif,Ragi,13743.1,27348.8,1.99
+Punjab,Gurdaspur,2024,Whole Year,Turmeric,1510.8,9880.6,6.54
+Punjab,Gurdaspur,2024,Kharif,Onion,16549.6,297065.3,17.95
+Punjab,Patiala,2024,Kharif,Rice,3438.8,13927.1,4.05
+Punjab,Patiala,2024,Rabi,Wheat,6720.2,32861.8,4.89
+Punjab,Patiala,2024,Whole Year,Maize,19450.1,73132.4,3.76
+Punjab,Patiala,2024,Kharif,Cotton(lint),24970.4,38953.8,1.56
+Punjab,Patiala,2024,Whole Year,Sugarcane,4596.0,401276.8,87.31
+Punjab,Patiala,2024,Kharif,Groundnut,12112.0,14655.5,1.21
+Punjab,Patiala,2024,Rabi,Soyabean,8006.6,14812.2,1.85
+Punjab,Patiala,2024,Kharif,Jowar,20713.8,37492.0,1.81
+Punjab,Patiala,2024,Rabi,Bajra,21492.3,37181.7,1.73
+Punjab,Patiala,2024,Kharif,Ragi,4999.8,8449.7,1.69
+Punjab,Patiala,2024,Whole Year,Turmeric,16374.7,74668.6,4.56
+Punjab,Patiala,2024,Rabi,Onion,4936.6,113245.6,22.94
+Punjab,Bathinda,2024,Rabi,Rice,19005.6,48084.2,2.53
+Punjab,Bathinda,2024,Rabi,Wheat,18447.9,93161.9,5.05
+Punjab,Bathinda,2024,Whole Year,Maize,916.9,2714.0,2.96
+Punjab,Bathinda,2024,Whole Year,Cotton(lint),20670.7,52090.2,2.52
+Punjab,Bathinda,2024,Whole Year,Sugarcane,12124.3,754252.7,62.21
+Punjab,Bathinda,2024,Whole Year,Groundnut,1053.8,2255.1,2.14
+Punjab,Bathinda,2024,Rabi,Soyabean,16218.0,29030.2,1.79
+Punjab,Bathinda,2024,Kharif,Jowar,6003.9,6364.1,1.06
+Punjab,Bathinda,2024,Rabi,Bajra,2433.1,3090.0,1.27
+Punjab,Bathinda,2024,Rabi,Ragi,18144.9,27761.7,1.53
+Punjab,Bathinda,2024,Whole Year,Turmeric,24281.5,122378.8,5.04
+Punjab,Bathinda,2024,Rabi,Onion,20765.5,338685.3,16.31
+Punjab,Amritsar,2024,Whole Year,Rice,9093.5,28008.0,3.08
+Punjab,Amritsar,2024,Rabi,Wheat,3719.6,11382.0,3.06
+Punjab,Amritsar,2024,Whole Year,Maize,3205.8,13207.9,4.12
+Punjab,Amritsar,2024,Whole Year,Cotton(lint),14745.3,38042.9,2.58
+Punjab,Amritsar,2024,Whole Year,Sugarcane,4682.9,338058.6,72.19
+Punjab,Amritsar,2024,Rabi,Groundnut,24837.5,54145.8,2.18
+Punjab,Amritsar,2024,Whole Year,Soyabean,15362.9,30572.2,1.99
+Punjab,Amritsar,2024,Rabi,Jowar,6754.8,10605.0,1.57
+Punjab,Amritsar,2024,Whole Year,Bajra,17024.4,15832.7,0.93
+Punjab,Amritsar,2024,Rabi,Ragi,9794.5,15475.3,1.58
+Punjab,Amritsar,2024,Whole Year,Turmeric,737.0,4864.2,6.6
+Punjab,Amritsar,2024,Rabi,Onion,11676.6,143388.6,12.28
+Madhya Pradesh,Sehore,2024,Whole Year,Rice,3183.6,7226.8,2.27
+Madhya Pradesh,Sehore,2024,Rabi,Wheat,7643.6,36918.6,4.83
+Madhya Pradesh,Sehore,2024,Kharif,Maize,2601.0,7829.0,3.01
+Madhya Pradesh,Sehore,2024,Kharif,Cotton(lint),10389.8,25247.2,2.43
+Madhya Pradesh,Sehore,2024,Whole Year,Sugarcane,19220.2,1774601.1,92.33
+Madhya Pradesh,Sehore,2024,Kharif,Groundnut,10129.4,25830.0,2.55
+Madhya Pradesh,Sehore,2024,Whole Year,Soyabean,3632.5,5884.7,1.62
+Madhya Pradesh,Sehore,2024,Rabi,Jowar,24501.4,30136.7,1.23
+Madhya Pradesh,Sehore,2024,Rabi,Bajra,12991.6,13901.0,1.07
+Madhya Pradesh,Sehore,2024,Kharif,Ragi,12852.2,21206.1,1.65
+Madhya Pradesh,Sehore,2024,Whole Year,Turmeric,14565.1,96275.3,6.61
+Madhya Pradesh,Sehore,2024,Rabi,Onion,7220.9,102897.8,14.25
+Madhya Pradesh,Gwalior,2024,Whole Year,Rice,21464.2,55592.3,2.59
+Madhya Pradesh,Gwalior,2024,Rabi,Wheat,24947.8,81828.8,3.28
+Madhya Pradesh,Gwalior,2024,Whole Year,Maize,12545.9,51438.2,4.1
+Madhya Pradesh,Gwalior,2024,Kharif,Cotton(lint),21722.4,41272.6,1.9
+Madhya Pradesh,Gwalior,2024,Whole Year,Sugarcane,8556.9,771404.5,90.15
+Madhya Pradesh,Gwalior,2024,Kharif,Groundnut,548.5,674.7,1.23
+Madhya Pradesh,Gwalior,2024,Whole Year,Soyabean,13215.4,22069.7,1.67
+Madhya Pradesh,Gwalior,2024,Rabi,Jowar,18722.5,39130.0,2.09
+Madhya Pradesh,Gwalior,2024,Rabi,Bajra,6362.2,5789.6,0.91
+Madhya Pradesh,Gwalior,2024,Kharif,Ragi,582.3,1269.4,2.18
+Madhya Pradesh,Gwalior,2024,Whole Year,Turmeric,19318.9,130789.0,6.77
+Madhya Pradesh,Gwalior,2024,Kharif,Onion,3472.3,46633.0,13.43
+Madhya Pradesh,Indore,2024,Kharif,Rice,1067.0,4694.8,4.4
+Madhya Pradesh,Indore,2024,Rabi,Wheat,21334.7,79365.1,3.72
+Madhya Pradesh,Indore,2024,Whole Year,Maize,15880.5,61775.1,3.89
+Madhya Pradesh,Indore,2024,Kharif,Cotton(lint),17295.0,29055.6,1.68
+Madhya Pradesh,Indore,2024,Whole Year,Sugarcane,11690.3,1031902.8,88.27
+Madhya Pradesh,Indore,2024,Whole Year,Groundnut,13532.3,30853.6,2.28
+Madhya Pradesh,Indore,2024,Whole Year,Soyabean,11765.9,25767.3,2.19
+Madhya Pradesh,Indore,2024,Kharif,Jowar,10011.0,15517.1,1.55
+Madhya Pradesh,Indore,2024,Whole Year,Bajra,8752.5,11728.4,1.34
+Madhya Pradesh,Indore,2024,Kharif,Ragi,23598.7,62064.6,2.63
+Madhya Pradesh,Indore,2024,Whole Year,Turmeric,13916.5,89343.9,6.42
+Madhya Pradesh,Indore,2024,Rabi,Onion,10018.4,125129.8,12.49
+Madhya Pradesh,Bhopal,2024,Kharif,Rice,23073.3,94139.1,4.08
+Madhya Pradesh,Bhopal,2024,Rabi,Wheat,24324.8,98272.2,4.04
+Madhya Pradesh,Bhopal,2024,Whole Year,Maize,5868.4,19013.6,3.24
+Madhya Pradesh,Bhopal,2024,Kharif,Cotton(lint),18213.8,31692.0,1.74
+Madhya Pradesh,Bhopal,2024,Whole Year,Sugarcane,11418.9,1052594.2,92.18
+Madhya Pradesh,Bhopal,2024,Whole Year,Groundnut,22118.3,36495.2,1.65
+Madhya Pradesh,Bhopal,2024,Whole Year,Soyabean,15301.2,32285.5,2.11
+Madhya Pradesh,Bhopal,2024,Whole Year,Jowar,6848.9,10273.3,1.5
+Madhya Pradesh,Bhopal,2024,Whole Year,Bajra,24089.9,26739.8,1.11
+Madhya Pradesh,Bhopal,2024,Kharif,Ragi,5133.3,9445.3,1.84
+Madhya Pradesh,Bhopal,2024,Whole Year,Turmeric,21272.7,96790.8,4.55
+Madhya Pradesh,Bhopal,2024,Rabi,Onion,5484.6,115999.3,21.15
+Karnataka,Dharwad,2025,Rabi,Rice,8380.5,36622.8,4.37
+Karnataka,Dharwad,2025,Rabi,Wheat,15376.6,52280.4,3.4
+Karnataka,Dharwad,2025,Whole Year,Maize,22319.0,66064.2,2.96
+Karnataka,Dharwad,2025,Rabi,Cotton(lint),11082.6,17843.0,1.61
+Karnataka,Dharwad,2025,Whole Year,Sugarcane,1814.9,104066.4,57.34
+Karnataka,Dharwad,2025,Kharif,Groundnut,7041.4,14786.9,2.1
+Karnataka,Dharwad,2025,Kharif,Soyabean,20347.8,44358.2,2.18
+Karnataka,Dharwad,2025,Whole Year,Jowar,22801.1,39445.9,1.73
+Karnataka,Dharwad,2025,Kharif,Bajra,23055.9,33431.1,1.45
+Karnataka,Dharwad,2025,Whole Year,Ragi,11445.1,30901.8,2.7
+Karnataka,Dharwad,2025,Whole Year,Turmeric,7580.2,34110.9,4.5
+Karnataka,Dharwad,2025,Rabi,Onion,3948.1,72526.6,18.37
+Karnataka,Mysore,2025,Whole Year,Rice,22237.4,74272.9,3.34
+Karnataka,Mysore,2025,Rabi,Wheat,17376.3,86360.2,4.97
+Karnataka,Mysore,2025,Rabi,Maize,6071.3,24588.8,4.05
+Karnataka,Mysore,2025,Whole Year,Cotton(lint),24288.0,48090.2,1.98
+Karnataka,Mysore,2025,Whole Year,Sugarcane,4414.4,407096.0,92.22
+Karnataka,Mysore,2025,Rabi,Groundnut,24895.8,30372.9,1.22
+Karnataka,Mysore,2025,Rabi,Soyabean,2636.2,5483.3,2.08
+Karnataka,Mysore,2025,Whole Year,Jowar,23785.2,37104.9,1.56
+Karnataka,Mysore,2025,Rabi,Bajra,3126.0,2875.9,0.92
+Karnataka,Mysore,2025,Rabi,Ragi,23487.6,54491.2,2.32
+Karnataka,Mysore,2025,Whole Year,Turmeric,19764.4,166021.0,8.4
+Karnataka,Mysore,2025,Rabi,Onion,14329.3,221244.4,15.44
+Karnataka,Davangere,2025,Rabi,Rice,3303.3,7498.5,2.27
+Karnataka,Davangere,2025,Rabi,Wheat,11883.9,38147.3,3.21
+Karnataka,Davangere,2025,Kharif,Maize,6980.3,22267.2,3.19
+Karnataka,Davangere,2025,Kharif,Cotton(lint),2588.7,5669.3,2.19
+Karnataka,Davangere,2025,Whole Year,Sugarcane,13298.1,975149.7,73.33
+Karnataka,Davangere,2025,Kharif,Groundnut,2698.4,6557.1,2.43
+Karnataka,Davangere,2025,Kharif,Soyabean,5412.3,12935.4,2.39
+Karnataka,Davangere,2025,Whole Year,Jowar,18507.7,37200.5,2.01
+Karnataka,Davangere,2025,Rabi,Bajra,2181.8,1941.8,0.89
+Karnataka,Davangere,2025,Kharif,Ragi,16544.2,30441.3,1.84
+Karnataka,Davangere,2025,Whole Year,Turmeric,13542.6,81255.6,6.0
+Karnataka,Davangere,2025,Rabi,Onion,18518.0,318880.0,17.22
+Karnataka,Bangalore Rural,2025,Rabi,Rice,5997.5,24409.8,4.07
+Karnataka,Bangalore Rural,2025,Rabi,Wheat,22334.5,111449.2,4.99
+Karnataka,Bangalore Rural,2025,Rabi,Maize,8145.4,30382.3,3.73
+Karnataka,Bangalore Rural,2025,Rabi,Cotton(lint),16549.7,43856.7,2.65
+Karnataka,Bangalore Rural,2025,Whole Year,Sugarcane,24472.5,1756146.6,71.76
+Karnataka,Bangalore Rural,2025,Kharif,Groundnut,21377.2,34631.1,1.62
+Karnataka,Bangalore Rural,2025,Kharif,Soyabean,3123.2,4684.8,1.5
+Karnataka,Bangalore Rural,2025,Kharif,Jowar,667.7,1001.6,1.5
+Karnataka,Bangalore Rural,2025,Whole Year,Bajra,20064.5,35714.8,1.78
+Karnataka,Bangalore Rural,2025,Whole Year,Ragi,8073.6,20991.4,2.6
+Karnataka,Bangalore Rural,2025,Whole Year,Turmeric,6857.1,40456.9,5.9
+Karnataka,Bangalore Rural,2025,Rabi,Onion,2535.3,60821.8,23.99
+Andhra Pradesh,Nellore,2025,Kharif,Rice,18861.6,46965.4,2.49
+Andhra Pradesh,Nellore,2025,Rabi,Wheat,11741.8,59765.8,5.09
+Andhra Pradesh,Nellore,2025,Rabi,Maize,11600.0,29116.0,2.51
+Andhra Pradesh,Nellore,2025,Rabi,Cotton(lint),21258.9,50808.8,2.39
+Andhra Pradesh,Nellore,2025,Whole Year,Sugarcane,9992.0,689847.7,69.04
+Andhra Pradesh,Nellore,2025,Whole Year,Groundnut,19687.7,49809.9,2.53
+Andhra Pradesh,Nellore,2025,Kharif,Soyabean,7263.5,10750.0,1.48
+Andhra Pradesh,Nellore,2025,Whole Year,Jowar,22043.4,43205.1,1.96
+Andhra Pradesh,Nellore,2025,Rabi,Bajra,21381.4,26512.9,1.24
+Andhra Pradesh,Nellore,2025,Rabi,Ragi,19857.6,37332.3,1.88
+Andhra Pradesh,Nellore,2025,Whole Year,Turmeric,11943.5,57567.7,4.82
+Andhra Pradesh,Nellore,2025,Kharif,Onion,14665.4,288468.4,19.67
+Andhra Pradesh,Chittoor,2025,Rabi,Rice,868.6,2736.1,3.15
+Andhra Pradesh,Chittoor,2025,Rabi,Wheat,23349.9,110678.5,4.74
+Andhra Pradesh,Chittoor,2025,Rabi,Maize,12764.7,42378.8,3.32
+Andhra Pradesh,Chittoor,2025,Rabi,Cotton(lint),24352.1,38476.3,1.58
+Andhra Pradesh,Chittoor,2025,Whole Year,Sugarcane,8173.6,538476.8,65.88
+Andhra Pradesh,Chittoor,2025,Kharif,Groundnut,8036.2,13099.0,1.63
+Andhra Pradesh,Chittoor,2025,Rabi,Soyabean,22028.3,49123.1,2.23
+Andhra Pradesh,Chittoor,2025,Whole Year,Jowar,4232.8,4359.8,1.03
+Andhra Pradesh,Chittoor,2025,Kharif,Bajra,8738.8,12583.9,1.44
+Andhra Pradesh,Chittoor,2025,Rabi,Ragi,15312.7,37975.5,2.48
+Andhra Pradesh,Chittoor,2025,Whole Year,Turmeric,4508.9,24934.2,5.53
+Andhra Pradesh,Chittoor,2025,Kharif,Onion,921.2,15476.2,16.8
+Andhra Pradesh,Prakasam,2025,Whole Year,Rice,7272.1,20725.5,2.85
+Andhra Pradesh,Prakasam,2025,Rabi,Wheat,20549.8,95351.1,4.64
+Andhra Pradesh,Prakasam,2025,Kharif,Maize,16929.2,59929.4,3.54
+Andhra Pradesh,Prakasam,2025,Kharif,Cotton(lint),13894.2,20980.2,1.51
+Andhra Pradesh,Prakasam,2025,Whole Year,Sugarcane,4095.4,266037.2,64.96
+Andhra Pradesh,Prakasam,2025,Whole Year,Groundnut,11011.3,17948.4,1.63
+Andhra Pradesh,Prakasam,2025,Rabi,Soyabean,17090.6,38795.7,2.27
+Andhra Pradesh,Prakasam,2025,Whole Year,Jowar,21923.6,32885.4,1.5
+Andhra Pradesh,Prakasam,2025,Kharif,Bajra,18238.4,24257.1,1.33
+Andhra Pradesh,Prakasam,2025,Rabi,Ragi,14873.8,30491.3,2.05
+Andhra Pradesh,Prakasam,2025,Whole Year,Turmeric,1068.4,6538.6,6.12
+Andhra Pradesh,Prakasam,2025,Rabi,Onion,21721.2,265433.1,12.22
+Andhra Pradesh,Guntur,2025,Kharif,Rice,20505.7,91865.5,4.48
+Andhra Pradesh,Guntur,2025,Rabi,Wheat,4952.7,15799.1,3.19
+Andhra Pradesh,Guntur,2025,Rabi,Maize,8119.6,29393.0,3.62
+Andhra Pradesh,Guntur,2025,Rabi,Cotton(lint),2515.4,6087.3,2.42
+Andhra Pradesh,Guntur,2025,Whole Year,Sugarcane,6554.8,368183.1,56.17
+Andhra Pradesh,Guntur,2025,Whole Year,Groundnut,10335.5,16950.2,1.64
+Andhra Pradesh,Guntur,2025,Whole Year,Soyabean,23801.0,44507.9,1.87
+Andhra Pradesh,Guntur,2025,Kharif,Jowar,12668.4,12921.8,1.02
+Andhra Pradesh,Guntur,2025,Whole Year,Bajra,16225.6,21255.5,1.31
+Andhra Pradesh,Guntur,2025,Kharif,Ragi,24692.6,43459.0,1.76
+Andhra Pradesh,Guntur,2025,Whole Year,Turmeric,2030.8,14824.8,7.3
+Andhra Pradesh,Guntur,2025,Kharif,Onion,15069.5,280443.4,18.61
+Telangana,Nalgonda,2025,Kharif,Rice,2691.9,7618.1,2.83
+Telangana,Nalgonda,2025,Rabi,Wheat,23489.8,77516.3,3.3
+Telangana,Nalgonda,2025,Rabi,Maize,20425.6,59438.5,2.91
+Telangana,Nalgonda,2025,Whole Year,Cotton(lint),12661.4,19498.6,1.54
+Telangana,Nalgonda,2025,Whole Year,Sugarcane,20654.6,1765555.2,85.48
+Telangana,Nalgonda,2025,Whole Year,Groundnut,10666.1,24425.4,2.29
+Telangana,Nalgonda,2025,Kharif,Soyabean,22173.3,49446.5,2.23
+Telangana,Nalgonda,2025,Kharif,Jowar,19133.7,38841.4,2.03
+Telangana,Nalgonda,2025,Whole Year,Bajra,18024.6,32083.8,1.78
+Telangana,Nalgonda,2025,Kharif,Ragi,18183.1,33456.9,1.84
+Telangana,Nalgonda,2025,Whole Year,Turmeric,14754.9,83217.6,5.64
+Telangana,Nalgonda,2025,Whole Year,Onion,11933.2,218258.2,18.29
+Telangana,Warangal,2025,Rabi,Rice,23071.0,84209.1,3.65
+Telangana,Warangal,2025,Rabi,Wheat,2387.5,12176.2,5.1
+Telangana,Warangal,2025,Rabi,Maize,5974.7,20314.0,3.4
+Telangana,Warangal,2025,Whole Year,Cotton(lint),3424.8,7055.1,2.06
+Telangana,Warangal,2025,Whole Year,Sugarcane,4578.5,348607.0,76.14
+Telangana,Warangal,2025,Rabi,Groundnut,13303.4,15964.1,1.2
+Telangana,Warangal,2025,Kharif,Soyabean,19595.0,40365.7,2.06
+Telangana,Warangal,2025,Kharif,Jowar,18018.9,26307.6,1.46
+Telangana,Warangal,2025,Rabi,Bajra,3091.7,2566.1,0.83
+Telangana,Warangal,2025,Whole Year,Ragi,13043.6,32739.4,2.51
+Telangana,Warangal,2025,Whole Year,Turmeric,12014.6,94194.5,7.84
+Telangana,Warangal,2025,Kharif,Onion,22397.1,450629.7,20.12
+Telangana,Nizamabad,2025,Whole Year,Rice,16026.7,49362.2,3.08
+Telangana,Nizamabad,2025,Rabi,Wheat,12287.5,57259.8,4.66
+Telangana,Nizamabad,2025,Whole Year,Maize,5350.2,16478.6,3.08
+Telangana,Nizamabad,2025,Kharif,Cotton(lint),1487.8,3912.9,2.63
+Telangana,Nizamabad,2025,Whole Year,Sugarcane,14211.6,841895.2,59.24
+Telangana,Nizamabad,2025,Kharif,Groundnut,4960.5,7936.8,1.6
+Telangana,Nizamabad,2025,Kharif,Soyabean,17006.5,37244.2,2.19
+Telangana,Nizamabad,2025,Rabi,Jowar,19717.3,28787.3,1.46
+Telangana,Nizamabad,2025,Whole Year,Bajra,1271.2,1233.1,0.97
+Telangana,Nizamabad,2025,Rabi,Ragi,16893.7,31760.2,1.88
+Telangana,Nizamabad,2025,Whole Year,Turmeric,20060.9,101106.9,5.04
+Telangana,Nizamabad,2025,Rabi,Onion,24118.2,336448.9,13.95
+Telangana,Karimnagar,2025,Kharif,Rice,10072.2,23065.3,2.29
+Telangana,Karimnagar,2025,Rabi,Wheat,24836.2,105553.9,4.25
+Telangana,Karimnagar,2025,Rabi,Maize,14011.4,55204.9,3.94
+Telangana,Karimnagar,2025,Rabi,Cotton(lint),10261.1,21137.9,2.06
+Telangana,Karimnagar,2025,Whole Year,Sugarcane,10028.9,729101.0,72.7
+Telangana,Karimnagar,2025,Whole Year,Groundnut,9234.4,16714.3,1.81
+Telangana,Karimnagar,2025,Whole Year,Soyabean,3400.7,6937.4,2.04
+Telangana,Karimnagar,2025,Rabi,Jowar,17576.0,35679.3,2.03
+Telangana,Karimnagar,2025,Kharif,Bajra,2691.3,2287.6,0.85
+Telangana,Karimnagar,2025,Kharif,Ragi,21048.9,55990.1,2.66
+Telangana,Karimnagar,2025,Whole Year,Turmeric,20674.6,125081.3,6.05
+Telangana,Karimnagar,2025,Kharif,Onion,12268.4,148693.0,12.12
+Tamil Nadu,Erode,2025,Kharif,Rice,7410.7,19934.8,2.69
+Tamil Nadu,Erode,2025,Rabi,Wheat,18827.4,57800.1,3.07
+Tamil Nadu,Erode,2025,Whole Year,Maize,21709.7,75549.8,3.48
+Tamil Nadu,Erode,2025,Rabi,Cotton(lint),13774.8,24932.4,1.81
+Tamil Nadu,Erode,2025,Whole Year,Sugarcane,2116.0,118369.0,55.94
+Tamil Nadu,Erode,2025,Rabi,Groundnut,22865.4,50989.8,2.23
+Tamil Nadu,Erode,2025,Whole Year,Soyabean,20329.5,30087.7,1.48
+Tamil Nadu,Erode,2025,Kharif,Jowar,8251.6,9654.4,1.17
+Tamil Nadu,Erode,2025,Kharif,Bajra,2972.9,5083.7,1.71
+Tamil Nadu,Erode,2025,Rabi,Ragi,12168.6,23972.1,1.97
+Tamil Nadu,Erode,2025,Whole Year,Turmeric,20284.8,135908.2,6.7
+Tamil Nadu,Erode,2025,Rabi,Onion,17608.0,296694.8,16.85
+Tamil Nadu,Madurai,2025,Kharif,Rice,6161.7,25879.1,4.2
+Tamil Nadu,Madurai,2025,Rabi,Wheat,15554.4,55840.3,3.59
+Tamil Nadu,Madurai,2025,Rabi,Maize,13973.8,37170.3,2.66
+Tamil Nadu,Madurai,2025,Rabi,Cotton(lint),918.4,1441.9,1.57
+Tamil Nadu,Madurai,2025,Whole Year,Sugarcane,19145.8,1751457.8,91.48
+Tamil Nadu,Madurai,2025,Rabi,Groundnut,6859.6,17766.4,2.59
+Tamil Nadu,Madurai,2025,Rabi,Soyabean,12886.3,29509.6,2.29
+Tamil Nadu,Madurai,2025,Rabi,Jowar,21460.3,22533.3,1.05
+Tamil Nadu,Madurai,2025,Rabi,Bajra,6546.2,7462.7,1.14
+Tamil Nadu,Madurai,2025,Whole Year,Ragi,19240.5,50410.1,2.62
+Tamil Nadu,Madurai,2025,Whole Year,Turmeric,3852.0,29198.2,7.58
+Tamil Nadu,Madurai,2025,Rabi,Onion,22736.4,362645.6,15.95
+Tamil Nadu,Coimbatore,2025,Kharif,Rice,3782.7,13466.4,3.56
+Tamil Nadu,Coimbatore,2025,Rabi,Wheat,19244.4,76785.2,3.99
+Tamil Nadu,Coimbatore,2025,Kharif,Maize,8863.5,26058.7,2.94
+Tamil Nadu,Coimbatore,2025,Rabi,Cotton(lint),21425.0,49277.5,2.3
+Tamil Nadu,Coimbatore,2025,Whole Year,Sugarcane,19179.5,1677822.7,87.48
+Tamil Nadu,Coimbatore,2025,Rabi,Groundnut,4439.0,9899.0,2.23
+Tamil Nadu,Coimbatore,2025,Kharif,Soyabean,4261.0,9672.5,2.27
+Tamil Nadu,Coimbatore,2025,Rabi,Jowar,19080.3,36443.4,1.91
+Tamil Nadu,Coimbatore,2025,Rabi,Bajra,19406.7,23676.2,1.22
+Tamil Nadu,Coimbatore,2025,Rabi,Ragi,11979.8,18568.7,1.55
+Tamil Nadu,Coimbatore,2025,Whole Year,Turmeric,2084.1,10232.9,4.91
+Tamil Nadu,Coimbatore,2025,Rabi,Onion,5487.6,120288.2,21.92
+Tamil Nadu,Tirunelveli,2025,Rabi,Rice,3501.3,10784.0,3.08
+Tamil Nadu,Tirunelveli,2025,Rabi,Wheat,6957.6,30404.7,4.37
+Tamil Nadu,Tirunelveli,2025,Whole Year,Maize,24875.2,94028.3,3.78
+Tamil Nadu,Tirunelveli,2025,Rabi,Cotton(lint),16782.2,25005.5,1.49
+Tamil Nadu,Tirunelveli,2025,Whole Year,Sugarcane,2893.7,195961.4,67.72
+Tamil Nadu,Tirunelveli,2025,Kharif,Groundnut,13486.9,30885.0,2.29
+Tamil Nadu,Tirunelveli,2025,Rabi,Soyabean,7764.4,11491.3,1.48
+Tamil Nadu,Tirunelveli,2025,Rabi,Jowar,12829.7,16550.3,1.29
+Tamil Nadu,Tirunelveli,2025,Rabi,Bajra,16957.1,20009.4,1.18
+Tamil Nadu,Tirunelveli,2025,Kharif,Ragi,14284.3,27568.7,1.93
+Tamil Nadu,Tirunelveli,2025,Whole Year,Turmeric,19379.2,117825.5,6.08
+Tamil Nadu,Tirunelveli,2025,Whole Year,Onion,10369.3,142785.3,13.77
+Maharashtra,Solapur,2025,Rabi,Rice,24927.3,80515.2,3.23
+Maharashtra,Solapur,2025,Rabi,Wheat,11001.0,34433.1,3.13
+Maharashtra,Solapur,2025,Rabi,Maize,16491.2,51782.4,3.14
+Maharashtra,Solapur,2025,Kharif,Cotton(lint),4023.5,10943.9,2.72
+Maharashtra,Solapur,2025,Whole Year,Sugarcane,21561.8,1795235.5,83.26
+Maharashtra,Solapur,2025,Rabi,Groundnut,5602.0,11035.9,1.97
+Maharashtra,Solapur,2025,Rabi,Soyabean,12159.3,26264.1,2.16
+Maharashtra,Solapur,2025,Rabi,Jowar,15291.7,17738.4,1.16
+Maharashtra,Solapur,2025,Whole Year,Bajra,11065.3,14384.9,1.3
+Maharashtra,Solapur,2025,Rabi,Ragi,15380.8,31223.0,2.03
+Maharashtra,Solapur,2025,Whole Year,Turmeric,16959.6,78353.4,4.62
+Maharashtra,Solapur,2025,Rabi,Onion,13166.8,305864.8,23.23
+Maharashtra,Aurangabad,2025,Rabi,Rice,14987.4,41065.5,2.74
+Maharashtra,Aurangabad,2025,Rabi,Wheat,1909.6,6874.6,3.6
+Maharashtra,Aurangabad,2025,Rabi,Maize,19546.8,57467.6,2.94
+Maharashtra,Aurangabad,2025,Rabi,Cotton(lint),19811.1,46754.2,2.36
+Maharashtra,Aurangabad,2025,Whole Year,Sugarcane,23618.0,1869600.9,79.16
+Maharashtra,Aurangabad,2025,Kharif,Groundnut,12119.5,24360.2,2.01
+Maharashtra,Aurangabad,2025,Whole Year,Soyabean,2553.3,6127.9,2.4
+Maharashtra,Aurangabad,2025,Whole Year,Jowar,21417.0,30198.0,1.41
+Maharashtra,Aurangabad,2025,Rabi,Bajra,19524.5,21672.2,1.11
+Maharashtra,Aurangabad,2025,Whole Year,Ragi,16577.8,31829.4,1.92
+Maharashtra,Aurangabad,2025,Whole Year,Turmeric,11530.7,85903.7,7.45
+Maharashtra,Aurangabad,2025,Whole Year,Onion,15086.8,264924.2,17.56
+Maharashtra,Nashik,2025,Whole Year,Rice,8805.5,24567.3,2.79
+Maharashtra,Nashik,2025,Rabi,Wheat,11190.2,33346.8,2.98
+Maharashtra,Nashik,2025,Whole Year,Maize,21635.0,62957.9,2.91
+Maharashtra,Nashik,2025,Whole Year,Cotton(lint),6862.0,17704.0,2.58
+Maharashtra,Nashik,2025,Whole Year,Sugarcane,12183.0,1089282.0,89.41
+Maharashtra,Nashik,2025,Whole Year,Groundnut,21013.7,38665.2,1.84
+Maharashtra,Nashik,2025,Kharif,Soyabean,4916.4,10717.8,2.18
+Maharashtra,Nashik,2025,Kharif,Jowar,23620.5,25510.1,1.08
+Maharashtra,Nashik,2025,Kharif,Bajra,3107.2,2734.3,0.88
+Maharashtra,Nashik,2025,Rabi,Ragi,20838.2,48969.8,2.35
+Maharashtra,Nashik,2025,Whole Year,Turmeric,12507.3,86675.6,6.93
+Maharashtra,Nashik,2025,Rabi,Onion,3111.9,43473.2,13.97
+Maharashtra,Pune,2025,Rabi,Rice,4361.6,18449.6,4.23
+Maharashtra,Pune,2025,Rabi,Wheat,9612.7,33548.3,3.49
+Maharashtra,Pune,2025,Whole Year,Maize,10401.6,35781.5,3.44
+Maharashtra,Pune,2025,Kharif,Cotton(lint),9682.5,26336.4,2.72
+Maharashtra,Pune,2025,Whole Year,Sugarcane,20970.9,1954697.6,93.21
+Maharashtra,Pune,2025,Kharif,Groundnut,5579.6,13391.0,2.4
+Maharashtra,Pune,2025,Kharif,Soyabean,5085.9,12155.3,2.39
+Maharashtra,Pune,2025,Whole Year,Jowar,10623.6,21778.4,2.05
+Maharashtra,Pune,2025,Whole Year,Bajra,19970.5,16176.1,0.81
+Maharashtra,Pune,2025,Rabi,Ragi,5017.4,10135.1,2.02
+Maharashtra,Pune,2025,Whole Year,Turmeric,12638.7,60792.1,4.81
+Maharashtra,Pune,2025,Rabi,Onion,13886.0,311324.1,22.42
+Punjab,Gurdaspur,2025,Kharif,Rice,10301.5,27299.0,2.65
+Punjab,Gurdaspur,2025,Rabi,Wheat,22233.8,64255.7,2.89
+Punjab,Gurdaspur,2025,Rabi,Maize,17288.6,70883.3,4.1
+Punjab,Gurdaspur,2025,Rabi,Cotton(lint),14790.9,24996.6,1.69
+Punjab,Gurdaspur,2025,Whole Year,Sugarcane,10625.1,779351.1,73.35
+Punjab,Gurdaspur,2025,Rabi,Groundnut,22962.1,39724.4,1.73
+Punjab,Gurdaspur,2025,Kharif,Soyabean,21393.9,50275.7,2.35
+Punjab,Gurdaspur,2025,Rabi,Jowar,4417.8,5433.9,1.23
+Punjab,Gurdaspur,2025,Rabi,Bajra,11114.2,11558.8,1.04
+Punjab,Gurdaspur,2025,Whole Year,Ragi,630.6,1128.8,1.79
+Punjab,Gurdaspur,2025,Whole Year,Turmeric,14289.1,106739.6,7.47
+Punjab,Gurdaspur,2025,Rabi,Onion,6872.7,95393.1,13.88
+Punjab,Patiala,2025,Rabi,Rice,15586.7,56268.0,3.61
+Punjab,Patiala,2025,Rabi,Wheat,24672.7,88328.3,3.58
+Punjab,Patiala,2025,Whole Year,Maize,15288.8,57333.0,3.75
+Punjab,Patiala,2025,Kharif,Cotton(lint),3616.9,8608.2,2.38
+Punjab,Patiala,2025,Whole Year,Sugarcane,24787.0,1852332.5,74.73
+Punjab,Patiala,2025,Whole Year,Groundnut,21598.9,30670.4,1.42
+Punjab,Patiala,2025,Whole Year,Soyabean,3387.9,6199.9,1.83
+Punjab,Patiala,2025,Rabi,Jowar,16479.3,20763.9,1.26
+Punjab,Patiala,2025,Whole Year,Bajra,20519.1,17646.4,0.86
+Punjab,Patiala,2025,Rabi,Ragi,18103.9,37837.2,2.09
+Punjab,Patiala,2025,Whole Year,Turmeric,16324.1,127328.0,7.8
+Punjab,Patiala,2025,Rabi,Onion,21643.8,403440.4,18.64
+Punjab,Amritsar,2025,Rabi,Rice,9219.5,24616.1,2.67
+Punjab,Amritsar,2025,Rabi,Wheat,12486.7,53692.8,4.3
+Punjab,Amritsar,2025,Whole Year,Maize,14866.4,37760.7,2.54
+Punjab,Amritsar,2025,Whole Year,Cotton(lint),514.0,1336.4,2.6
+Punjab,Amritsar,2025,Whole Year,Sugarcane,11153.8,977519.0,87.64
+Punjab,Amritsar,2025,Rabi,Groundnut,18830.5,48771.0,2.59
+Punjab,Amritsar,2025,Rabi,Soyabean,21238.9,30159.2,1.42
+Punjab,Amritsar,2025,Kharif,Jowar,13868.2,23575.9,1.7
+Punjab,Amritsar,2025,Kharif,Bajra,14343.6,23523.5,1.64
+Punjab,Amritsar,2025,Kharif,Ragi,15078.0,25934.2,1.72
+Punjab,Amritsar,2025,Whole Year,Turmeric,19405.4,157571.8,8.12
+Punjab,Amritsar,2025,Rabi,Onion,22111.9,328582.8,14.86
+Punjab,Bathinda,2025,Kharif,Rice,7347.6,25349.2,3.45
+Punjab,Bathinda,2025,Rabi,Wheat,22889.8,96137.2,4.2
+Punjab,Bathinda,2025,Kharif,Maize,22519.4,69584.9,3.09
+Punjab,Bathinda,2025,Kharif,Cotton(lint),6558.0,10755.1,1.64
+Punjab,Bathinda,2025,Whole Year,Sugarcane,23956.4,1552135.2,64.79
+Punjab,Bathinda,2025,Kharif,Groundnut,1498.1,3490.6,2.33
+Punjab,Bathinda,2025,Whole Year,Soyabean,20231.3,36011.7,1.78
+Punjab,Bathinda,2025,Kharif,Jowar,3281.3,6431.3,1.96
+Punjab,Bathinda,2025,Kharif,Bajra,24738.1,26717.1,1.08
+Punjab,Bathinda,2025,Whole Year,Ragi,17232.3,26537.7,1.54
+Punjab,Bathinda,2025,Whole Year,Turmeric,21455.2,146324.5,6.82
+Punjab,Bathinda,2025,Whole Year,Onion,20309.1,313166.3,15.42
+Madhya Pradesh,Ujjain,2025,Kharif,Rice,5222.3,13421.3,2.57
+Madhya Pradesh,Ujjain,2025,Rabi,Wheat,21320.1,79950.4,3.75
+Madhya Pradesh,Ujjain,2025,Kharif,Maize,15006.3,40817.1,2.72
+Madhya Pradesh,Ujjain,2025,Whole Year,Cotton(lint),1153.0,2525.1,2.19
+Madhya Pradesh,Ujjain,2025,Whole Year,Sugarcane,18640.3,1770642.1,94.99
+Madhya Pradesh,Ujjain,2025,Kharif,Groundnut,3500.0,8260.0,2.36
+Madhya Pradesh,Ujjain,2025,Rabi,Soyabean,18940.1,28410.1,1.5
+Madhya Pradesh,Ujjain,2025,Whole Year,Jowar,1909.5,3513.5,1.84
+Madhya Pradesh,Ujjain,2025,Whole Year,Bajra,10124.1,17312.2,1.71
+Madhya Pradesh,Ujjain,2025,Whole Year,Ragi,15228.0,25430.8,1.67
+Madhya Pradesh,Ujjain,2025,Whole Year,Turmeric,1882.8,9545.8,5.07
+Madhya Pradesh,Ujjain,2025,Rabi,Onion,10336.5,133340.9,12.9
+Madhya Pradesh,Gwalior,2025,Rabi,Rice,8070.3,24614.4,3.05
+Madhya Pradesh,Gwalior,2025,Rabi,Wheat,4421.3,22018.1,4.98
+Madhya Pradesh,Gwalior,2025,Rabi,Maize,4965.2,18967.1,3.82
+Madhya Pradesh,Gwalior,2025,Rabi,Cotton(lint),16202.5,35483.5,2.19
+Madhya Pradesh,Gwalior,2025,Whole Year,Sugarcane,22591.3,1551570.5,68.68
+Madhya Pradesh,Gwalior,2025,Kharif,Groundnut,14855.9,21541.1,1.45
+Madhya Pradesh,Gwalior,2025,Rabi,Soyabean,2362.3,3897.8,1.65
+Madhya Pradesh,Gwalior,2025,Rabi,Jowar,9623.2,17033.1,1.77
+Madhya Pradesh,Gwalior,2025,Kharif,Bajra,23631.8,38992.5,1.65
+Madhya Pradesh,Gwalior,2025,Rabi,Ragi,12099.6,20569.3,1.7
+Madhya Pradesh,Gwalior,2025,Whole Year,Turmeric,21399.7,150225.9,7.02
+Madhya Pradesh,Gwalior,2025,Rabi,Onion,6670.9,88256.0,13.23
+Madhya Pradesh,Jabalpur,2025,Kharif,Rice,17679.9,75139.6,4.25
+Madhya Pradesh,Jabalpur,2025,Rabi,Wheat,10930.2,42409.2,3.88
+Madhya Pradesh,Jabalpur,2025,Kharif,Maize,1148.0,3983.6,3.47
+Madhya Pradesh,Jabalpur,2025,Kharif,Cotton(lint),16666.2,43832.1,2.63
+Madhya Pradesh,Jabalpur,2025,Whole Year,Sugarcane,22608.5,1528786.8,67.62
+Madhya Pradesh,Jabalpur,2025,Kharif,Groundnut,7126.8,10476.4,1.47
+Madhya Pradesh,Jabalpur,2025,Whole Year,Soyabean,3094.4,5539.0,1.79
+Madhya Pradesh,Jabalpur,2025,Kharif,Jowar,21571.5,28690.1,1.33
+Madhya Pradesh,Jabalpur,2025,Rabi,Bajra,2805.1,2833.2,1.01
+Madhya Pradesh,Jabalpur,2025,Kharif,Ragi,2959.0,6894.5,2.33
+Madhya Pradesh,Jabalpur,2025,Whole Year,Turmeric,7838.1,56120.8,7.16
+Madhya Pradesh,Jabalpur,2025,Kharif,Onion,13176.9,227960.4,17.3
+Madhya Pradesh,Sehore,2025,Whole Year,Rice,11794.4,29721.9,2.52
+Madhya Pradesh,Sehore,2025,Rabi,Wheat,11920.4,61270.9,5.14
+Madhya Pradesh,Sehore,2025,Rabi,Maize,17464.4,51170.7,2.93
+Madhya Pradesh,Sehore,2025,Kharif,Cotton(lint),4256.5,6512.4,1.53
+Madhya Pradesh,Sehore,2025,Whole Year,Sugarcane,13858.8,1154853.8,83.33
+Madhya Pradesh,Sehore,2025,Rabi,Groundnut,15892.9,34169.7,2.15
+Madhya Pradesh,Sehore,2025,Whole Year,Soyabean,23328.4,52955.5,2.27
+Madhya Pradesh,Sehore,2025,Whole Year,Jowar,4918.2,9885.6,2.01
+Madhya Pradesh,Sehore,2025,Kharif,Bajra,7911.5,10601.4,1.34
+Madhya Pradesh,Sehore,2025,Rabi,Ragi,1515.5,3243.2,2.14
+Madhya Pradesh,Sehore,2025,Whole Year,Turmeric,9864.0,67075.2,6.8
+Madhya Pradesh,Sehore,2025,Kharif,Onion,22075.4,465570.2,21.09

@@ -1,0 +1,116 @@
+{
+  "commodities": [
+    "Rice", "Wheat", "Maize", "Cotton", "Sugarcane", "Jowar", "Bajra",
+    "Ragi", "Groundnut", "Soybean", "Tur Dal", "Moong Dal", "Urad Dal",
+    "Chana Dal", "Onion", "Tomato", "Potato", "Turmeric", "Chilli", "Coconut"
+  ],
+  "states": [
+    "Karnataka", "Andhra Pradesh", "Telangana", "Tamil Nadu", "Maharashtra",
+    "Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Gujarat", "Punjab"
+  ],
+  "districts": {
+    "Karnataka": [
+      "Bangalore Rural", "Bangalore Urban", "Belgaum", "Bellary", "Bidar",
+      "Bijapur", "Chamarajanagar", "Chikkaballapur", "Chikmagalur",
+      "Davangere", "Dharwad", "Gadag", "Gulbarga", "Hassan", "Haveri",
+      "Kodagu", "Kolar", "Koppal", "Mandya", "Mysore", "Raichur",
+      "Shimoga", "Tumkur", "Udupi", "Uttara Kannada"
+    ],
+    "Andhra Pradesh": [
+      "Anantapur", "Chittoor", "East Godavari", "Guntur", "Kadapa",
+      "Krishna", "Kurnool", "Nellore", "Prakasam", "Srikakulam",
+      "Visakhapatnam", "Vizianagaram", "West Godavari"
+    ],
+    "Telangana": [
+      "Adilabad", "Hyderabad", "Karimnagar", "Khammam", "Mahabubnagar",
+      "Medak", "Nalgonda", "Nizamabad", "Rangareddy", "Warangal"
+    ],
+    "Tamil Nadu": [
+      "Chennai", "Coimbatore", "Cuddalore", "Dindigul", "Erode",
+      "Kanchipuram", "Karur", "Madurai", "Nagapattinam", "Salem",
+      "Thanjavur", "Tiruchirapalli", "Tirunelveli", "Tirupur", "Vellore"
+    ],
+    "Maharashtra": [
+      "Ahmednagar", "Akola", "Amravati", "Aurangabad", "Beed",
+      "Jalgaon", "Kolhapur", "Latur", "Nagpur", "Nashik", "Osmanabad",
+      "Pune", "Sangli", "Satara", "Solapur"
+    ],
+    "Madhya Pradesh": [
+      "Bhopal", "Gwalior", "Indore", "Jabalpur", "Rewa", "Sagar",
+      "Ujjain", "Vidisha", "Hoshangabad", "Chhindwara"
+    ],
+    "Uttar Pradesh": [
+      "Agra", "Allahabad", "Bareilly", "Gorakhpur", "Kanpur",
+      "Lucknow", "Meerut", "Moradabad", "Varanasi", "Jhansi"
+    ],
+    "Rajasthan": [
+      "Ajmer", "Alwar", "Bikaner", "Jaipur", "Jodhpur", "Kota",
+      "Nagaur", "Sikar", "Sri Ganganagar", "Udaipur"
+    ],
+    "Gujarat": [
+      "Ahmedabad", "Amreli", "Bhavnagar", "Junagadh", "Kutch",
+      "Mehsana", "Rajkot", "Surat", "Vadodara", "Banaskantha"
+    ],
+    "Punjab": [
+      "Amritsar", "Bathinda", "Faridkot", "Firozpur", "Gurdaspur",
+      "Jalandhar", "Ludhiana", "Moga", "Patiala", "Sangrur"
+    ]
+  },
+  "markets": {
+    "Bangalore Rural": ["Bangalore APMC"],
+    "Bangalore Urban": ["Yeshwanthpur APMC", "K.R. Market"],
+    "Belgaum": ["Belgaum APMC", "Gokak APMC"],
+    "Bellary": ["Bellary APMC"],
+    "Davangere": ["Davangere APMC"],
+    "Dharwad": ["Hubli APMC", "Dharwad APMC"],
+    "Gulbarga": ["Gulbarga APMC"],
+    "Hassan": ["Hassan APMC"],
+    "Haveri": ["Haveri APMC"],
+    "Mandya": ["Mandya APMC"],
+    "Mysore": ["Mysore APMC", "Bannur APMC"],
+    "Raichur": ["Raichur APMC"],
+    "Shimoga": ["Shimoga APMC"],
+    "Tumkur": ["Tumkur APMC"],
+    "Anantapur": ["Anantapur APMC"],
+    "Chittoor": ["Chittoor APMC", "Madanapalle Market"],
+    "Guntur": ["Guntur APMC", "Chilakaluripet APMC"],
+    "Kurnool": ["Kurnool APMC"],
+    "Nellore": ["Nellore APMC"],
+    "East Godavari": ["Kakinada APMC", "Rajahmundry APMC"],
+    "West Godavari": ["Eluru APMC"],
+    "Visakhapatnam": ["Visakhapatnam APMC"],
+    "Hyderabad": ["Hyderabad APMC", "Bowenpally Market", "Gudimalkapur Market"],
+    "Karimnagar": ["Karimnagar APMC"],
+    "Khammam": ["Khammam APMC"],
+    "Warangal": ["Warangal APMC"],
+    "Nizamabad": ["Nizamabad APMC"],
+    "Nalgonda": ["Nalgonda APMC"],
+    "Chennai": ["Koyambedu Market", "Thirumazhisai APMC"],
+    "Coimbatore": ["Coimbatore APMC"],
+    "Erode": ["Erode APMC", "Erode Turmeric Market"],
+    "Madurai": ["Madurai APMC"],
+    "Salem": ["Salem APMC"],
+    "Thanjavur": ["Thanjavur APMC"],
+    "Tiruchirapalli": ["Trichy APMC"],
+    "Ahmednagar": ["Ahmednagar APMC"],
+    "Aurangabad": ["Aurangabad APMC"],
+    "Kolhapur": ["Kolhapur APMC"],
+    "Nagpur": ["Nagpur APMC", "Kalamna Market"],
+    "Nashik": ["Nashik APMC", "Pimpalgaon APMC"],
+    "Pune": ["Pune APMC", "Market Yard", "Gultekdi Market"],
+    "Sangli": ["Sangli APMC"],
+    "Satara": ["Satara APMC"],
+    "Solapur": ["Solapur APMC"],
+    "Indore": ["Indore APMC"],
+    "Bhopal": ["Bhopal APMC"],
+    "Lucknow": ["Lucknow APMC"],
+    "Kanpur": ["Kanpur APMC"],
+    "Jaipur": ["Jaipur APMC", "Muhana Mandi"],
+    "Kota": ["Kota APMC"],
+    "Ahmedabad": ["Ahmedabad APMC"],
+    "Rajkot": ["Rajkot APMC"],
+    "Ludhiana": ["Ludhiana Grain Market"],
+    "Amritsar": ["Amritsar APMC"],
+    "Patiala": ["Patiala APMC"]
+  }
+}

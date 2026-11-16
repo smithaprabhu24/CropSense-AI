@@ -1,0 +1,61 @@
+/**
+ * CropSense AI – Contact & Footer Styles
+ */
+
+/* ── Contact ─────────────────────────────────────────────── */
+.contact__form {
+  max-width: 600px;
+  margin: 0 auto;
+  background: var(--color-bg);
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+/* ── Footer ──────────────────────────────────────────────── */
+.footer {
+  background: var(--color-text);
+  color: rgba(255,255,255,0.8);
+  padding: var(--space-2xl) 0 var(--space-lg);
+}
+.footer__grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xl);
+}
+.footer__logo {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: #fff;
+  display: block;
+  margin-bottom: var(--space-sm);
+}
+.footer__tagline {
+  color: rgba(255,255,255,0.6);
+  font-size: var(--text-sm);
+}
+.footer__links h4 {
+  color: #fff;
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: var(--space-md);
+}
+.footer__links a {
+  display: block;
+  color: rgba(255,255,255,0.6);
+  padding: 6px 0;
+  font-size: var(--text-sm);
+  transition: color var(--transition-fast);
+}
+.footer__links a:hover { color: var(--color-accent); }
+.footer__bottom {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding-top: var(--space-lg);
+  text-align: center;
+  font-size: var(--text-sm);
+  color: rgba(255,255,255,0.4);
+  padding-bottom: var(--safe-area-bottom);
+}

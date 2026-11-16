@@ -1,0 +1,178 @@
+/**
+ * CropSense AI – Simple Farmer Mode Styles
+ * Large picture tiles, wizard UI, one question at a time.
+ */
+.simple-mode {
+  position: fixed;
+  inset: 0;
+  background: var(--color-bg);
+  z-index: var(--z-modal);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-top: var(--safe-area-top);
+  padding-bottom: var(--safe-area-bottom);
+}
+.simple-mode__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-md) var(--space-lg);
+  border-bottom: 1px solid var(--color-border);
+  flex-shrink: 0;
+}
+.simple-mode__back {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: var(--text-base);
+  font-weight: 500;
+  color: var(--color-primary);
+  min-height: 44px;
+}
+.simple-mode__exit {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  min-height: 44px;
+  padding: 8px 16px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+}
+.simple-mode__body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-xl);
+}
+
+/* Progress Indicator */
+.simple-progress {
+  display: flex;
+  gap: 6px;
+  margin-bottom: var(--space-xl);
+}
+.simple-progress__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--color-border);
+  transition: background var(--transition-fast);
+}
+.simple-progress__dot.is-active { background: var(--color-primary); }
+.simple-progress__dot.is-done { background: var(--color-secondary); }
+
+/* Feature Tiles */
+.simple-tiles {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-md);
+  width: 100%;
+  max-width: 400px;
+}
+.simple-tile {
+  background: var(--color-bg-section);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl) var(--space-md);
+  text-align: center;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  border: 2px solid transparent;
+  min-height: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+}
+.simple-tile:hover, .simple-tile:focus-visible {
+  border-color: var(--color-primary);
+  background: #E8F5E9;
+  transform: scale(1.03);
+}
+.simple-tile:active { transform: scale(0.97); }
+.simple-tile__icon { font-size: 40px; line-height: 1; }
+.simple-tile__label {
+  font-size: var(--text-base);
+  font-weight: 600;
+  color: var(--color-text);
+  line-height: 1.3;
+}
+
+/* Wizard Question */
+.simple-question {
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+.simple-question__text {
+  font-size: var(--text-xl);
+  font-weight: 600;
+  margin-bottom: var(--space-xl);
+  color: var(--color-text);
+  line-height: 1.4;
+}
+.simple-question__options {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.simple-option {
+  padding: var(--space-lg);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-lg);
+  font-weight: 500;
+  text-align: center;
+  background: var(--color-bg);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  min-height: 56px;
+}
+.simple-option:hover, .simple-option:focus-visible {
+  border-color: var(--color-primary);
+  background: var(--color-bg-section);
+}
+.simple-option.is-selected {
+  border-color: var(--color-primary);
+  background: #E8F5E9;
+  color: var(--color-primary);
+}
+
+.simple-input {
+  width: 100%;
+  padding: var(--space-lg);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-xl);
+  text-align: center;
+  margin-bottom: var(--space-lg);
+}
+.simple-input:focus {
+  border-color: var(--color-primary);
+  outline: none;
+}
+
+.simple-result {
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+.simple-result__icon {
+  font-size: 64px;
+  margin-bottom: var(--space-md);
+}
+.simple-result__title {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+  color: var(--color-primary);
+}
+.simple-result__text {
+  font-size: var(--text-lg);
+  line-height: 1.6;
+  color: var(--color-text-light);
+  margin-bottom: var(--space-xl);
+}

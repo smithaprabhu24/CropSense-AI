@@ -1,0 +1,143 @@
+/**
+ * CropSense AI – Login Page Styles
+ * Modern mobile-first login/register UI with language selection and PIN input.
+ */
+.login {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #E8F5E9 0%, #FFFFFF 50%, #F1F8E9 100%);
+  padding: var(--space-md);
+  padding-top: calc(var(--space-md) + var(--safe-area-top));
+  padding-bottom: calc(var(--space-md) + var(--safe-area-bottom));
+}
+.login__container {
+  width: 100%;
+  max-width: 420px;
+  background: var(--color-bg);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-xl);
+  padding: var(--space-xl);
+  animation: fade-scale-in 0.5s ease;
+}
+.login__back {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-lg);
+  min-height: 44px;
+}
+.login__back:hover { color: var(--color-primary); }
+.login__logo {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+}
+.login__logo svg { margin: 0 auto; width: 72px; height: 72px; }
+.login__logo h1 {
+  font-size: var(--text-2xl);
+  color: var(--color-primary);
+  margin-top: var(--space-sm);
+}
+.login__logo p {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+/* Language Buttons */
+.login__langs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  justify-content: center;
+  margin-bottom: var(--space-xl);
+}
+.lang-btn {
+  padding: 10px 16px;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text-light);
+  background: var(--color-bg);
+  transition: all var(--transition-fast);
+  min-height: 44px;
+  cursor: pointer;
+}
+.lang-btn:hover { border-color: var(--color-secondary); }
+.lang-btn.is-active {
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+}
+
+/* Tabs */
+.login__tabs {
+  display: flex;
+  background: var(--color-bg-section);
+  border-radius: var(--radius-full);
+  padding: 4px;
+  margin-bottom: var(--space-xl);
+}
+.login__tab {
+  flex: 1;
+  padding: 12px;
+  border-radius: var(--radius-full);
+  font-size: var(--text-base);
+  font-weight: 500;
+  color: var(--color-text-muted);
+  text-align: center;
+  transition: all var(--transition-fast);
+  min-height: 44px;
+  cursor: pointer;
+}
+.login__tab.is-active {
+  background: var(--color-bg);
+  color: var(--color-primary);
+  box-shadow: var(--shadow-sm);
+}
+
+/* PIN Input */
+.pin-input-group {
+  display: flex;
+  gap: var(--space-md);
+  justify-content: center;
+}
+.pin-box {
+  width: 56px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--text-2xl);
+  font-weight: 600;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-section);
+  color: var(--color-text);
+  transition: border-color var(--transition-fast);
+}
+.pin-box:focus {
+  border-color: var(--color-primary);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(46,125,50,0.15);
+}
+
+/* Guest */
+.login__guest {
+  text-align: center;
+  margin-top: var(--space-lg);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--color-border);
+}
+.login__guest p {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-md);
+}
+
+@keyframes fade-scale-in {
+  from { opacity: 0; transform: scale(0.96) translateY(10px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}

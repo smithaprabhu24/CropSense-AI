@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>CropSense AI – AI-Based Crop Advisory &amp; Risk Prediction</title>
+  <meta name="description" content="Smart farming powered by AI. Get crop recommendations, yield predictions, and risk alerts on your phone.">
+  <meta name="theme-color" content="#2E7D32">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="CropSense AI">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/svg/icon-192.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/svg/icon-192.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600&family=Noto+Sans+Telugu:wght@400;500;600&family=Noto+Sans+Devanagari:wght@400;500;600&family=Noto+Sans+Tamil:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/splash.css">
+  <link rel="stylesheet" href="css/navigation.css">
+  <link rel="stylesheet" href="css/hero.css">
+  <link rel="stylesheet" href="css/sections.css">
+  <link rel="stylesheet" href="css/features.css">
+  <link rel="stylesheet" href="css/contact.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+
+<!-- ── Splash Screen ─────────────────────────────────────── -->
+<div id="splash-screen" class="splash">
+  <div class="splash__logo">
+    <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="50" cy="50" r="46" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+      <path d="M50 18 C42 34 30 44 30 60 C30 76 39 84 50 84 C61 84 70 76 70 60 C70 44 58 34 50 18Z" fill="#2E7D32"/>
+      <line x1="50" y1="36" x2="50" y2="78" stroke="#1B5E20" stroke-width="2" stroke-linecap="round"/>
+      <path d="M50 52 Q40 44 35 50" stroke="#A5D6A7" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <path d="M50 62 Q60 54 65 60" stroke="#A5D6A7" stroke-width="2" fill="none" stroke-linecap="round"/>
+    </svg>
+  </div>
+  <div class="splash__text">CropSense AI</div>
+  <div class="splash__loader">
+    <span class="splash__dot"></span>
+    <span class="splash__dot"></span>
+    <span class="splash__dot"></span>
+  </div>
+</div>
+
+<!-- ── Main App Container ────────────────────────────────── -->
+<div id="app-container" class="app" style="opacity:0">
+
+  <!-- Navigation -->
+  <nav id="main-nav" class="nav">
+    <div class="nav__inner container">
+      <a href="#" class="nav__logo">
+        <svg viewBox="0 0 32 32" width="32" height="32"><rect width="32" height="32" rx="8" fill="#2E7D32"/><path d="M16 6 C13 12 9 16 9 22 C9 27 12 30 16 30 C20 30 23 27 23 22 C23 16 19 12 16 6Z" fill="#A5D6A7"/></svg>
+        <span>CropSense AI</span>
+      </a>
+      <div id="nav-links" class="nav__links">
+        <a href="#hero" class="nav__link is-active" data-i18n="nav.home">Home</a>
+        <a href="#about-section" class="nav__link" data-i18n="nav.about">About</a>
+        <a href="#features-section" class="nav__link" data-i18n="nav.features">Features</a>
+        <a href="#technology-section" class="nav__link" data-i18n="nav.technology">Technology</a>
+        <a href="#sdgs-section" class="nav__link" data-i18n="nav.sdgs">SDGs</a>
+        <a href="#contact-section" class="nav__link" data-i18n="nav.contact">Contact</a>
+      </div>
+      <div class="nav__actions">
+        <select id="lang-selector" class="nav__lang" aria-label="Language">
+          <option value="en">English</option>
+          <option value="kn">ಕನ್ನಡ</option>
+          <option value="te">తెలుగు</option>
+          <option value="hi">हिन्दी</option>
+          <option value="ta">தமிழ்</option>
+        </select>
+        <button id="text-size-toggle" class="btn btn--icon" aria-label="Toggle large text" title="Large Text"><span>Aa</span></button>
+        <a href="login.html" class="btn btn--primary nav__cta" data-i18n="nav.portal">Farmer Portal</a>
+      </div>
+      <button id="mobile-menu-btn" class="nav__burger" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Drawer -->
+  <div id="mobile-drawer" class="drawer" aria-hidden="true">
+    <div class="drawer__overlay"></div>
+    <div class="drawer__panel">
+      <div class="drawer__header">
+        <span class="drawer__title" data-i18n="nav.menu">Menu</span>
+        <button class="drawer__close" aria-label="Close menu">&times;</button>
+      </div>
+      <nav class="drawer__nav">
+        <a href="#hero" class="drawer__link" data-i18n="nav.home">Home</a>
+        <a href="#about-section" class="drawer__link" data-i18n="nav.about">About</a>
+        <a href="#features-section" class="drawer__link" data-i18n="nav.features">Features</a>
+        <a href="#technology-section" class="drawer__link" data-i18n="nav.technology">Technology</a>
+        <a href="#sdgs-section" class="drawer__link" data-i18n="nav.sdgs">SDGs</a>
+        <a href="#contact-section" class="drawer__link" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <div class="drawer__footer">
+        <select id="drawer-lang-selector" class="drawer__lang" aria-label="Language">
+          <option value="en">English</option>
+          <option value="kn">ಕನ್ನಡ</option>
+          <option value="te">తెలుగు</option>
+          <option value="hi">हिन्दी</option>
+          <option value="ta">தமிழ்</option>
+        </select>
+        <a href="login.html" class="btn btn--primary btn--block" data-i18n="nav.portal">Farmer Portal</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Hero Slider ───────────────────────────────────────── -->
+  <section id="hero" class="hero">
+    <div class="hero__slider">
+      <div class="hero__slide is-active" data-slide="0">
+        <div class="hero__bg">
+          <svg viewBox="0 0 1440 600" xmlns="http://www.w3.org/2000/svg" class="hero__svg" aria-hidden="true">
+            <defs><linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#87CEEB"/><stop offset="100%" stop-color="#E8F5E9"/></linearGradient></defs>
+            <rect width="1440" height="600" fill="url(#sky1)"/>
+            <circle cx="720" cy="200" r="60" fill="#FFD54F" opacity="0.9"/>
+            <path d="M0 350 Q200 250 400 320 Q600 200 800 300 Q1000 220 1200 310 Q1400 250 1440 350 L1440 600 L0 600Z" fill="#4CAF50" opacity="0.3"/>
+            <path d="M0 400 Q300 320 600 380 Q900 300 1200 370 L1440 400 L1440 600 L0 600Z" fill="#388E3C" opacity="0.4"/>
+            <path d="M0 450 Q360 420 720 440 Q1080 460 1440 430 L1440 600 L0 600Z" fill="#66BB6A"/>
+            <rect x="200" y="480" width="300" height="40" rx="5" fill="#4FC3F7" opacity="0.2"/>
+            <rect x="800" y="490" width="250" height="35" rx="5" fill="#4FC3F7" opacity="0.2"/>
+          </svg>
+        </div>
+      </div>
+      <div class="hero__slide" data-slide="1">
+        <div class="hero__bg">
+          <svg viewBox="0 0 1440 600" xmlns="http://www.w3.org/2000/svg" class="hero__svg" aria-hidden="true">
+            <defs><linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#64B5F6"/><stop offset="100%" stop-color="#FFF9C4"/></linearGradient></defs>
+            <rect width="1440" height="600" fill="url(#sky2)"/>
+            <circle cx="1200" cy="120" r="50" fill="#FFC107"/>
+            <path d="M0 380 Q400 300 720 350 Q1100 280 1440 360 L1440 600 L0 600Z" fill="#8BC34A" opacity="0.3"/>
+            <path d="M0 420 L1440 420 L1440 600 L0 600Z" fill="#F9A825"/>
+            <g stroke="#F57F17" stroke-width="2" opacity="0.4">
+              <line x1="80" y1="420" x2="80" y2="385"/><line x1="160" y1="420" x2="160" y2="390"/>
+              <line x1="240" y1="420" x2="240" y2="380"/><line x1="400" y1="420" x2="400" y2="388"/>
+              <line x1="560" y1="420" x2="560" y2="385"/><line x1="720" y1="420" x2="720" y2="390"/>
+              <line x1="880" y1="420" x2="880" y2="382"/><line x1="1040" y1="420" x2="1040" y2="388"/>
+              <line x1="1200" y1="420" x2="1200" y2="384"/><line x1="1360" y1="420" x2="1360" y2="390"/>
+            </g>
+            <rect x="600" y="430" width="80" height="40" rx="5" fill="#D32F2F"/>
+            <circle cx="590" cy="480" r="15" fill="#333"/><circle cx="660" cy="480" r="20" fill="#333"/>
+          </svg>
+        </div>
+      </div>
+      <div class="hero__slide" data-slide="2">
+        <div class="hero__bg">
+          <svg viewBox="0 0 1440 600" xmlns="http://www.w3.org/2000/svg" class="hero__svg" aria-hidden="true">
+            <defs><linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#90CAF9"/><stop offset="100%" stop-color="#C8E6C9"/></linearGradient></defs>
+            <rect width="1440" height="600" fill="url(#sky3)"/>
+            <ellipse cx="300" cy="100" rx="120" ry="40" fill="white" opacity="0.7"/>
+            <ellipse cx="1000" cy="130" rx="100" ry="35" fill="white" opacity="0.6"/>
+            <path d="M0 350 L1440 350 L1440 390 L0 390Z" fill="#66BB6A"/>
+            <path d="M0 390 L1440 390 L1440 430 L0 430Z" fill="#4CAF50"/>
+            <path d="M0 430 L1440 430 L1440 470 L0 470Z" fill="#388E3C"/>
+            <path d="M0 470 L1440 470 L1440 510 L0 510Z" fill="#2E7D32"/>
+            <path d="M0 510 L1440 510 L1440 560 L0 560Z" fill="#1B5E20"/>
+            <path d="M0 560 L1440 560 L1440 600 L0 600Z" fill="#795548"/>
+          </svg>
+        </div>
+      </div>
+      <div class="hero__slide" data-slide="3">
+        <div class="hero__bg">
+          <svg viewBox="0 0 1440 600" xmlns="http://www.w3.org/2000/svg" class="hero__svg" aria-hidden="true">
+            <defs><linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF8A65"/><stop offset="50%" stop-color="#FFB74D"/><stop offset="100%" stop-color="#A5D6A7"/></linearGradient></defs>
+            <rect width="1440" height="600" fill="url(#sky4)"/>
+            <circle cx="720" cy="280" r="70" fill="#FF7043" opacity="0.8"/>
+            <path d="M0 420 Q720 380 1440 420 L1440 600 L0 600Z" fill="#4CAF50"/>
+            <g><line x1="200" y1="420" x2="200" y2="250" stroke="#5D4037" stroke-width="8"/>
+              <path d="M200 250 Q160 230 140 260" stroke="#2E7D32" stroke-width="3" fill="none"/>
+              <path d="M200 250 Q240 230 260 260" stroke="#2E7D32" stroke-width="3" fill="none"/>
+            </g>
+            <g><line x1="600" y1="420" x2="600" y2="220" stroke="#5D4037" stroke-width="8"/>
+              <path d="M600 220 Q560 200 540 230" stroke="#2E7D32" stroke-width="3" fill="none"/>
+              <path d="M600 220 Q640 200 660 230" stroke="#2E7D32" stroke-width="3" fill="none"/>
+            </g>
+            <g><line x1="1000" y1="420" x2="1000" y2="240" stroke="#5D4037" stroke-width="8"/>
+              <path d="M1000 240 Q960 220 940 250" stroke="#2E7D32" stroke-width="3" fill="none"/>
+              <path d="M1000 240 Q1040 220 1060 250" stroke="#2E7D32" stroke-width="3" fill="none"/>
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div class="hero__content container">
+      <h1 class="hero__title" data-i18n="hero.title">Smart Farming, Powered by AI</h1>
+      <p class="hero__subtitle" data-i18n="hero.subtitle">Get personalized crop recommendations, yield predictions, and risk alerts — right on your phone.</p>
+      <div class="hero__actions">
+        <a href="login.html" class="btn btn--primary btn--lg" data-i18n="hero.cta_start">Get Started</a>
+        <a href="#features-section" class="btn btn--ghost btn--lg" data-i18n="hero.cta_learn">Learn More</a>
+      </div>
+    </div>
+    <div class="hero__controls">
+      <button class="hero__prev" aria-label="Previous slide">&#10094;</button>
+      <div class="hero__indicators">
+        <button class="hero__dot is-active" data-slide="0" aria-label="Slide 1"></button>
+        <button class="hero__dot" data-slide="1" aria-label="Slide 2"></button>
+        <button class="hero__dot" data-slide="2" aria-label="Slide 3"></button>
+        <button class="hero__dot" data-slide="3" aria-label="Slide 4"></button>
+      </div>
+      <button class="hero__next" aria-label="Next slide">&#10095;</button>
+    </div>
+  </section>
+
+  <!-- ── About Section ─────────────────────────────────────── -->
+  <section id="about-section" class="section about reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="about.title">About CropSense AI</h2>
+      <p class="section__subtitle" data-i18n="about.subtitle">Empowering farmers with intelligent agriculture</p>
+      <div class="about__grid">
+        <div class="about__card reveal reveal-delay-1">
+          <div class="about__icon"><svg viewBox="0 0 64 64" width="64" height="64"><circle cx="32" cy="32" r="30" fill="#FFEBEE"/><path d="M32 15 Q28 25 32 35 Q36 25 32 15Z" fill="#EF5350"/><line x1="32" y1="35" x2="32" y2="50" stroke="#795548" stroke-width="2"/></svg></div>
+          <h3 data-i18n="about.problem_title">The Problem</h3>
+          <p data-i18n="about.problem_text">Small-scale farmers lose up to 30% of their crops due to lack of timely advisory, unpredictable weather, and poor market information.</p>
+        </div>
+        <div class="about__card reveal reveal-delay-2">
+          <div class="about__icon"><svg viewBox="0 0 64 64" width="64" height="64"><circle cx="32" cy="32" r="30" fill="#E8F5E9"/><rect x="20" y="20" width="24" height="24" rx="4" fill="#2E7D32"/><path d="M28 28 L36 32 L28 36Z" fill="white"/></svg></div>
+          <h3 data-i18n="about.solution_title">Our Solution</h3>
+          <p data-i18n="about.solution_text">CropSense AI combines artificial intelligence with real-time data to provide personalized crop advisory in the farmer's own language.</p>
+        </div>
+        <div class="about__card reveal reveal-delay-3">
+          <div class="about__icon"><svg viewBox="0 0 64 64" width="64" height="64"><circle cx="32" cy="32" r="30" fill="#E8F5E9"/><polyline points="15,48 25,38 35,42 50,22" fill="none" stroke="#2E7D32" stroke-width="3" stroke-linecap="round"/></svg></div>
+          <h3 data-i18n="about.benefits_title">Key Benefits</h3>
+          <p data-i18n="about.benefits_text">Increase yields by 25%, reduce water usage by 30%, minimize crop losses, and access real-time market prices.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Features Section ──────────────────────────────────── -->
+  <section id="features-section" class="section features reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="features.title">Powerful Features</h2>
+      <p class="section__subtitle" data-i18n="features.subtitle">Everything a modern farmer needs, in one app</p>
+      <div class="features__grid">
+        <div class="feature-card ripple" data-feature="crop" tabindex="0" role="button" aria-label="Crop Recommendation">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E8F5E9"/><path d="M24 10 C20 18 16 22 16 28 C16 34 20 38 24 38 C28 38 32 34 32 28 C32 22 28 18 24 10Z" fill="#2E7D32"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.crop">Crop Recommendation</h3>
+          <p class="feature-card__desc" data-i18n="feature.crop_desc">AI-powered suggestions based on your soil, weather, and location.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="yield" tabindex="0" role="button" aria-label="Yield Prediction">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E8F5E9"/><rect x="12" y="30" width="6" height="10" rx="1" fill="#66BB6A"/><rect x="21" y="22" width="6" height="18" rx="1" fill="#4CAF50"/><rect x="30" y="14" width="6" height="26" rx="1" fill="#2E7D32"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.yield">Yield Prediction</h3>
+          <p class="feature-card__desc" data-i18n="feature.yield_desc">Estimate your harvest output with intelligent models.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="irrigation" tabindex="0" role="button" aria-label="Irrigation Planner">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E3F2FD"/><path d="M24 12 Q20 20 20 26 Q20 32 24 34 Q28 32 28 26 Q28 20 24 12Z" fill="#42A5F5"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.irrigation">Irrigation Planner</h3>
+          <p class="feature-card__desc" data-i18n="feature.irrigation_desc">Smart water scheduling to optimize usage and crop health.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="fertilizer" tabindex="0" role="button" aria-label="Fertilizer Guide">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#FFF3E0"/><rect x="18" y="16" width="12" height="20" rx="3" fill="#FF9800"/><text x="24" y="30" text-anchor="middle" fill="white" font-size="8" font-weight="bold">NPK</text></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.fertilizer">Fertilizer Guide</h3>
+          <p class="feature-card__desc" data-i18n="feature.fertilizer_desc">Precise nutrient recommendations for your soil and crop.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="risk" tabindex="0" role="button" aria-label="Crop Risk Alert">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#FFEBEE"/><path d="M24 10 L40 38 L8 38Z" fill="none" stroke="#EF5350" stroke-width="2.5"/><text x="24" y="33" text-anchor="middle" fill="#EF5350" font-size="16" font-weight="bold">!</text></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.risk">Crop Risk Alert</h3>
+          <p class="feature-card__desc" data-i18n="feature.risk_desc">Early warnings for pests, diseases, and weather threats.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="weather" tabindex="0" role="button" aria-label="Weather Forecast">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E3F2FD"/><circle cx="20" cy="22" r="8" fill="#FFC107"/><path d="M18 28 Q12 28 10 24 Q8 18 14 16 Q16 12 22 12 Q24 10 28 12 Q34 12 36 18 Q38 22 34 26 Q30 30 24 28Z" fill="white"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.weather">Weather Forecast</h3>
+          <p class="feature-card__desc" data-i18n="feature.weather_desc">Hyperlocal weather predictions for your region.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="market" tabindex="0" role="button" aria-label="Market Prices">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E8F5E9"/><text x="24" y="30" text-anchor="middle" fill="#2E7D32" font-size="20" font-weight="bold">₹</text></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.market">Market Prices</h3>
+          <p class="feature-card__desc" data-i18n="feature.market_desc">Live APMC market prices and trends.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="health" tabindex="0" role="button" aria-label="Farm Health">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#E8F5E9"/><path d="M16 24 L20 24 L22 18 L26 30 L28 24 L32 24" stroke="#2E7D32" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.health">Farm Health</h3>
+          <p class="feature-card__desc" data-i18n="feature.health_desc">Monitor your farm's overall health score.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+        <div class="feature-card ripple" data-feature="calendar" tabindex="0" role="button" aria-label="Smart Calendar">
+          <div class="feature-card__icon"><svg viewBox="0 0 48 48" width="48" height="48"><circle cx="24" cy="24" r="22" fill="#F3E5F5"/><rect x="14" y="16" width="20" height="20" rx="3" fill="none" stroke="#7B1FA2" stroke-width="2"/><line x1="14" y1="22" x2="34" y2="22" stroke="#7B1FA2" stroke-width="2"/><circle cx="21" cy="28" r="2" fill="#7B1FA2"/><circle cx="27" cy="28" r="2" fill="#7B1FA2"/></svg></div>
+          <h3 class="feature-card__title" data-i18n="feature.calendar">Smart Calendar</h3>
+          <p class="feature-card__desc" data-i18n="feature.calendar_desc">Automated farming calendar with seasonal planning.</p>
+          <span class="feature-card__arrow">→</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── How It Works ──────────────────────────────────────── -->
+  <section id="how-it-works" class="section how-it-works reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="how.title">How It Works</h2>
+      <p class="section__subtitle" data-i18n="how.subtitle">Start smart farming in 4 simple steps</p>
+      <div class="how__steps">
+        <div class="how__step reveal reveal-delay-1">
+          <div class="how__number">1</div>
+          <h3 data-i18n="how.step1_title">Install the App</h3>
+          <p data-i18n="how.step1_desc">Add CropSense AI to your home screen — works like a native app.</p>
+        </div>
+        <div class="how__step reveal reveal-delay-2">
+          <div class="how__number">2</div>
+          <h3 data-i18n="how.step2_title">Create Your Profile</h3>
+          <p data-i18n="how.step2_desc">Sign up with your mobile number and a simple 4-digit PIN.</p>
+        </div>
+        <div class="how__step reveal reveal-delay-3">
+          <div class="how__number">3</div>
+          <h3 data-i18n="how.step3_title">Enter Farm Details</h3>
+          <p data-i18n="how.step3_desc">Tell us about your soil, location, and crops. Use voice input.</p>
+        </div>
+        <div class="how__step reveal">
+          <div class="how__number">4</div>
+          <h3 data-i18n="how.step4_title">Get AI Advice</h3>
+          <p data-i18n="how.step4_desc">Receive personalized recommendations and risk alerts instantly.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Technology Section ────────────────────────────────── -->
+  <section id="technology-section" class="section technology reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="tech.title">Our Technology</h2>
+      <p class="section__subtitle" data-i18n="tech.subtitle">Built with cutting-edge technology</p>
+      <div class="technology__grid">
+        <div class="tech-card"><svg viewBox="0 0 48 48" width="48" height="48"><rect x="4" y="4" width="40" height="40" rx="8" fill="#2E7D32"/><text x="24" y="30" text-anchor="middle" fill="white" font-size="14" font-weight="bold">AI</text></svg><h4>Artificial Intelligence</h4><p data-i18n="tech.ai_desc">Machine learning models for accurate crop predictions.</p></div>
+        <div class="tech-card"><svg viewBox="0 0 48 48" width="48" height="48"><rect x="4" y="4" width="40" height="40" rx="8" fill="#1565C0"/><text x="24" y="30" text-anchor="middle" fill="white" font-size="10" font-weight="bold">PWA</text></svg><h4>Progressive Web App</h4><p data-i18n="tech.pwa_desc">Install on any phone. Works offline. No app store needed.</p></div>
+        <div class="tech-card"><svg viewBox="0 0 48 48" width="48" height="48"><rect x="4" y="4" width="40" height="40" rx="8" fill="#F57C00"/><text x="24" y="30" text-anchor="middle" fill="white" font-size="10" font-weight="bold">API</text></svg><h4>FastAPI Backend</h4><p data-i18n="tech.api_desc">High-performance Python backend with real-time APIs.</p></div>
+        <div class="tech-card"><svg viewBox="0 0 48 48" width="48" height="48"><rect x="4" y="4" width="40" height="40" rx="8" fill="#7B1FA2"/><text x="24" y="30" text-anchor="middle" fill="white" font-size="10" font-weight="bold">i18n</text></svg><h4>Multilingual</h4><p data-i18n="tech.i18n_desc">5 Indian languages with voice support.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SDGs Section ──────────────────────────────────────── -->
+  <section id="sdgs-section" class="section sdgs reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="sdgs.title">UN Sustainable Development Goals</h2>
+      <p class="section__subtitle" data-i18n="sdgs.subtitle">Aligned with global sustainability objectives</p>
+      <div class="sdgs__grid">
+        <div class="sdg-card" style="--sdg-color:#DDA63A"><div class="sdg-card__number">2</div><h3 data-i18n="sdgs.goal2_title">Zero Hunger</h3><p data-i18n="sdgs.goal2_desc">Better crop yields and reduced post-harvest losses.</p></div>
+        <div class="sdg-card" style="--sdg-color:#FD6925"><div class="sdg-card__number">9</div><h3 data-i18n="sdgs.goal9_title">Industry &amp; Innovation</h3><p data-i18n="sdgs.goal9_desc">AI and digital innovation for agriculture.</p></div>
+        <div class="sdg-card" style="--sdg-color:#BF8B2E"><div class="sdg-card__number">12</div><h3 data-i18n="sdgs.goal12_title">Responsible Consumption</h3><p data-i18n="sdgs.goal12_desc">Optimizing water, fertilizer, and land usage.</p></div>
+        <div class="sdg-card" style="--sdg-color:#3F7E44"><div class="sdg-card__number">13</div><h3 data-i18n="sdgs.goal13_title">Climate Action</h3><p data-i18n="sdgs.goal13_desc">Helping farmers adapt to climate change.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Contact Section ───────────────────────────────────── -->
+  <section id="contact-section" class="section contact reveal">
+    <div class="container">
+      <h2 class="section__title" data-i18n="contact.title">Get in Touch</h2>
+      <p class="section__subtitle" data-i18n="contact.subtitle">Have questions? We'd love to hear from you.</p>
+      <form id="contact-form" class="contact__form" novalidate>
+        <div class="form-group"><label class="form-label" for="contact-name" data-i18n="contact.name">Full Name</label><input class="form-input" type="text" id="contact-name" name="name" required autocomplete="name"><span class="form-error" data-i18n="contact.name_error">Please enter your name</span></div>
+        <div class="form-group"><label class="form-label" for="contact-email" data-i18n="contact.email">Email Address</label><input class="form-input" type="email" id="contact-email" name="email" required autocomplete="email"><span class="form-error" data-i18n="contact.email_error">Please enter a valid email</span></div>
+        <div class="form-group"><label class="form-label" for="contact-subject" data-i18n="contact.subject">Subject</label><input class="form-input" type="text" id="contact-subject" name="subject" required><span class="form-error" data-i18n="contact.subject_error">Please enter a subject</span></div>
+        <div class="form-group"><label class="form-label" for="contact-message" data-i18n="contact.message">Message</label><textarea class="form-input form-textarea" id="contact-message" name="message" rows="5" required></textarea><span class="form-error" data-i18n="contact.message_error">Please enter your message</span></div>
+        <button type="submit" class="btn btn--primary btn--lg btn--block" data-i18n="contact.send">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ── Footer ────────────────────────────────────────────── -->
+  <footer id="footer" class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div class="footer__brand"><span class="footer__logo">🌱 CropSense AI</span><p class="footer__tagline" data-i18n="footer.tagline">AI-powered farming for everyone</p></div>
+        <div class="footer__links"><h4 data-i18n="footer.quick_links">Quick Links</h4><a href="#about-section" data-i18n="nav.about">About</a><a href="#features-section" data-i18n="nav.features">Features</a><a href="#contact-section" data-i18n="nav.contact">Contact</a></div>
+        <div class="footer__links"><h4 data-i18n="footer.resources">Resources</h4><a href="#technology-section" data-i18n="nav.technology">Technology</a><a href="#sdgs-section" data-i18n="nav.sdgs">SDGs</a><a href="login.html" data-i18n="nav.portal">Farmer Portal</a></div>
+      </div>
+      <div class="footer__bottom"><p>&copy; 2026 CropSense AI. <span data-i18n="footer.rights">All rights reserved.</span></p></div>
+    </div>
+  </footer>
+
+</div><!-- /app-container -->
+
+<div id="toast-container" class="toast-container" aria-live="polite"></div>
+
+<div id="install-banner" class="install-banner" style="display:none">
+  <p data-i18n="install.message">Install CropSense AI on your phone</p>
+  <div class="install-banner__actions">
+    <button id="install-btn" class="btn btn--primary btn--sm" data-i18n="install.button">Install</button>
+    <button id="install-dismiss" class="btn btn--ghost btn--sm" data-i18n="install.dismiss">Later</button>
+  </div>
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

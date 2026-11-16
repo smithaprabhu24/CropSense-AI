@@ -1,0 +1,139 @@
+/**
+ * CropSense AI – Section Styles
+ * About, How It Works, Technology, SDGs sections.
+ */
+
+/* ── About ───────────────────────────────────────────────── */
+.about__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-lg);
+}
+.about__card {
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+.about__card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+.about__icon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-md);
+}
+.about__card h3 {
+  font-size: var(--text-xl);
+  margin-bottom: var(--space-sm);
+}
+.about__card p {
+  color: var(--color-text-light);
+  font-size: var(--text-sm);
+  line-height: 1.6;
+}
+
+/* ── How It Works ────────────────────────────────────────── */
+.how__steps {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-lg);
+  position: relative;
+}
+.how__step {
+  text-align: center;
+  position: relative;
+}
+.how__number {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  color: #fff;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: var(--text-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-md);
+}
+.how__icon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-md);
+}
+.how__step h3 {
+  font-size: var(--text-lg);
+  margin-bottom: var(--space-sm);
+}
+.how__step p {
+  color: var(--color-text-light);
+  font-size: var(--text-sm);
+  line-height: 1.5;
+}
+
+/* ── Technology ──────────────────────────────────────────── */
+.technology__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-lg);
+}
+.tech-card {
+  text-align: center;
+  padding: var(--space-lg);
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-base);
+}
+.tech-card:hover { transform: translateY(-4px); }
+.tech-card svg { margin: 0 auto var(--space-md); }
+.tech-card h4 {
+  font-size: var(--text-base);
+  font-family: var(--font-heading);
+  margin-bottom: var(--space-sm);
+}
+.tech-card p {
+  color: var(--color-text-light);
+  font-size: var(--text-sm);
+}
+
+/* ── SDGs ────────────────────────────────────────────────── */
+.sdgs__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-lg);
+}
+.sdg-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  text-align: center;
+  border-top: 4px solid var(--sdg-color, var(--color-primary));
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-base);
+}
+.sdg-card:hover { transform: translateY(-4px); }
+.sdg-card__number {
+  width: 56px;
+  height: 56px;
+  border-radius: var(--radius-lg);
+  background: var(--sdg-color, var(--color-primary));
+  color: #fff;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: var(--text-2xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-md);
+}
+.sdg-card h3 {
+  font-size: var(--text-lg);
+  margin-bottom: var(--space-sm);
+}
+.sdg-card p {
+  color: var(--color-text-light);
+  font-size: var(--text-sm);
+}

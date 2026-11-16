@@ -1,0 +1,88 @@
+# CropSense AI – Multilingual Translation Master Source
+# Format: key|en|kn|te|hi|ta
+# 5 Languages: English (en), Kannada (kn), Telugu (te), Hindi (hi), Tamil (ta)
+
+nav.home|Home|ಮುಖಪುಟ|హోమ్|होम|முகப்பு
+nav.about|About|ಬಗ್ಗೆ|గురించి|परिचय|பற்றி
+nav.features|Features|ವೈಶಿಷ್ಟ್ಯಗಳು|ఫీచర్లు|विशेषताएं|அம்சங்கள்
+nav.technology|Technology|ತಂತ್ರಜ್ಞಾನ|టెక్నాలజీ|तकनीक|தொழில்நுட்பம்
+nav.sdgs|SDGs|SDGs|SDGs|SDGs|SDGs
+nav.contact|Contact|ಸಂಪರ್ಕ|సంప్రదించండి|संपर्क|தொடர்பு
+nav.portal|Farmer Portal|ರೈತ ಪೋರ್ಟಲ್|రైతు పోర్టల్|किसान पोर्टल|விவசாயி போர்டல்
+nav.menu|Menu|ಮೆನು|మెనూ|मेनू|மெனு
+
+hero.title|Smart Farming, Powered by AI|AI ಚಾಲಿತ ಸ್ಮಾರ್ಟ್ ಕೃಷಿ|AI ఆధారిత స్మార్ట్ వ్యవసాయం|AI संचालित स्मार्ट खेती|AI இயக்கும் ஸ்மார்ட் விவசாயம்
+hero.subtitle|Get personalized crop recommendations, yield predictions, and risk alerts — right on your phone.|ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲೇ ಬೆಳೆ ಶಿಫಾರಸ್ಸು, ಇಳುವರಿ ಮುನ್ಸೂಚನೆ ಮತ್ತು ಅಪಾಯ ಎಚ್ಚರಿಕೆ ಪಡೆಯಿರಿ.|మీ ఫోన్‌లో పంట సిఫార్సులు, దిగుబడి అంచనాలు మరియు ప్రమాద హెచ్చరికలు పొందండి.|अपने फोन पर फसल सिफारिश, उपज भविष्यवाणी और जोखिम अलर्ट पाएं।|உங்கள் தொலைபேசியில் பயிர் பரிந்துரைகள், மகசூல் கணிப்புகள் மற்றும் ஆபத்து எச்சரிக்கைகளைப் பெறுங்கள்.
+hero.cta_start|Get Started|ಪ್ರಾರಂಭಿಸಿ|ప్రారంభించండి|शुरू करें|தொடங்கு
+hero.cta_learn|Learn More|ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ|మరింత తెలుసుకోండి|और जानें|மேலும் அறிக
+
+about.title|About CropSense AI|ಕ್ರಾಪ್‌ಸೆನ್ಸ್ AI ಬಗ್ಗೆ|క్రాప్‌సెన్స్ AI గురించి|क्रॉपसेंस AI के बारे में|கிராப்சென்ஸ் AI பற்றி
+about.subtitle|Empowering farmers with intelligent agriculture|ಬುದ್ಧಿವಂತ ಕೃಷಿಯೊಂದಿಗೆ ರೈತರ ಸಬಲೀಕರಣ|తెలివైన వ్యవసాయంతో రైతులను శక్తివంతం చేయడం|बुद्धिमान कृषि से किसानों को सशक्त बनाना|அறிவார்ந்த விவசாயத்துடன் விவசாயிகளை வலுப்படுத்துதல்
+about.problem_title|The Problem|ಸಮಸ್ಯೆ|సమస్య|समस्या|பிரச்சனை
+about.problem_text|Small-scale farmers lose up to 30% of their crops due to lack of timely advisory, unpredictable weather, and poor market information.|ಸಕಾಲಿಕ ಸಲಹೆ, ಅನಿರೀಕ್ಷಿತ ಹವಾಮಾನ ಮತ್ತು ಕಳಪೆ ಮಾರುಕಟ್ಟೆ ಮಾಹಿತಿಯ ಕೊರತೆಯಿಂದ ಸಣ್ಣ ರೈತರು 30% ಬೆಳೆ ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ.|సకాలంలో సలహా, అనూహ్య వాతావరణం మరియు మార్కెట్ సమాచారం లేకపోవడం వల్ల చిన్న రైతులు 30% పంటను కోల్పోతున్నారు.|समय पर सलाह, अप्रत्याशित मौसम और बाजार जानकारी की कमी से छोटे किसान 30% तक फसल खो देते हैं।|சரியான நேரத்தில் ஆலோசனை, கணிக்க முடியாத வானிலை மற்றும் சந்தை தகவல் இல்லாததால் சிறு விவசாயிகள் 30% பயிர்களை இழக்கின்றனர்.
+about.solution_title|Our Solution|ನಮ್ಮ ಪರಿಹಾರ|మా పరిష్కారం|हमारा समाधान|எங்கள் தீர்வு
+about.solution_text|CropSense AI combines artificial intelligence with real-time data to provide personalized crop advisory in the farmer's own language.|ಕ್ರಾಪ್‌ಸೆನ್ಸ್ AI ರೈತರ ಸ್ವಂತ ಭಾಷೆಯಲ್ಲಿ ವೈಯಕ್ತಿಕ ಬೆಳೆ ಸಲಹೆ ನೀಡಲು AI ಬಳಸುತ್ತದೆ.|క్రాప్‌సెన్స్ AI రైతు స్వంత భాషలో వ్యక్తిగత పంట సలహా అందించడానికి AI ఉపయోగిస్తుంది.|क्रॉपसेंस AI किसान की अपनी भाषा में व्यक्तिगत फसल सलाह देने के लिए AI का उपयोग करता है।|கிராப்சென்ஸ் AI விவசாயியின் சொந்த மொழியில் தனிப்பயன் பயிர் ஆலோசனை வழங்க AI பயன்படுத்துகிறது.
+about.benefits_title|Key Benefits|ಪ್ರಮುಖ ಪ್ರಯೋಜನಗಳು|ప్రధాన ప్రయోజనాలు|प्रमुख लाभ|முக்கிய நன்மைகள்
+about.benefits_text|Increase yields by 25%, reduce water usage by 30%, minimize crop losses, and access real-time market prices.|ಇಳುವರಿಯನ್ನು 25% ಹೆಚ್ಚಿಸಿ, ನೀರಿನ ಬಳಕೆಯನ್ನು 30% ಕಡಿಮೆ ಮಾಡಿ.|దిగుబడిని 25% పెంచండి, నీటి వినియోగాన్ని 30% తగ్గించండి.|उपज 25% बढ़ाएं, पानी का उपयोग 30% कम करें।|மகசூலை 25% அதிகரிக்கவும், நீர் பயன்பாட்டை 30% குறைக்கவும்.
+
+feature.crop|Crop Recommendation|ಬೆಳೆ ಶಿಫಾರಸ್ಸು|పంట సిఫార్సు|फसल सिफारिश|பயிர் பரிந்துரை
+feature.crop_desc|AI-powered suggestions based on your soil, weather, and location.|ನಿಮ್ಮ ಮಣ್ಣು, ಹವಾಮಾನ ಮತ್ತು ಸ್ಥಳದ ಆಧಾರದ ಮೇಲೆ AI ಸಲಹೆಗಳು.|మీ నేల, వాతావరణం ఆధారంగా AI సూచనలు.|आपकी मिट्टी, मौसम के आधार पर AI सुझाव।|உங்கள் மண், வானிலை அடிப்படையில் AI பரிந்துரைகள்.
+feature.yield|Yield Prediction|ಇಳುವರಿ ಮುನ್ಸೂಚನೆ|దిగుబడి అంచనా|उपज पूर्वानुमान|மகசூல் கணிப்பு
+feature.yield_desc|Estimate your harvest output with intelligent models.|ಬುದ್ಧಿವಂತ ಮಾದರಿಗಳೊಂದಿಗೆ ನಿಮ್ಮ ಇಳುವರಿಯನ್ನು ಅಂದಾಜಿಸಿ.|తెలివైన మోడల్‌లతో మీ పంట దిగుబడిని అంచనా వేయండి.|बुद्धिमान मॉडल से अपनी उपज का अनुमान लगाएं।|அறிவார்ந்த மாதிரிகளுடன் உங்கள் மகசூலை மதிப்பிடுங்கள்.
+feature.irrigation|Irrigation Planner|ನೀರಾವರಿ ಯೋಜಕ|నీటిపారుదల ప్లానర్|सिंचाई योजनाकार|பாசன திட்டமிடல்
+feature.irrigation_desc|Smart water scheduling to optimize usage and crop health.|ನೀರಿನ ಬಳಕೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ಸ್ಮಾರ್ಟ್ ನೀರಾವರಿ.|నీటి వినియోగాన్ని ఆప్టిమైజ్ చేయడానికి స్మార్ట్ షెడ్యూలింగ్.|पानी के उपयोग को अनुकूलित करने के लिए स्मार्ट सिंचाई.|நீர் பயன்பாட்டை மேம்படுத்த ஸ்மார்ட் பாசனம்.
+feature.fertilizer|Fertilizer Guide|ಗೊಬ್ಬರ ಮಾರ್ಗದರ್ಶಿ|ఎరువు గైడ్|खाद मार्गदर्शिका|உர வழிகாட்டி
+feature.fertilizer_desc|Precise nutrient recommendations for your soil and crop.|ನಿಮ್ಮ ಮಣ್ಣು ಮತ್ತು ಬೆಳೆಗೆ ನಿಖರ ಪೋಷಕಾಂಶ ಶಿಫಾರಸ್ಸು.|మీ నేల మరియు పంటకు ఖచ్చితమైన పోషక సిఫార్సు.|आपकी मिट्टी और फसल के लिए सटीक पोषक सिफारिश।|உங்கள் மண் மற்றும் பயிருக்கு துல்லியமான ஊட்டச்சத்து பரிந்துரை.
+feature.risk|Crop Risk Alert|ಬೆಳೆ ಅಪಾಯ ಎಚ್ಚರಿಕೆ|పంట ప్రమాద హెచ్చరిక|फसल जोखिम चेतावनी|பயிர் ஆபத்து எச்சரிக்கை
+feature.risk_desc|Early warnings for pests, diseases, and weather threats.|ಕೀಟ, ರೋಗ ಮತ್ತು ಹವಾಮಾನ ಬೆದರಿಕೆಗಳ ಮುಂಚಿತವಾಗಿ ಎಚ್ಚರಿಕೆ.|పురుగులు, వ్యాధులు మరియు వాతావరణ బెదిరింపులకు ముందస్తు హెచ్చరికలు.|कीट, रोग और मौसम खतरों की प्रारंभिक चेतावनी।|பூச்சிகள், நோய்கள் மற்றும் வானிலை அச்சுறுத்தல்களுக்கான முன் எச்சரிக்கை.
+feature.weather|Weather Forecast|ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ|వాతావరణ సూచన|मौसम पूर्वानुमान|வானிலை முன்னறிவிப்பு
+feature.weather_desc|Hyperlocal weather predictions for your region.|ನಿಮ್ಮ ಪ್ರದೇಶಕ್ಕೆ ಸ್ಥಳೀಯ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ.|మీ ప్రాంతానికి స్థానిక వాతావరణ అంచనా.|आपके क्षेत्र के लिए स्थानीय मौसम पूर्वानुमान।|உங்கள் பகுதிக்கான உள்ளூர் வானிலை முன்னறிவிப்பு.
+feature.market|Market Prices|ಮಾರುಕಟ್ಟೆ ಬೆಲೆ|మార్కెట్ ధరలు|बाजार भाव|சந்தை விலைகள்
+feature.market_desc|Live APMC market prices and trends.|ಲೈವ್ APMC ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಮತ್ತು ಟ್ರೆಂಡ್.|లైవ్ APMC మార్కెట్ ధరలు మరియు ట్రెండ్‌లు.|लाइव APMC बाजार भाव और रुझान।|நேரடி APMC சந்தை விலைகள் மற்றும் போக்குகள்.
+feature.health|Farm Health|ಕೃಷಿ ಆರೋಗ್ಯ|వ్యవసాయ ఆరోగ్యం|कृषि स्वास्थ्य|பண்ணை ஆரோக்கியம்
+feature.health_desc|Monitor your farm's overall health score.|ನಿಮ್ಮ ಕೃಷಿಯ ಒಟ್ಟಾರೆ ಆರೋಗ್ಯ ಸ್ಕೋರ್ ಮೇಲ್ವಿಚಾರಣೆ.|మీ వ్యవసాయ ఆరోగ్య స్కోర్ పర్యవేక్షించండి.|अपने खेत का समग्र स्वास्थ्य स्कोर देखें।|உங்கள் பண்ணையின் ஒட்டுமொத்த ஆரோக்கிய மதிப்பெண்.
+feature.calendar|Smart Calendar|ಸ್ಮಾರ್ಟ್ ಕ್ಯಾಲೆಂಡರ್|స్మార్ట్ క్యాలెండర్|स्मार्ट कैलेंडर|ஸ்மார்ட் காலண்டர்
+feature.calendar_desc|Automated farming calendar with seasonal planning.|ಋತುಮಾನದ ಯೋಜನೆಯೊಂದಿಗೆ ಸ್ವಯಂಚಾಲಿತ ಕೃಷಿ ಕ್ಯಾಲೆಂಡರ್.|సీజనల్ ప్లానింగ్‌తో ఆటోమేటెడ్ వ్యవసాయ క్యాలెండర్.|मौसमी योजना के साथ स्वचालित कृषि कैलेंडर।|பருவகால திட்டமிடலுடன் தானியங்கி விவசாய காலண்டர்.
+
+login.back|Back|ಹಿಂದೆ|వెనుకకు|वापस|பின்
+login.tagline|Smart Farming Companion|ಸ್ಮಾರ್ಟ್ ಕೃಷಿ ಸಂಗಾತಿ|స్మార్ట్ వ్యవసాయ సహచరుడు|स्मार्ट खेती साथी|ஸ்மார்ட் விவசாய துணை
+login.login_tab|Login|ಲಾಗಿನ್|లాగిన్|लॉगिन|உள்நுழை
+login.register_tab|Register|ನೋಂದಣಿ|రిజిస్టర్|पंजीकरण|பதிவு
+login.mobile|Mobile Number|ಮೊಬೈಲ್ ಸಂಖ್ಯೆ|మొబైల్ నంబర్|मोबाइल नंबर|மொபைல் எண்
+login.pin|4-Digit PIN|4-ಅಂಕಿ PIN|4-అంకెల PIN|4-अंकीय PIN|4-இலக்க PIN
+login.create_pin|Create 4-Digit PIN|4-ಅಂಕಿ PIN ರಚಿಸಿ|4-అంకెల PIN సృష్టించండి|4-अंकीय PIN बनाएं|4-இலக்க PIN உருவாக்கவும்
+login.name|Full Name|ಪೂರ್ಣ ಹೆಸರು|పూర్తి పేరు|पूरा नाम|முழு பெயர்
+login.village|Village / Town|ಗ್ರಾಮ / ಪಟ್ಟಣ|గ్రామం / పట్టణం|गांव / शहर|கிராமம் / நகரம்
+login.simple_mode|Enable Simple Farmer Mode|ಸರಳ ರೈತ ಮೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸಿ|సింపుల్ రైతు మోడ్ ఎనేబుల్ చేయండి|सरल किसान मोड सक्रिय करें|எளிய விவசாயி பயன்முறையை இயக்கவும்
+login.login_btn|Login|ಲಾಗಿನ್|లాగిన్|लॉगिन|உள்நுழை
+login.register_btn|Create Account|ಖಾತೆ ರಚಿಸಿ|ఖాతా సృష్టించండి|खाता बनाएं|கணக்கை உருவாக்கு
+login.or|or|ಅಥವಾ|లేదా|या|அல்லது
+login.guest|Continue as Guest|ಅತಿಥಿಯಾಗಿ ಮುಂದುವರಿಸಿ|అతిథిగా కొనసాగించండి|अतिथि के रूप में जारी रखें|விருந்தினராக தொடரவும்
+
+portal.dashboard|Dashboard|ಡ್ಯಾಶ್‌ಬೋರ್ಡ್|డాష్‌బోర్డ్|डैशबोर्ड|டாஷ்போர்டு
+portal.crop|Crop Advice|ಬೆಳೆ ಸಲಹೆ|పంట సలహా|फसल सलाह|பயிர் ஆலோசனை
+portal.yield|Yield Prediction|ಇಳುವರಿ ಮುನ್ಸೂಚನೆ|దిగుబడి అంచనా|उपज पूर्वानुमान|மகசூல் கணிப்பு
+portal.irrigation|Irrigation|ನೀರಾವರಿ|నీటిపారుదల|सिंचाई|பாசனம்
+portal.fertilizer|Fertilizer|ಗೊಬ್ಬರ|ఎరువు|खाद|உரம்
+portal.risk|Risk Alerts|ಅಪಾಯ ಎಚ್ಚರಿಕೆ|ప్రమాద హెచ్చరికలు|जोखिम अलर्ट|ஆபத்து எச்சரிக்கை
+portal.weather|Weather|ಹವಾಮಾನ|వాతావరణం|मौसम|வானிலை
+portal.market|Market Prices|ಮಾರುಕಟ್ಟೆ ಬೆಲೆ|మార్కెట్ ధరలు|बाजार भाव|சந்தை விலை
+portal.health|Farm Health|ಕೃಷಿ ಆರೋಗ್ಯ|వ్యవసాయ ఆరోగ్యం|कृषि स्वास्थ्य|பண்ணை ஆரோக்கியம்
+portal.calendar|Calendar|ಕ್ಯಾಲೆಂಡರ್|క్యాలెండర్|कैलेंडर|காலண்டர்
+portal.profile|Profile|ಪ್ರೊಫೈಲ್|ప్రొఫైల్|प्रोफाइल|சுயவிவரம்
+portal.simple_mode|Simple|ಸರಳ|సింపుల్|सरल|எளிய
+
+chat.title|AI Assistant|AI ಸಹಾಯಕ|AI సహాయకుడు|AI सहायक|AI உதவியாளர்
+chat.welcome|Hello! I'm your farming assistant. How can I help?|ನಮಸ್ಕಾರ! ನಾನು ನಿಮ್ಮ ಕೃಷಿ ಸಹಾಯಕ. ಹೇಗೆ ಸಹಾಯ ಮಾಡಲಿ?|నమస్కారం! నేను మీ వ్యవసాయ సహాయకుడిని. ఎలా సహాయం చేయగలను?|नमस्ते! मैं आपका कृषि सहायक हूं। कैसे मदद करूं?|வணக்கம்! நான் உங்கள் விவசாய உதவியாளர். எப்படி உதவ வேண்டும்?
+chat.suggest_crop|Best crop for my soil?|ನನ್ನ ಮಣ್ಣಿಗೆ ಉತ್ತಮ ಬೆಳೆ?|నా నేలకు మంచి పంట?|मेरी मिट्टी के लिए सबसे अच्छी फसल?|என் மண்ணுக்கு சிறந்த பயிர்?
+chat.suggest_weather|Today's weather|ಇಂದಿನ ಹವಾಮಾನ|ఈ రోజు వాతావరణం|आज का मौसम|இன்றைய வானிலை
+chat.suggest_market|Market prices|ಮಾರುಕಟ್ಟೆ ಬೆಲೆ|మార్కెట్ ధరలు|बाजार भाव|சந்தை விலை
+
+simple.what_to_grow|What should I grow?|ನಾನು ಏನು ಬೆಳೆಯಬೇಕು?|నేను ఏమి పండించాలి?|मैं क्या उगाऊं?|நான் என்ன பயிரிடவேண்டும்?
+simple.water_today|Water today?|ಇಂದು ನೀರು?|ఈ రోజు నీరు?|आज पानी?|இன்று நீர்?
+simple.fertilizer|Fertilizer|ಗೊಬ್ಬರ|ఎరువు|खाद|உரம்
+simple.crop_safety|Crop Safety|ಬೆಳೆ ಸುರಕ್ಷತೆ|పంట భద్రత|फसल सुरक्षा|பயிர் பாதுகாப்பு
+simple.harvest|Harvest|ಕೊಯ್ಲು|పంట కోత|फसल कटाई|அறுவடை
+simple.weather|Weather|ಹವಾಮಾನ|వాతావరణం|मौसम|வானிலை
+simple.market|Market|ಮಾರುಕಟ್ಟೆ|మార్కెట్|बाजार|சந்தை
+simple.ai_helper|AI Helper|AI ಸಹಾಯಕ|AI సహాయకుడు|AI सहायक|AI உதவியாளர்

@@ -1,0 +1,20 @@
+{
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./tests",
+    "-p",
+    "test_*.py"
+  ],
+  "python.testing.unittestEnabled": true,
+  "python.testing.pytestEnabled": false,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  }
+}

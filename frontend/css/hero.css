@@ -1,0 +1,111 @@
+/**
+ * CropSense AI – Hero Slider Styles
+ * Full-width hero with sliding SVG landscape backgrounds.
+ */
+.hero {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  padding-top: var(--nav-height);
+}
+.hero__slider {
+  position: absolute;
+  inset: 0;
+}
+.hero__slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+.hero__slide.is-active { opacity: 1; }
+.hero__bg {
+  position: absolute;
+  inset: 0;
+}
+.hero__svg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero__content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: var(--space-2xl) var(--space-md);
+  max-width: 700px;
+  margin: 0 auto;
+}
+.hero__title {
+  font-size: var(--text-4xl);
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: var(--space-md);
+  text-shadow: 0 2px 20px rgba(255,255,255,0.8);
+  line-height: 1.15;
+}
+.hero__subtitle {
+  font-size: var(--text-lg);
+  color: var(--color-text-light);
+  margin-bottom: var(--space-xl);
+  text-shadow: 0 1px 10px rgba(255,255,255,0.6);
+  line-height: 1.5;
+}
+.hero__actions {
+  display: flex;
+  gap: var(--space-md);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.hero__controls {
+  position: absolute;
+  bottom: var(--space-xl);
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+  z-index: 3;
+  padding-bottom: var(--safe-area-bottom);
+}
+.hero__prev, .hero__next {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  background: var(--glass-bg);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: var(--color-text);
+  border: 1px solid var(--glass-border);
+  transition: all var(--transition-fast);
+}
+.hero__prev:hover, .hero__next:hover {
+  background: var(--color-primary);
+  color: #fff;
+}
+.hero__indicators {
+  display: flex;
+  gap: 8px;
+}
+.hero__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--color-border);
+  border: none;
+  padding: 0;
+  transition: all var(--transition-fast);
+  cursor: pointer;
+}
+.hero__dot.is-active {
+  background: var(--color-primary);
+  width: 28px;
+  border-radius: 5px;
+}

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Login – CropSense AI</title>
+  <meta name="theme-color" content="#2E7D32">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/svg/icon-192.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600&family=Noto+Sans+Telugu:wght@400;500;600&family=Noto+Sans+Devanagari:wght@400;500;600&family=Noto+Sans+Tamil:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/login.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+
+<div class="login">
+  <div class="login__container">
+    <a href="index.html" class="login__back" aria-label="Back to home">← <span data-i18n="login.back">Back</span></a>
+
+    <div class="login__logo">
+      <svg viewBox="0 0 72 72" width="72" height="72" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="36" cy="36" r="34" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2"/>
+        <path d="M36 12 C30 24 22 32 22 44 C22 54 28 60 36 60 C44 60 50 54 50 44 C50 32 42 24 36 12Z" fill="#2E7D32"/>
+        <line x1="36" y1="26" x2="36" y2="56" stroke="#1B5E20" stroke-width="2" stroke-linecap="round"/>
+        <path d="M36 38 Q28 32 24 36" stroke="#A5D6A7" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M36 46 Q44 40 48 44" stroke="#A5D6A7" stroke-width="2" fill="none" stroke-linecap="round"/>
+      </svg>
+      <h1>CropSense AI</h1>
+      <p data-i18n="login.tagline">Smart Farming Companion</p>
+    </div>
+
+    <div class="login__langs" role="group" aria-label="Select language">
+      <button class="lang-btn is-active" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="kn">ಕನ್ನಡ</button>
+      <button class="lang-btn" data-lang="te">తెలుగు</button>
+      <button class="lang-btn" data-lang="hi">हिन्दी</button>
+      <button class="lang-btn" data-lang="ta">தமிழ்</button>
+    </div>
+
+    <div class="login__tabs" role="tablist">
+      <button class="login__tab is-active" role="tab" data-tab="login" data-i18n="login.login_tab">Login</button>
+      <button class="login__tab" role="tab" data-tab="register" data-i18n="login.register_tab">Register</button>
+    </div>
+
+    <!-- Login Form -->
+    <form id="login-form" class="login__form" novalidate>
+      <div class="form-group">
+        <label class="form-label" for="login-mobile" data-i18n="login.mobile">Mobile Number</label>
+        <div class="input-with-voice">
+          <input class="form-input" type="tel" id="login-mobile" name="mobile" pattern="[0-9]{10}" maxlength="10" inputmode="numeric" required autocomplete="tel" placeholder="10-digit number">
+          <button type="button" class="voice-input-btn" data-target="login-mobile" aria-label="Voice input">
+            <svg viewBox="0 0 24 24" width="24" height="24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/><path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/></svg>
+          </button>
+        </div>
+        <span class="form-error" id="login-mobile-error"></span>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="login-pin" data-i18n="login.pin">4-Digit PIN</label>
+        <div class="pin-input-group" id="login-pin-group">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="0" aria-label="PIN digit 1">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="1" aria-label="PIN digit 2">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="2" aria-label="PIN digit 3">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="3" aria-label="PIN digit 4">
+        </div>
+        <input type="hidden" id="login-pin" name="pin">
+        <span class="form-error" id="login-pin-error"></span>
+      </div>
+      <div id="login-error" class="form-error form-error--global"></div>
+      <button type="submit" class="btn btn--primary btn--lg btn--block" data-i18n="login.login_btn">Login</button>
+    </form>
+
+    <!-- Register Form -->
+    <form id="register-form" class="login__form" style="display:none" novalidate>
+      <div class="form-group">
+        <label class="form-label" for="reg-name" data-i18n="login.name">Full Name</label>
+        <div class="input-with-voice">
+          <input class="form-input" type="text" id="reg-name" name="name" required autocomplete="name">
+          <button type="button" class="voice-input-btn" data-target="reg-name" aria-label="Voice input">
+            <svg viewBox="0 0 24 24" width="24" height="24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/><path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="reg-village" data-i18n="login.village">Village / Town</label>
+        <div class="input-with-voice">
+          <input class="form-input" type="text" id="reg-village" name="village" autocomplete="address-level2">
+          <button type="button" class="voice-input-btn" data-target="reg-village" aria-label="Voice input">
+            <svg viewBox="0 0 24 24" width="24" height="24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/><path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="reg-mobile" data-i18n="login.mobile">Mobile Number</label>
+        <div class="input-with-voice">
+          <input class="form-input" type="tel" id="reg-mobile" name="mobile" pattern="[0-9]{10}" maxlength="10" inputmode="numeric" required placeholder="10-digit number">
+          <button type="button" class="voice-input-btn" data-target="reg-mobile" aria-label="Voice input">
+            <svg viewBox="0 0 24 24" width="24" height="24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/><path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label" data-i18n="login.create_pin">Create 4-Digit PIN</label>
+        <div class="pin-input-group" id="register-pin-group">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="0" aria-label="PIN digit 1">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="1" aria-label="PIN digit 2">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="2" aria-label="PIN digit 3">
+          <input class="pin-box" type="password" inputmode="numeric" maxlength="1" data-pin="3" aria-label="PIN digit 4">
+        </div>
+        <input type="hidden" id="reg-pin" name="pin">
+      </div>
+      <div class="form-group">
+        <label class="checkbox-label"><input type="checkbox" id="simple-mode-checkbox" name="simple_mode"><span data-i18n="login.simple_mode">Enable Simple Farmer Mode</span></label>
+      </div>
+      <div id="register-error" class="form-error form-error--global"></div>
+      <button type="submit" class="btn btn--primary btn--lg btn--block" data-i18n="login.register_btn">Create Account</button>
+    </form>
+
+    <div class="login__guest">
+      <p data-i18n="login.or">or</p>
+      <button id="guest-mode-btn" class="btn btn--ghost btn--block" data-i18n="login.guest">Continue as Guest</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast-container" class="toast-container" aria-live="polite"></div>
+<script type="module" src="js/auth.js"></script>
+</body>
+</html>

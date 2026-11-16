@@ -1,0 +1,126 @@
+[
+  {
+    "soil_group": "Alluvial Soil",
+    "coverage_percent_india": 40.0,
+    "distribution_states": [
+      "Punjab",
+      "Haryana",
+      "Uttar Pradesh",
+      "Bihar",
+      "West Bengal",
+      "Coastal Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "texture": "Sandy loam to clay loam",
+    "ph_range": [
+      6.5,
+      8.4
+    ],
+    "nitrogen_status": "Low to Medium",
+    "phosphorus_status": "Medium",
+    "potassium_status": "Adequate to High",
+    "organic_carbon_percent": 0.45,
+    "water_retention_capacity": "High",
+    "major_crops_suited": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Maize",
+      "Cotton",
+      "Jute",
+      "Vegetables"
+    ],
+    "management_tips": "Requires regular nitrogenous top-dressing; responds well to green manuring with Sesbania."
+  },
+  {
+    "soil_group": "Black Cotton Soil (Regur)",
+    "coverage_percent_india": 16.6,
+    "distribution_states": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Gujarat",
+      "Northern Karnataka",
+      "Telangana"
+    ],
+    "texture": "Clay to heavy clay",
+    "ph_range": [
+      7.2,
+      8.8
+    ],
+    "nitrogen_status": "Low",
+    "phosphorus_status": "Low",
+    "potassium_status": "High",
+    "organic_carbon_percent": 0.55,
+    "water_retention_capacity": "Very High (Develops deep cracks when dry)",
+    "major_crops_suited": [
+      "Cotton",
+      "Sugarcane",
+      "Jowar",
+      "Soybean",
+      "Sunflower",
+      "Chickpea"
+    ],
+    "management_tips": "Susceptible to waterlogging in monsoon; use broad bed and furrow (BBF) planting methods."
+  },
+  {
+    "soil_group": "Red and Yellow Soil",
+    "coverage_percent_india": 18.5,
+    "distribution_states": [
+      "Southern Karnataka",
+      "Tamil Nadu",
+      "Odisha",
+      "Chhota Nagpur",
+      "Telangana"
+    ],
+    "texture": "Loamy to sandy clay",
+    "ph_range": [
+      5.5,
+      7.0
+    ],
+    "nitrogen_status": "Low",
+    "phosphorus_status": "Low to Deficient",
+    "potassium_status": "Medium",
+    "organic_carbon_percent": 0.35,
+    "water_retention_capacity": "Low to Moderate",
+    "major_crops_suited": [
+      "Ragi (Finger Millet)",
+      "Groundnut",
+      "Pigeon Pea",
+      "Tobacco",
+      "Millets",
+      "Potato"
+    ],
+    "management_tips": "Apply agricultural lime if pH < 5.5; incorporate FYM to improve moisture holding capacity."
+  },
+  {
+    "soil_group": "Laterite Soil",
+    "coverage_percent_india": 4.3,
+    "distribution_states": [
+      "Western Ghats",
+      "Kerala",
+      "Coastal Karnataka",
+      "Goa",
+      "Assam hills"
+    ],
+    "texture": "Porous, gravelly loam",
+    "ph_range": [
+      4.5,
+      6.0
+    ],
+    "nitrogen_status": "Low",
+    "phosphorus_status": "Deficient (High P-fixation)",
+    "potassium_status": "Low",
+    "organic_carbon_percent": 0.6,
+    "water_retention_capacity": "Low (High leaching)",
+    "major_crops_suited": [
+      "Cashew",
+      "Arecanut",
+      "Coconut",
+      "Tea",
+      "Coffee",
+      "Rubber",
+      "Pepper"
+    ],
+    "management_tips": "Apply Rock Phosphate instead of DAP to counteract high acidity and phosphorus fixation."
+  }
+]

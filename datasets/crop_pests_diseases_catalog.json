@@ -1,0 +1,84 @@
+{
+  "Rice": {
+    "pests": [
+      {
+        "name": "Yellow Stem Borer",
+        "scientific_name": "Scirpophaga incertulas",
+        "damage_symptoms": "Larva bores into central leaf sheath producing dead hearts in vegetative stage and white ears at panicle stage.",
+        "favorable_conditions": "High humidity (85-95%) and warm temperatures (25-30°C).",
+        "biological_control": "Release egg parasitoid Trichogramma japonicum @ 1,00,000/ha twice at 7 days interval.",
+        "chemical_control": "Chlorantraniliprole 18.5% SC @ 0.3 ml/L or Cartap hydrochloride 50% SP @ 2 g/L."
+      },
+      {
+        "name": "Brown Plant Hopper (BPH)",
+        "scientific_name": "Nilaparvata lugens",
+        "damage_symptoms": "Sucks sap causing circular yellowing patches that dry rapidly, known as hopper burn.",
+        "favorable_conditions": "Submerged water conditions, cloudy skies, high nitrogen fertilization.",
+        "biological_control": "Conserve mirid bugs (Cyrtorhinus lividipennis) and spiders.",
+        "chemical_control": "Pymetrozine 50% WDG @ 0.6 g/L or Dinotefuran 20% SG @ 0.4 g/L."
+      }
+    ],
+    "diseases": [
+      {
+        "name": "Rice Blast",
+        "pathogen": "Magnaporthe oryzae (Pyricularia oryzae)",
+        "damage_symptoms": "Spindle-shaped spots on leaves with grey centers and brown margins; nodal and neck rotting.",
+        "favorable_conditions": "Intermittent drizzles, cloudy weather, high relative humidity (>90%), cool nights (18-20°C).",
+        "biological_control": "Seed treatment with Pseudomonas fluorescens @ 10 g/kg seed.",
+        "chemical_control": "Tricyclazole 75% WP @ 0.6 g/L or Isoprothiolane 40% EC @ 1.5 ml/L."
+      },
+      {
+        "name": "Bacterial Leaf Blight (BLB)",
+        "pathogen": "Xanthomonas oryzae pv. oryzae",
+        "damage_symptoms": "Water-soaked lesions on leaf margins enlarging into wavy yellow-white stripes; bacterial ooze beads on leaves.",
+        "favorable_conditions": "Strong winds, severe rainstorms, temperatures of 25-34°C with 70% RH.",
+        "biological_control": "Spray fresh cow dung extract 20% or neem oil 3%.",
+        "chemical_control": "Streptocycline 100 ppm + Copper oxychloride 50 WP @ 2.5 g/L."
+      }
+    ]
+  },
+  "Wheat": {
+    "pests": [
+      {
+        "name": "Wheat Aphids",
+        "scientific_name": "Rhopalosiphum padi",
+        "damage_symptoms": "Nymphs and adults suck sap from tender shoots, leaves, and ears, secreting honeydew causing sooty mold.",
+        "favorable_conditions": "Cloudy, humid weather during January-February.",
+        "biological_control": "Ladybird beetle (Coccinella septempunctata) predators.",
+        "chemical_control": "Thiamethoxam 25% WG @ 0.2 g/L or Dimethoate 30% EC @ 1.5 ml/L."
+      }
+    ],
+    "diseases": [
+      {
+        "name": "Yellow Rust (Stripe Rust)",
+        "pathogen": "Puccinia striiformis",
+        "damage_symptoms": "Yellowish uredinial pustules arranged in linear stripes along veins of leaf blades.",
+        "favorable_conditions": "Cool temperatures (10-15°C) coupled with high humidity/dew.",
+        "biological_control": "Grow rust-resistant cultivars (HD-2967, PBW-550, WH-1105).",
+        "chemical_control": "Propiconazole 25% EC (Tilt) @ 1 ml/L."
+      }
+    ]
+  },
+  "Cotton": {
+    "pests": [
+      {
+        "name": "Pink Bollworm",
+        "scientific_name": "Pectinophora gossypiella",
+        "damage_symptoms": "Larvae bore into flower buds causing rosette flowers; bore into bolls staining lint.",
+        "favorable_conditions": "Continuous warm, dry weather during boll formation.",
+        "biological_control": "Pheromone traps (Gossyplure) @ 12 traps/ha.",
+        "chemical_control": "Profenofos 50% EC @ 2 ml/L or Emamectin benzoate 5% SG @ 0.4 g/L."
+      }
+    ],
+    "diseases": [
+      {
+        "name": "Cotton Leaf Curl Virus (CLCuV)",
+        "pathogen": "Begomovirus (transmitted by Bemisia tabaci)",
+        "damage_symptoms": "Upward/downward leaf curling, thickening of veins, and enations on the undersurface of leaves.",
+        "favorable_conditions": "Abundant whitefly vector populations in high temperature and dry spells.",
+        "biological_control": "Yellow sticky traps @ 25/ha for monitoring and trapping whitefly vectors.",
+        "chemical_control": "Control vector with Diafenthiuron 50% WP @ 1.2 g/L."
+      }
+    ]
+  }
+}

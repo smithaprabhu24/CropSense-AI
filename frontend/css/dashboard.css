@@ -1,0 +1,381 @@
+/**
+ * CropSense AI – Dashboard Page Styles
+ * Stats overview cards and quick-action grid.
+ */
+.dashboard__welcome {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  color: #fff;
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  margin-bottom: var(--space-lg);
+}
+.dashboard__welcome h2 {
+  color: #fff;
+  font-size: var(--text-2xl);
+  margin-bottom: var(--space-xs);
+}
+.dashboard__welcome p {
+  color: rgba(255,255,255,0.85);
+  font-size: var(--text-sm);
+}
+.dashboard__quick {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: var(--space-md);
+  margin-top: var(--space-lg);
+}
+.quick-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg) var(--space-md);
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  transition: all var(--transition-base);
+  border: 2px solid transparent;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+}
+.quick-card:hover, .quick-card:focus-visible {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-accent);
+}
+.quick-card:active { transform: scale(0.97); }
+.quick-card svg { width: 36px; height: 36px; }
+.quick-card span {
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text);
+}
+
+/* ── Crop Result Items ───────────────────────────────────── */
+.crop-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+.crop-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  background: var(--color-bg-section);
+  border-radius: var(--radius-md);
+}
+.crop-item__rank {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: var(--text-sm);
+  flex-shrink: 0;
+}
+.crop-item__info { flex: 1; min-width: 0; }
+.crop-item__name {
+  font-weight: 600;
+  font-size: var(--text-base);
+}
+.crop-item__meta {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+}
+.crop-item__score {
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+/* ── Score Bar ────────────────────────────────────────────── */
+.score-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--color-border);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: var(--space-xs);
+}
+.score-bar__fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+  border-radius: 4px;
+  transition: width 0.6s ease;
+}
+
+/* ── Risk Severity Badges ────────────────────────────────── */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.badge--low { background: #E8F5E9; color: #2E7D32; }
+.badge--medium { background: #FFF3E0; color: #E65100; }
+.badge--high { background: #FFEBEE; color: #C62828; }
+.badge--critical { background: #D32F2F; color: #fff; }
+
+/* ── Weather Card ────────────────────────────────────────── */
+.weather-current {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xl);
+  padding: var(--space-lg);
+  background: linear-gradient(135deg, #E3F2FD, #F1F8E9);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-lg);
+}
+.weather-current__temp {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--color-text);
+  font-family: var(--font-heading);
+}
+.weather-current__condition {
+  font-size: var(--text-lg);
+  font-weight: 500;
+}
+.weather-current__details {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+.forecast-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: var(--space-md);
+}
+.forecast-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+}
+.forecast-card__day {
+  font-weight: 600;
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-xs);
+}
+.forecast-card__temp {
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-primary);
+}
+.forecast-card__rain {
+  font-size: var(--text-xs);
+  color: var(--color-info);
+  margin-top: var(--space-xs);
+}
+
+/* ── Market Price Cards ──────────────────────────────────── */
+.price-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: var(--space-md);
+}
+.price-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  box-shadow: var(--shadow-sm);
+}
+.price-card__commodity {
+  font-weight: 600;
+  font-size: var(--text-lg);
+  margin-bottom: var(--space-xs);
+}
+.price-card__market {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-md);
+}
+.price-card__price {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--color-text);
+  font-family: var(--font-heading);
+}
+.price-card__unit {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+}
+.price-card__trend {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  margin-top: var(--space-sm);
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+}
+.price-card__trend--up { color: #2E7D32; background: #E8F5E9; }
+.price-card__trend--down { color: #C62828; background: #FFEBEE; }
+.price-card__trend--stable { color: #F57C00; background: #FFF3E0; }
+.price-card__range {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  margin-top: var(--space-sm);
+}
+
+/* ── Calendar ────────────────────────────────────────────── */
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+  margin-top: var(--space-md);
+}
+.calendar-day-header {
+  text-align: center;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  padding: var(--space-sm);
+}
+.calendar-day {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+.calendar-day:hover { background: var(--color-bg-section); }
+.calendar-day.is-today {
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+}
+.calendar-day.has-event {
+  position: relative;
+}
+.calendar-day.has-event::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--color-secondary);
+}
+.calendar-events {
+  margin-top: var(--space-lg);
+}
+.event-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  border-left: 3px solid var(--color-primary);
+  background: var(--color-bg);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin-bottom: var(--space-sm);
+}
+.event-item__date {
+  font-weight: 600;
+  font-size: var(--text-sm);
+  color: var(--color-primary);
+  min-width: 60px;
+}
+.event-item__text {
+  font-size: var(--text-sm);
+  color: var(--color-text);
+}
+
+/* ── Chart placeholder ───────────────────────────────────── */
+.chart-container {
+  width: 100%;
+  height: 250px;
+  background: var(--color-bg-section);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: flex-end;
+  padding: var(--space-md);
+  gap: 4px;
+  overflow: hidden;
+}
+.chart-bar {
+  flex: 1;
+  background: linear-gradient(to top, var(--color-primary), var(--color-secondary));
+  border-radius: 4px 4px 0 0;
+  min-width: 8px;
+  transition: height 0.6s ease;
+  position: relative;
+}
+.chart-bar:hover { opacity: 0.8; }
+
+/* ── Profile ─────────────────────────────────────────────── */
+.profile-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-lg);
+  padding: var(--space-xl);
+  box-shadow: var(--shadow-sm);
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.profile-card__avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  margin: 0 auto var(--space-md);
+}
+.profile-card__name {
+  font-size: var(--text-xl);
+  font-weight: 600;
+  margin-bottom: var(--space-xs);
+}
+.profile-card__detail {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-xs);
+}
+
+/* ── Health Score ─────────────────────────────────────────── */
+.health-score {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: conic-gradient(var(--color-primary) calc(var(--score, 75) * 3.6deg), var(--color-border) 0deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+  position: relative;
+}
+.health-score::after {
+  content: '';
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: var(--color-bg);
+  position: absolute;
+}
+.health-score__value {
+  position: relative;
+  z-index: 1;
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  color: var(--color-primary);
+  font-family: var(--font-heading);
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Farmer Portal – CropSense AI</title>
+  <meta name="theme-color" content="#2E7D32">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/svg/icon-192.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600&family=Noto+Sans+Telugu:wght@400;500;600&family=Noto+Sans+Devanagari:wght@400;500;600&family=Noto+Sans+Tamil:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/portal.css">
+  <link rel="stylesheet" href="css/sidebar.css">
+  <link rel="stylesheet" href="css/dashboard.css">
+  <link rel="stylesheet" href="css/simple-mode.css">
+  <link rel="stylesheet" href="css/chat.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+<div id="portal-container" class="portal">
+
+  <!-- Sidebar (Desktop) -->
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar__header"><span class="sidebar__logo">🌱 CropSense AI</span></div>
+    <nav class="sidebar__nav">
+      <button class="sidebar__link is-active" data-page="dashboard"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z" fill="currentColor"/></svg><span data-i18n="portal.dashboard">Dashboard</span></button>
+      <button class="sidebar__link" data-page="crop"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66.95-2.3c.48.17.98.3 1.34.3C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z" fill="currentColor"/></svg><span data-i18n="portal.crop">Crop Advice</span></button>
+      <button class="sidebar__link" data-page="yield"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M5 9.2h3V19H5zM10.6 5h2.8v14h-2.8zm5.6 8H19v6h-2.8z" fill="currentColor"/></svg><span data-i18n="portal.yield">Yield Prediction</span></button>
+      <button class="sidebar__link" data-page="irrigation"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 2c-5.33 4.55-8 8.48-8 11.8 0 4.98 3.8 8.2 8 8.2s8-3.22 8-8.2C20 10.48 17.33 6.55 12 2z" fill="currentColor"/></svg><span data-i18n="portal.irrigation">Irrigation</span></button>
+      <button class="sidebar__link" data-page="fertilizer"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h16v12z" fill="currentColor"/><path d="M7 15h2v2H7zm4-4h2v6h-2zm4-2h2v8h-2z" fill="currentColor"/></svg><span data-i18n="portal.fertilizer">Fertilizer</span></button>
+      <button class="sidebar__link" data-page="risk"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z" fill="currentColor"/></svg><span data-i18n="portal.risk">Risk Alerts</span></button>
+      <button class="sidebar__link" data-page="weather"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79zM4 10.5H1v2h3zm9-9.95h-2V3.5h2zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41zM20 10.5v2h3v-2zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm0 10c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm-1 4h2v2.95h-2z" fill="currentColor"/></svg><span data-i18n="portal.weather">Weather</span></button>
+      <button class="sidebar__link" data-page="market"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" fill="currentColor"/></svg><span data-i18n="portal.market">Market Prices</span></button>
+      <button class="sidebar__link" data-page="health"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z" fill="currentColor"/></svg><span data-i18n="portal.health">Farm Health</span></button>
+      <button class="sidebar__link" data-page="calendar"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM9 10H7v2h2v-2zm4 0h-2v2h2v-2zm4 0h-2v2h2v-2z" fill="currentColor"/></svg><span data-i18n="portal.calendar">Calendar</span></button>
+    </nav>
+    <div class="sidebar__footer">
+      <button class="sidebar__link" data-page="profile"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" fill="currentColor"/></svg><span data-i18n="portal.profile">Profile</span></button>
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="portal__main">
+    <header id="topbar" class="topbar">
+      <div class="topbar__left">
+        <button id="sidebar-toggle" class="topbar__burger" aria-label="Toggle menu"><span></span><span></span><span></span></button>
+        <h2 id="page-title" class="topbar__title" data-i18n="portal.dashboard">Dashboard</h2>
+      </div>
+      <div class="topbar__right">
+        <select id="portal-lang" class="topbar__lang" aria-label="Language"><option value="en">EN</option><option value="kn">ಕನ್ನ</option><option value="te">తెలు</option><option value="hi">हिं</option><option value="ta">தமி</option></select>
+        <button id="mode-switch" class="btn btn--ghost btn--sm" title="Switch to Simple Mode" data-i18n="portal.simple_mode">Simple</button>
+        <button id="help-btn" class="topbar__icon" aria-label="Help"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H8c0-2.21 1.79-4 4-4s4 1.79 4 4c0 .88-.36 1.68-.93 2.25z" fill="currentColor"/></svg></button>
+        <div id="user-avatar" class="topbar__avatar" role="button" aria-label="User profile" tabindex="0"><span id="avatar-letter">F</span></div>
+      </div>
+    </header>
+
+    <div id="page-container" class="portal__pages">
+      <div id="page-content"></div>
+    </div>
+  </main>
+
+  <!-- Bottom Navigation (Mobile) -->
+  <nav id="bottom-nav" class="bottom-nav">
+    <button class="bottom-nav__item is-active" data-page="dashboard" aria-label="Dashboard"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z" fill="currentColor"/></svg><span>Home</span></button>
+    <button class="bottom-nav__item" data-page="crop" aria-label="Crop"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M17 8C8 10 5.9 16.17 3.82 21.34l1.89.66.95-2.3c.48.17.98.3 1.34.3C19 20 22 3 22 3c-1 2-8 2.25-13 3.25S2 11.5 2 13.5s1.75 3.75 1.75 3.75C7 8 17 8 17 8z" fill="currentColor"/></svg><span>Crops</span></button>
+    <button class="bottom-nav__item" data-page="weather" aria-label="Weather"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79zM4 10.5H1v2h3zm9-9.95h-2V3.5h2zM20 10.5v2h3v-2zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm0 10c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm-1 4h2v2.95h-2z" fill="currentColor"/></svg><span>Weather</span></button>
+    <button class="bottom-nav__item" data-page="market" aria-label="Market"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z" fill="currentColor"/></svg><span>Market</span></button>
+    <button class="bottom-nav__item" data-page="profile" aria-label="Profile"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" fill="currentColor"/></svg><span>Profile</span></button>
+  </nav>
+
+  <!-- Simple Farmer Mode -->
+  <div id="simple-mode-container" class="simple-mode" style="display:none"></div>
+
+  <!-- Chat Widget -->
+  <div id="chat-widget" class="chat-widget">
+    <button id="chat-btn" class="chat-widget__btn" aria-label="AI Assistant"><svg viewBox="0 0 24 24" width="28" height="28"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z" fill="currentColor"/></svg></button>
+    <div id="chat-window" class="chat-window" style="display:none">
+      <div class="chat-window__header"><h3 data-i18n="chat.title">AI Assistant</h3><button id="chat-close" class="chat-window__close" aria-label="Close chat">&times;</button></div>
+      <div id="chat-messages" class="chat-window__messages"><div class="chat-msg chat-msg--bot"><p data-i18n="chat.welcome">Hello! I'm your farming assistant. How can I help?</p></div></div>
+      <div id="chat-suggestions" class="chat-window__suggestions">
+        <button class="chip" data-i18n="chat.suggest_crop">Best crop for my soil?</button>
+        <button class="chip" data-i18n="chat.suggest_weather">Today's weather</button>
+        <button class="chip" data-i18n="chat.suggest_market">Market prices</button>
+      </div>
+      <div class="chat-window__input">
+        <input type="text" id="chat-input" placeholder="Type a message..." autocomplete="off">
+        <button id="chat-voice-btn" class="btn btn--icon" aria-label="Voice input"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/><path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/></svg></button>
+        <button id="chat-send" class="btn btn--primary btn--icon" aria-label="Send"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" fill="currentColor"/></svg></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="toast-container" class="toast-container" aria-live="polite"></div>
+<script type="module" src="js/portal.js"></script>
+</body>
+</html>

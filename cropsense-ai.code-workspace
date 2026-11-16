@@ -1,0 +1,36 @@
+{
+  "folders": [
+    {
+      "name": "🌱 CropSense AI (Root)",
+      "path": "."
+    },
+    {
+      "name": "📊 Agricultural Datasets",
+      "path": "./datasets"
+    },
+    {
+      "name": "⚙️ Backend API & Engines",
+      "path": "./backend"
+    },
+    {
+      "name": "📱 Frontend Mobile PWA",
+      "path": "./frontend"
+    },
+    {
+      "name": "🌐 Multilingual Translations",
+      "path": "./translations"
+    },
+    {
+      "name": "🧪 Test Suite",
+      "path": "./tests"
+    },
+    {
+      "name": "🛠️ Developer Tools",
+      "path": "./tools"
+    }
+  ],
+  "settings": {
+    "explorer.compactFolders": false,
+    "python.analysis.extraPaths": ["${workspaceFolder}"]
+  }
+}
